@@ -1,0 +1,54 @@
+/* Page-specific artwork compositions; the unmodified taste kit owns layout,
+   type, controls, motion, spacing, and responsive behavior. */
+:root {
+  --p-bg: #ffffff; --p-surface: #f0f1ec; --p-ink: #181a17; --p-muted: #5b6058;
+  --p-accent: #303e32; --p-accent-ink: #ffffff; --p-action: #303e32; --p-action-ink: #ffffff;
+  --p-inv-bg: #181a17; --p-inv-surface: #252724; --p-inv-ink: #ffffff; --p-inv-muted: #9e9f9e;
+  --p-inv-accent: #ffffff; --p-inv-accent-ink: #181a17; --p-inv-action: #ffffff; --p-inv-action-ink: #181a17;
+  --font-display: "Red Hat Display", system-ui, sans-serif;
+  --font-text: "Red Hat Text", system-ui, sans-serif;
+  --display-weight: 400; --display-tracking: -0.025em; --display-tracking-xl: -0.035em;
+}
+.wall { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: var(--s-5); min-height: 0; }
+.wall > a, .wall > figure { min-height: 0; overflow: hidden; border-radius: var(--r-lg); margin: 0; }
+.wall img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.work-art { display: block; position: relative; overflow: hidden; border-radius: var(--r-lg); min-height: 0; }
+.work-art > img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.work-art > picture, .wall picture, .frame > picture { display: block; width: 100%; height: 100%; }
+.work-art picture > img, .frame picture > img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.hero__media > picture { position: absolute; inset: 0; width: 100%; height: 100%; }
+.hero__media > picture > img, picture.hero__bg > img { width: 100%; height: 100%; object-fit: cover; }
+.hero__over > :first-child {
+  background: var(--p-bg); color: var(--p-ink);
+  --bg: var(--p-bg); --ink: var(--p-ink); --muted: var(--p-muted);
+  --action: var(--p-action); --action-ink: var(--p-action-ink);
+  --line: color-mix(in oklab,var(--p-ink) 14%,transparent);
+  --line-strong: color-mix(in oklab,var(--p-ink) 30%,transparent);
+}
+.hero__over .hero__lead { color: var(--p-ink); }
+.develop { margin: 0; border-radius: var(--r-lg); overflow: hidden; height: min(560px,var(--ly-fit)); }
+.develop img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.portrait { background: var(--p-surface); }
+.frame.portrait > img { position: absolute; inset: 0; width: 100%; height: 100%; object-position: center bottom; object-fit: contain; }
+.drawing { background: #fff; }
+.drawing > img { object-fit: contain; }
+.drawing picture > img { object-fit: contain; }
+.tools { display: flex; flex-wrap: wrap; gap: var(--s-5); margin-top: var(--s-7); }
+.tools > div { display: flex; align-items: center; gap: var(--s-3); }
+.tools img { width: 40px; height: 40px; object-fit: contain; }
+.work-meta { margin-top: var(--s-5); }
+.work-meta > div { display: flex; justify-content: space-between; gap: var(--s-5); padding-block: var(--s-3); border-bottom: 1px solid var(--line); font-size: var(--t-small); }
+.work-meta dt { color: var(--muted); }
+.work-meta dd { margin: 0; text-align: right; }
+.section-head--split .link { white-space: nowrap; }
+@media(max-width:1023px) {
+  .develop { height: auto; aspect-ratio: 3 / 2; margin-top: var(--s-7); }
+  .wall { gap: var(--s-3); }
+}
+@media(max-width:639px) {
+  .wall { grid-template-columns: minmax(0,1fr); }
+  .wall > :nth-child(2) { display: none; }
+  .work-meta > div { font-size: var(--t-small); }
+  .tools { gap: var(--s-4); margin-top: var(--s-5); }
+  .tools img { width: 32px; height: 32px; }
+}

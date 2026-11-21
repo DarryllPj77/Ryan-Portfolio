@@ -1,0 +1,327 @@
+[
+  {
+    "name": "salupod-aerial",
+    "page": 4,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/salupod-aerial-1280.webp",
+      "media/salupod-aerial-2000.webp",
+      "media/salupod-aerial-640.webp",
+      "media/salupod-aerial-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "salupod-facade",
+    "page": 13,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/salupod-facade-1280.webp",
+      "media/salupod-facade-2000.webp",
+      "media/salupod-facade-640.webp",
+      "media/salupod-facade-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "salupod-atrium",
+    "page": 14,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/salupod-atrium-1280.webp",
+      "media/salupod-atrium-2000.webp",
+      "media/salupod-atrium-640.webp",
+      "media/salupod-atrium-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "salupod-reading",
+    "page": 15,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/salupod-reading-1280.webp",
+      "media/salupod-reading-2000.webp",
+      "media/salupod-reading-640.webp",
+      "media/salupod-reading-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "lakbay-aerial",
+    "page": 19,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/lakbay-aerial-1280.webp",
+      "media/lakbay-aerial-2000.webp",
+      "media/lakbay-aerial-640.webp",
+      "media/lakbay-aerial-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "lakbay-facade",
+    "page": 30,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/lakbay-facade-1280.webp",
+      "media/lakbay-facade-2000.webp",
+      "media/lakbay-facade-640.webp",
+      "media/lakbay-facade-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "lakbay-courtyard",
+    "page": 31,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/lakbay-courtyard-1280.webp",
+      "media/lakbay-courtyard-2000.webp",
+      "media/lakbay-courtyard-640.webp",
+      "media/lakbay-courtyard-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "lakbay-campus",
+    "page": 32,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/lakbay-campus-1280.webp",
+      "media/lakbay-campus-2000.webp",
+      "media/lakbay-campus-640.webp",
+      "media/lakbay-campus-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "dalawit-aerial",
+    "page": 36,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/dalawit-aerial-1280.webp",
+      "media/dalawit-aerial-2000.webp",
+      "media/dalawit-aerial-640.webp",
+      "media/dalawit-aerial-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "dalawit-interior",
+    "page": 42,
+    "embedded_image": "X7.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/dalawit-interior-1280.webp",
+      "media/dalawit-interior-2000.webp",
+      "media/dalawit-interior-640.webp",
+      "media/dalawit-interior-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "dalawit-homes",
+    "page": 43,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/dalawit-homes-1280.webp",
+      "media/dalawit-homes-2000.webp",
+      "media/dalawit-homes-640.webp",
+      "media/dalawit-homes-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "dalawit-shared",
+    "page": 44,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/dalawit-shared-1280.webp",
+      "media/dalawit-shared-2000.webp",
+      "media/dalawit-shared-640.webp",
+      "media/dalawit-shared-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "dalawit-street",
+    "page": 45,
+    "embedded_image": "X4.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/dalawit-street-1280.webp",
+      "media/dalawit-street-2000.webp",
+      "media/dalawit-street-640.webp",
+      "media/dalawit-street-phone.webp"
+    ],
+    "phone_variant": "center crop from the supplied original; resized without upscaling"
+  },
+  {
+    "name": "portrait",
+    "page": 49,
+    "embedded_image": "X6.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/portrait-640.webp"
+    ]
+  },
+  {
+    "name": "autocad",
+    "page": 49,
+    "embedded_image": "X8.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/autocad-160.webp"
+    ]
+  },
+  {
+    "name": "revit",
+    "page": 49,
+    "embedded_image": "X10.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/revit-160.webp"
+    ]
+  },
+  {
+    "name": "d5-render",
+    "page": 49,
+    "embedded_image": "X12.png",
+    "method": "original embedded image extracted; resized and WebP encoded",
+    "outputs": [
+      "media/d5-render-160.webp"
+    ]
+  },
+  {
+    "name": "salupod-site",
+    "page": 7,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/salupod-site-1280.webp",
+      "media/salupod-site-2400.webp",
+      "media/salupod-site-640.webp"
+    ]
+  },
+  {
+    "name": "salupod-plan",
+    "page": 9,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/salupod-plan-1280.webp",
+      "media/salupod-plan-2400.webp",
+      "media/salupod-plan-640.webp"
+    ]
+  },
+  {
+    "name": "salupod-elevations",
+    "page": 16,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/salupod-elevations-1280.webp",
+      "media/salupod-elevations-2400.webp",
+      "media/salupod-elevations-640.webp"
+    ]
+  },
+  {
+    "name": "salupod-section",
+    "page": 17,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/salupod-section-1280.webp",
+      "media/salupod-section-2400.webp",
+      "media/salupod-section-640.webp"
+    ]
+  },
+  {
+    "name": "lakbay-site",
+    "page": 22,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/lakbay-site-1280.webp",
+      "media/lakbay-site-2400.webp",
+      "media/lakbay-site-640.webp"
+    ]
+  },
+  {
+    "name": "lakbay-plan",
+    "page": 24,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/lakbay-plan-1280.webp",
+      "media/lakbay-plan-2400.webp",
+      "media/lakbay-plan-640.webp"
+    ]
+  },
+  {
+    "name": "lakbay-elevations",
+    "page": 33,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/lakbay-elevations-1280.webp",
+      "media/lakbay-elevations-2400.webp",
+      "media/lakbay-elevations-640.webp"
+    ]
+  },
+  {
+    "name": "lakbay-section",
+    "page": 34,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/lakbay-section-1280.webp",
+      "media/lakbay-section-2400.webp",
+      "media/lakbay-section-640.webp"
+    ]
+  },
+  {
+    "name": "dalawit-site",
+    "page": 39,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/dalawit-site-1280.webp",
+      "media/dalawit-site-2400.webp",
+      "media/dalawit-site-640.webp"
+    ]
+  },
+  {
+    "name": "dalawit-plan",
+    "page": 40,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/dalawit-plan-1280.webp",
+      "media/dalawit-plan-2400.webp",
+      "media/dalawit-plan-640.webp"
+    ]
+  },
+  {
+    "name": "dalawit-elevations",
+    "page": 46,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/dalawit-elevations-1280.webp",
+      "media/dalawit-elevations-2400.webp",
+      "media/dalawit-elevations-640.webp"
+    ]
+  },
+  {
+    "name": "dalawit-section",
+    "page": 47,
+    "method": "full drawing sheet rendered with Poppler; annotations retained",
+    "outputs": [
+      "media/dalawit-section-1280.webp",
+      "media/dalawit-section-2400.webp",
+      "media/dalawit-section-640.webp"
+    ]
+  }
+]

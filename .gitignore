@@ -1,0 +1,14 @@
+# Local validation output and isolated browser profiles
+/.taste-skill/
+/shots/
+
+# Local dependencies, temporary files, and editor state
+/node_modules/
+/.vscode/
+/.idea/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
