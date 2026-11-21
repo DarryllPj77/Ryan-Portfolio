@@ -1,0 +1,12 @@
+[
+  {
+    "check": "container-edges",
+    "target": "ol.source-keywords > li:nth-of-type(1)",
+    "reason": "This is the original ordered keyword list. Its text is intentionally indented after the visible number markers, while the list and its markers follow the page container. It is standard list indentation, not a misplaced content column. All source keywords and their order must be preserved."
+  },
+  {
+    "check": "no-visual",
+    "target": "section#control-values",
+    "reason": "This section is the complete original ten-row required-versus-actual architectural control table, with setbacks. The table itself is the technical evidence, rather than a marketing feature that needs a photograph. The client explicitly requires the whole table on desktop and mobile; adding decorative artwork would reduce its reading space."
+  }
+]

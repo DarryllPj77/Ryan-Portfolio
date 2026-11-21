@@ -47,7 +47,6 @@
 }
 @media(max-width:639px) {
   .wall { grid-template-columns: minmax(0,1fr); }
-  .wall > :nth-child(2) { display: none; }
   .work-meta > div { font-size: var(--t-small); }
   .tools { gap: var(--s-4); margin-top: var(--s-5); }
   .tools img { width: 32px; height: 32px; }

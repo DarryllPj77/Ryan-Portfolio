@@ -1,0 +1,5514 @@
+[
+  {
+    "slug": "salupod",
+    "code": "SAL",
+    "name": "Salupod",
+    "start": 3,
+    "end": 17,
+    "concept": 4,
+    "features": 5,
+    "controls": 6,
+    "elevations": 16,
+    "sections": 17,
+    "narrative": 13,
+    "title": "Salupod: The Community Core",
+    "plans": {
+      "7": "Site development plan",
+      "8": "Plan on site",
+      "9": "Second floor plan - Area A",
+      "10": "Second floor plan - Area B",
+      "11": "Third floor plan - Area A",
+      "12": "Third floor plan - Area B"
+    },
+    "perspectives": [
+      13,
+      14,
+      15
+    ],
+    "materials": {
+      "2": "Perforated metal panels",
+      "3": "Permeable pavement",
+      "4": "Wood cladding",
+      "5": "Natural stone finish",
+      "6": "Low-E glass"
+    },
+    "feature_indices": [
+      0,
+      1
+    ],
+    "alt": {
+      "0": "Landscaped central gathering space",
+      "1": "Library facade and planting"
+    },
+    "pages": [
+      {
+        "id": "SAL-P03-SHEET",
+        "page": 3,
+        "text": "01\nCOMMUNITY LIBRARY\n01",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p03-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p03-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p03-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P03-I01",
+            "page": 3,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              3456,
+              1944
+            ],
+            "bbox": [
+              -147.73628264432128,
+              -7.829981299999986,
+              1348.2127190244678,
+              833.846815630132
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p03-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p03-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p03-i01-full.webp",
+                "width": 3456,
+                "height": 1944
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P04-SHEET",
+        "page": 4,
+        "text": "RYAN CHRISTIAN G. LADESMA\nsalupod.\nProject Title: Proposed Community Library\nLocation: Brgy. Santor, Malolos Bulacan\nSoftware: Autocad / Revit / D5\nSALUPOD is derived from the Filipino\nwords Salubong, meaning a meeting or\ncoming together, and Pusod, meaning the\ncenter or core. Together, these words\nexpress the idea of a community library as a\ncentral place where people, knowledge,\nand nature converge. The concept focuses\non creating a welcoming environment that\nencourages learning, reflection, and\nmeaningful social interaction. A landscaped\ncentral atrium serves as the heart of the\nbuilding, connecting different spaces and\nestablishing a sense of unity throughout the\ndesign. Through interconnected spaces,\nnatural elements, and a balance between\nquiet and communal areas, SALUPOD\npromotes an atmosphere where individuals\ncan pursue knowledge while remaining\nconnected to others. Ultimately, the\nconcept envisions the library as more than a\nplace for books and research; it becomes a\nshared community space that nurtures\nlearning, strengthens relationships, and\nfosters a lasting sense of belonging.\nKeywords:\n1.Wisdom 6.Core\n2.Connection 7.Inclusivity\n3.Gathering 8.Convergence\n4.Beacon 9.Exchange\n5.Orbit\nSalupod: The Community Core\n02",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p04-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p04-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p04-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P04-I01",
+            "page": 4,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              -96.2642911889877,
+              -7.829981299999986,
+              878.4893321962762,
+              540.602803848633
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p04-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p04-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p04-i01-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P04-I02",
+            "page": 4,
+            "index": 1,
+            "embedded_name": "X7.png",
+            "source_size": [
+              410,
+              415
+            ],
+            "bbox": [
+              446.371397401191,
+              607.0632698794468,
+              616.5783247092354,
+              779.519625893765
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p04-i02-640.webp",
+                "width": 410,
+                "height": 415
+              },
+              "1280": {
+                "path": "media/complete/sal-p04-i02-1280.webp",
+                "width": 410,
+                "height": 415
+              },
+              "full": {
+                "path": "media/complete/sal-p04-i02-full.webp",
+                "width": 410,
+                "height": 415
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P04-I03",
+            "page": 4,
+            "index": 2,
+            "embedded_name": "X9.png",
+            "source_size": [
+              438,
+              384
+            ],
+            "bbox": [
+              228.4147032827203,
+              615.7306319183068,
+              438.361565734934,
+              799.4341290639941
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p04-i03-640.webp",
+                "width": 438,
+                "height": 384
+              },
+              "1280": {
+                "path": "media/complete/sal-p04-i03-1280.webp",
+                "width": 438,
+                "height": 384
+              },
+              "full": {
+                "path": "media/complete/sal-p04-i03-full.webp",
+                "width": 438,
+                "height": 384
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P04-I04",
+            "page": 4,
+            "index": 3,
+            "embedded_name": "X11.png",
+            "source_size": [
+              464,
+              365
+            ],
+            "bbox": [
+              633.9247655864671,
+              603.9531436090354,
+              866.3659271014183,
+              787.656657554722
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p04-i04-640.webp",
+                "width": 464,
+                "height": 365
+              },
+              "1280": {
+                "path": "media/complete/sal-p04-i04-1280.webp",
+                "width": 464,
+                "height": 365
+              },
+              "full": {
+                "path": "media/complete/sal-p04-i04-full.webp",
+                "width": 464,
+                "height": 365
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ],
+        "diagram": {
+          "id": "SAL-P04-DIAGRAM",
+          "page": 4,
+          "outputs": {
+            "640": {
+              "path": "media/complete/sal-concept-sequence-640.webp",
+              "width": 640,
+              "height": 201
+            },
+            "1280": {
+              "path": "media/complete/sal-concept-sequence-1280.webp",
+              "width": 1280,
+              "height": 401
+            },
+            "full": {
+              "path": "media/complete/sal-concept-sequence-full.webp",
+              "width": 2440,
+              "height": 765
+            }
+          },
+          "method": "rendered complete concept sequence including vector arrows and source sketches"
+        }
+      },
+      {
+        "id": "SAL-P05-SHEET",
+        "page": 5,
+        "text": "RYAN CHRISTIAN G. LADESMA\nDESIGN FEATURES\nPERMEABLE\nNATURAL STONE FINISH\nPAVEMENT\nCENTRAL GATHERING SPACE\nPERFORATED\nMETAL PANELS\nMATERIAL CONCEPT\nLOW-E GLASS WOOD CLADDING\n03",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p05-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p05-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p05-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P05-I01",
+            "page": 5,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              959,
+              540
+            ],
+            "bbox": [
+              83.521724519928,
+              51.307516235937555,
+              614.387398400524,
+              350.48180057034176
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p05-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p05-i01-1280.webp",
+                "width": 959,
+                "height": 540
+              },
+              "full": {
+                "path": "media/complete/sal-p05-i01-full.webp",
+                "width": 959,
+                "height": 540
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P05-I02",
+            "page": 5,
+            "index": 1,
+            "embedded_name": "X6.png",
+            "source_size": [
+              1536,
+              864
+            ],
+            "bbox": [
+              4.68815908466003,
+              365.24727675511366,
+              687.7652106231151,
+              749.8999071279201
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p05-i02-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p05-i02-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p05-i02-full.webp",
+                "width": 1536,
+                "height": 864
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P05-I03",
+            "page": 5,
+            "index": 2,
+            "embedded_name": "X7.png",
+            "source_size": [
+              576,
+              768
+            ],
+            "bbox": [
+              628.65045380623,
+              297.7692155666996,
+              855.8429499398756,
+              600.692561344893
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p05-i03-640.webp",
+                "width": 576,
+                "height": 768
+              },
+              "1280": {
+                "path": "media/complete/sal-p05-i03-1280.webp",
+                "width": 576,
+                "height": 768
+              },
+              "full": {
+                "path": "media/complete/sal-p05-i03-full.webp",
+                "width": 576,
+                "height": 768
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P05-I04",
+            "page": 5,
+            "index": 3,
+            "embedded_name": "X8.png",
+            "source_size": [
+              512,
+              368
+            ],
+            "bbox": [
+              796.285094821453,
+              70.39700744054198,
+              1102.207679674678,
+              290.09139268660886
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p05-i04-640.webp",
+                "width": 512,
+                "height": 368
+              },
+              "1280": {
+                "path": "media/complete/sal-p05-i04-1280.webp",
+                "width": 512,
+                "height": 368
+              },
+              "full": {
+                "path": "media/complete/sal-p05-i04-full.webp",
+                "width": 512,
+                "height": 368
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P05-I05",
+            "page": 5,
+            "index": 4,
+            "embedded_name": "X9.png",
+            "source_size": [
+              569,
+              780
+            ],
+            "bbox": [
+              814.529150061284,
+              300.23681386388307,
+              1142.1962260084886,
+              749.373155149868
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p05-i05-640.webp",
+                "width": 569,
+                "height": 780
+              },
+              "1280": {
+                "path": "media/complete/sal-p05-i05-1280.webp",
+                "width": 569,
+                "height": 780
+              },
+              "full": {
+                "path": "media/complete/sal-p05-i05-full.webp",
+                "width": 569,
+                "height": 780
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P05-I06",
+            "page": 5,
+            "index": 5,
+            "embedded_name": "X10.png",
+            "source_size": [
+              432,
+              432
+            ],
+            "bbox": [
+              632.2584696558961,
+              69.78126106619823,
+              855.7019019457526,
+              293.2246933560548
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p05-i06-640.webp",
+                "width": 432,
+                "height": 432
+              },
+              "1280": {
+                "path": "media/complete/sal-p05-i06-1280.webp",
+                "width": 432,
+                "height": 432
+              },
+              "full": {
+                "path": "media/complete/sal-p05-i06-full.webp",
+                "width": 432,
+                "height": 432
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P05-I07",
+            "page": 5,
+            "index": 6,
+            "embedded_name": "X11.png",
+            "source_size": [
+              820,
+              820
+            ],
+            "bbox": [
+              467.216980532625,
+              442.74740392594146,
+              855.6186723492204,
+              831.1490957425369
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p05-i07-640.webp",
+                "width": 640,
+                "height": 640
+              },
+              "1280": {
+                "path": "media/complete/sal-p05-i07-1280.webp",
+                "width": 820,
+                "height": 820
+              },
+              "full": {
+                "path": "media/complete/sal-p05-i07-full.webp",
+                "width": 820,
+                "height": 820
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P06-SHEET",
+        "page": 6,
+        "text": "RYAN CHRISTIAN G. LADESMA\nDEVELOPMENT CONTROLS\nRequired Datas Actual Datas\nAMBF 6,158.55 sqm AMBF 3,295.23 sqm\nPSO 50% PSO 26.75%\nISA 2,462.42 sqm ISA 2,774.32 sqm\nUSA 3,695.13 sqm USA 3,384.24 sqm\nTotal Lot Area (TLA) = 12,317.11 sqm\nZoning Classification = General Institutional\nTOSL 6,157.55 sqm TOSL 6,158.56 sqm Occupancy = Group C\nType of Construction = Type II Construction\nMACA 8,620.97 sqm MACA 6,069.14 sqm Fire Zone Classification = Fire Zone No. 2\nRequired Parking Slots = 62 slots\nProvided Parking Slots = 63 slots\nGFA 30,797.77 sqm GFA 9,543.94 sqm\nFAR 2.50 FAR 0.77\nSetbacks:\nFront = 5m , Side = 2m , Rear = 2m\nMABH 45 meters MABH 16.70 meters\nBHL 45 meters BHL 16.70 meters\n04",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p06-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p06-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p06-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P06-I01",
+            "page": 6,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              -103.9099684704178,
+              341.3949641489602,
+              1294.486189263073,
+              1127.945827376006
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p06-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p06-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p06-i01-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P07-SHEET",
+        "page": 7,
+        "text": "RYAN CHRISTIAN G. LADESMA\n1 SITE DEVELOPMENT PLAN\nA-1 SCALE 1:750\n05",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p07-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p07-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p07-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P07-I01",
+            "page": 7,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              2688,
+              1792
+            ],
+            "bbox": [
+              102.4545653310596,
+              -329.0781423146593,
+              1078.7074926538526,
+              1135.3012606695297
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p07-i01-640.webp",
+                "width": 640,
+                "height": 427
+              },
+              "1280": {
+                "path": "media/complete/sal-p07-i01-1280.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "full": {
+                "path": "media/complete/sal-p07-i01-full.webp",
+                "width": 2688,
+                "height": 1792
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling; displayed derivative preserves the PDF placement rotation",
+            "display_outputs": {
+              "640": {
+                "path": "media/complete/sal-p07-i01-placed-640.webp",
+                "width": 640,
+                "height": 552
+              },
+              "1280": {
+                "path": "media/complete/sal-p07-i01-placed-1280.webp",
+                "width": 1280,
+                "height": 1104
+              },
+              "full": {
+                "path": "media/complete/sal-p07-i01-placed-full.webp",
+                "width": 2789,
+                "height": 2406
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "SAL-P08-SHEET",
+        "page": 8,
+        "text": "RYAN CHRISTIAN G. LADESMA\n7\nMETERS\nWIDE\nMINOR\nROAD\n16\n15\n19.90°\n14\n68.83° 18.00° 23.32°\nUP\n19.17°\n13\n1\n7\n1 UP UP .3 7 ° 1 1 12\n9\n.4\n8\n°\n2\n1. 1\n5°\nUP UP\nUP 5.10 1\n7 .3\n7 °\n4 11\n2 2 .8\n4\n° 7°\n2 1 .6 UP 1 9. 1\n9\n°\n36.00°\n3\n17.84°\nUP\n23.09°\n10\n7 18.28° 17.97°\nM\nE\n4 18.28° U\n18\nP\n.28°\n18.28°\nT\nE 108.95° 9\nR UP 5 8\nS\nW\nParking Area\n6 7\nI\nD\nE\nM WIDE\nRRO W\nI\nN\nMETERS\nO 15\nR\nR\nO\nA\nD\n1 PLAN ON SITE\nA-2 SCALE 1:750\n06",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p08-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p08-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p08-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P08-I01",
+            "page": 8,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.00021003376458,
+              -7.829981299999986,
+              1189.2931285215577,
+              833.346439650981
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p08-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/sal-p08-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/sal-p08-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P09-SHEET",
+        "page": 9,
+        "text": "RYAN CHRISTIAN G. LADESMA\n15\n16\n14\nDN\nUP\nUTILITY MECHANICAL 13\nROOM ROOM\nATRIUM\nRESTROOM\nDISCUSSION\nROOMS\nDN\n1\n12\nPRIVATE\nMEETING\nROOM\nMAIN\nREADING\nAREA\nRESTROOM\nDN UP\n1 SECOND FLOOR PLAN - AREA A\nA-3 SCALE 1:250\n07",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p09-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p09-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p09-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P09-I01",
+            "page": 9,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              4994,
+              3541
+            ],
+            "bbox": [
+              -4.001090521287887,
+              -12.03084512496389,
+              1194.1956915538442,
+              838.2539594465011
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p09-i01-640.webp",
+                "width": 640,
+                "height": 454
+              },
+              "1280": {
+                "path": "media/complete/sal-p09-i01-1280.webp",
+                "width": 1280,
+                "height": 908
+              },
+              "full": {
+                "path": "media/complete/sal-p09-i01-full.webp",
+                "width": 4994,
+                "height": 3541
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P10-SHEET",
+        "page": 10,
+        "text": "RYAN CHRISTIAN G. LADESMA\n11\n2\nCOMPUTER\nSTORAGE ROOM\nROOM\nSTAFF COMMUNITY\nOFFICE ACTIVITY\n10\nAREA\n3 DN\nADMIN UP\nOFFICE\nSTORAGE\nROOM\n4\n9\n5\n8\n6 7\n1 SECOND FLOOR PLAN - AREA B\nA-4 SCALE 1:250\n08",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p10-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p10-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p10-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P10-I01",
+            "page": 10,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1917,
+              1360
+            ],
+            "bbox": [
+              1.00021003376458,
+              -7.829981299999986,
+              1199.0468721151515,
+              842.348311275903
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p10-i01-640.webp",
+                "width": 640,
+                "height": 454
+              },
+              "1280": {
+                "path": "media/complete/sal-p10-i01-1280.webp",
+                "width": 1280,
+                "height": 908
+              },
+              "full": {
+                "path": "media/complete/sal-p10-i01-full.webp",
+                "width": 1917,
+                "height": 1360
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P11-SHEET",
+        "page": 11,
+        "text": "RYAN CHRISTIAN G. LADESMA\n15\n16\n14\nDN\nMECHANICAL 13\nUTILITY\nROOM\nROOM\nParking Area\nRESTROOM\nParking Area\n1\n12\nREADING\nAREA\nRESTROOM\nDN\n1 THIRD FLOOR PLAN - AREA A\nA-5 SCALE 1:250\n09",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p11-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p11-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p11-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P11-I01",
+            "page": 11,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.00021003376458,
+              -7.829981299999986,
+              1189.2931285215577,
+              833.346439650981
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p11-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/sal-p11-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/sal-p11-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P12-SHEET",
+        "page": 12,
+        "text": "RYAN CHRISTIAN G. LADESMA\n11\n2\nMEETING\nROOM COMPUTER\nSTORAGE ROOM\nSTAFF\nMAIN\nOFFICE\nREADING 10\nROOM\nDN\n3\nUTILITY MAIN\nROOM ADMIN\nROOM\n4\n9\n5\n8\n6\n7\n1 THIRD FLOOR PLAN - AREA B\nA-6 SCALE 1:250\n10",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p12-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p12-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p12-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P12-I01",
+            "page": 12,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.00021003376458,
+              -7.829981299999986,
+              1189.2931285215577,
+              833.346439650981
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p12-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/sal-p12-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/sal-p12-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P13-SHEET",
+        "page": 13,
+        "text": "PERSPECTIVES\nThe facade features a woven geometric\npattern inspired by traditional Filipino\nweaving. Its interlocking diamond shapes\nsymbolize the connection between people,\nknowledge, and community, reflecting\nSALUPOD's concept of gathering and\nconvergence. The perforated design also\nfilters natural light, reduces direct sunlight,\nand creates a dynamic play of light and\nshadow.\n11",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p13-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p13-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p13-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P13-I01",
+            "page": 13,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1919,
+              1079
+            ],
+            "bbox": [
+              0.0,
+              76.33772719301214,
+              1196.697142137617,
+              749.6672991376121
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p13-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p13-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p13-i01-full.webp",
+                "width": 1919,
+                "height": 1079
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P14-SHEET",
+        "page": 14,
+        "text": "RYAN CHRISTIAN G. LADESMA\n12",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p14-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p14-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p14-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P14-I01",
+            "page": 14,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1151,
+              648
+            ],
+            "bbox": [
+              84.1676772930133,
+              57.75591276725436,
+              712.5086271121393,
+              411.666337220986
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p14-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p14-i01-1280.webp",
+                "width": 1151,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/sal-p14-i01-full.webp",
+                "width": 1151,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P14-I02",
+            "page": 14,
+            "index": 1,
+            "embedded_name": "X6.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              741.947849085505,
+              544.8534244715239,
+              1106.3556067018478,
+              749.5516191424321
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p14-i02-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p14-i02-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/sal-p14-i02-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P14-I03",
+            "page": 14,
+            "index": 2,
+            "embedded_name": "X7.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              741.947849085505,
+              319.54866505922246,
+              1119.8521789394906,
+              531.74495621771
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p14-i03-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p14-i03-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/sal-p14-i03-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P14-I04",
+            "page": 14,
+            "index": 3,
+            "embedded_name": "X8.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              728.9724896261449,
+              87.37894113296136,
+              1118.8738021802562,
+              307.0733551790271
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p14-i04-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p14-i04-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/sal-p14-i04-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P14-I05",
+            "page": 14,
+            "index": 4,
+            "embedded_name": "X9.png",
+            "source_size": [
+              1536,
+              864
+            ],
+            "bbox": [
+              83.0674405388565,
+              395.18815390757703,
+              712.9080302954975,
+              749.848403130066
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p14-i05-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p14-i05-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p14-i05-full.webp",
+                "width": 1536,
+                "height": 864
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P15-SHEET",
+        "page": 15,
+        "text": "13",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p15-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p15-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p15-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P15-I01",
+            "page": 15,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              -40.23974328334396,
+              62.84636775515196,
+              1204.445204854781,
+              763.169098575037
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p15-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p15-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p15-i01-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P16-SHEET",
+        "page": 16,
+        "text": "RYAN CHRISTIAN G. LADESMA\nAPEX\n16.70\nTOB\n12.50\n3RD FCL\n11.90\n3RD FFL\n8.90\n2ND FCL\n8.10\n2ND FFL\n5.10\nGRD FCL\n4.30\nGRD FFL\n0.80\nNGL\n0.00\n1 FRONT ELEVATION\nA-7 SCALE 1:450\nAPEX\n16.70\nTOB\n12.50\n3RD FCL\n11.90\n3RD FFL\n8.90\n2ND FCL\n8.10\n2ND FFL\n5.10\nGRD FCL\n4.30\nGRD FFL\n0.80\nNGL\n0.00\n2 REAR ELEVATION\nA-7 SCALE 1:450\nAPEX\n16.70\nTOB\n12.50\n3RD FCL\n11.90\n3RD FFL\n8.90\n2ND FCL\n8.10\n2ND FFL\n5.10\nGRD FCL\n4.30\nGRD FFL\nLevNeGl 1L 0.80\n00..2000\n3 LEFT-SIDE ELEVATION\nA-7 SCALE 1:450\nAPEX\n16.70\nTOB\n3RD1 2F.C50L\n11.90\n3RD FFL\n2ND 8F.C9L0\n8.10\n2ND FFL\nGRD F5.C1L0\n4.30\nGRD FFL\nLevNeGl 1L 0.80\n00..2000\n4 RIGHT-SIDE ELEVATION\n14\nA-7 SCALE 1:450",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p16-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p16-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p16-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P16-I01",
+            "page": 16,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              8.524355404818509e-14,
+              -7.329653320846887,
+              1188.292918487793,
+              833.8467676301341
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p16-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/sal-p16-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/sal-p16-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P16-I02",
+            "page": 16,
+            "index": 1,
+            "embedded_name": "X34.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              56.815701632679,
+              -309.0863279476516,
+              1288.004058333162,
+              383.7383231846533
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p16-i02-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p16-i02-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p16-i02-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P16-I03",
+            "page": 16,
+            "index": 2,
+            "embedded_name": "X36.png",
+            "source_size": [
+              1920,
+              1080
+            ],
+            "bbox": [
+              139.1924054003162,
+              -28.49818043882499,
+              1173.1808103174642,
+              553.35455531731
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p16-i03-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p16-i03-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p16-i03-full.webp",
+                "width": 1920,
+                "height": 1080
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P16-I04",
+            "page": 16,
+            "index": 3,
+            "embedded_name": "X38.png",
+            "source_size": [
+              1536,
+              864
+            ],
+            "bbox": [
+              211.7538199769238,
+              453.02488749771305,
+              936.0705017970608,
+              860.921646502014
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p16-i04-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p16-i04-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p16-i04-full.webp",
+                "width": 1536,
+                "height": 864
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "SAL-P16-I05",
+            "page": 16,
+            "index": 4,
+            "embedded_name": "X47.png",
+            "source_size": [
+              1920,
+              1080
+            ],
+            "bbox": [
+              40.7622487015729,
+              308.776181508076,
+              1118.239515806685,
+              914.622820264465
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p16-i05-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/sal-p16-i05-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/sal-p16-i05-full.webp",
+                "width": 1920,
+                "height": 1080
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ],
+        "drawings": [
+          {
+            "id": "SAL-P16-D01",
+            "page": 16,
+            "title": "Front elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p16-drawing-1-640.webp",
+                "width": 640,
+                "height": 120
+              },
+              "1280": {
+                "path": "media/complete/sal-p16-drawing-1-1280.webp",
+                "width": 1280,
+                "height": 240
+              },
+              "full": {
+                "path": "media/complete/sal-p16-drawing-1-full.webp",
+                "width": 3332,
+                "height": 625
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "SAL-P16-D02",
+            "page": 16,
+            "title": "Rear elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p16-drawing-2-640.webp",
+                "width": 640,
+                "height": 120
+              },
+              "1280": {
+                "path": "media/complete/sal-p16-drawing-2-1280.webp",
+                "width": 1280,
+                "height": 240
+              },
+              "full": {
+                "path": "media/complete/sal-p16-drawing-2-full.webp",
+                "width": 3332,
+                "height": 626
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "SAL-P16-D03",
+            "page": 16,
+            "title": "Left-side elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p16-drawing-3-640.webp",
+                "width": 640,
+                "height": 118
+              },
+              "1280": {
+                "path": "media/complete/sal-p16-drawing-3-1280.webp",
+                "width": 1280,
+                "height": 235
+              },
+              "full": {
+                "path": "media/complete/sal-p16-drawing-3-full.webp",
+                "width": 3332,
+                "height": 613
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "SAL-P16-D04",
+            "page": 16,
+            "title": "Right-side elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p16-drawing-4-640.webp",
+                "width": 640,
+                "height": 118
+              },
+              "1280": {
+                "path": "media/complete/sal-p16-drawing-4-1280.webp",
+                "width": 1280,
+                "height": 235
+              },
+              "full": {
+                "path": "media/complete/sal-p16-drawing-4-full.webp",
+                "width": 3332,
+                "height": 613
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          }
+        ]
+      },
+      {
+        "id": "SAL-P17-SHEET",
+        "page": 17,
+        "text": "RYAN CHRISTIAN G. LADESMA\nAPEX\n16.70\nTOB\n12.70\n3RD FCL\n11.90\n3RD FFL\n8.90\n2ND FCL\n8.10\n2ND FFL\n5.10\nGRD FCL\n4.30\nGRD FFL\n0.80\nNGL\n0.00\n1 SECTION THRU A\nA-8 SCALE 1:450\nAPEX\n16.70\nTOB\n12.70\n3RD FCL\n11.90\n3RD FFL\n8.90\n2ND FCL\n8.10\n2ND FFL\n5.10\nGRD FCL\n4.30\nGRD FFL\n0.80\nNGL\n0.00\n2 SECTION THRU B\nA-8 SCALE 1:450\n15",
+        "outputs": {
+          "640": {
+            "path": "media/complete/sal-p17-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/sal-p17-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/sal-p17-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "SAL-P17-I01",
+            "page": 17,
+            "index": 0,
+            "embedded_name": "X7.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              -4.2621775824092596e-14,
+              -7.329653320846887,
+              1188.292918487793,
+              833.8467676301341
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p17-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/sal-p17-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/sal-p17-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ],
+        "drawings": [
+          {
+            "id": "SAL-P17-D01",
+            "page": 17,
+            "title": "Section thru A",
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p17-drawing-1-640.webp",
+                "width": 640,
+                "height": 206
+              },
+              "1280": {
+                "path": "media/complete/sal-p17-drawing-1-1280.webp",
+                "width": 1280,
+                "height": 411
+              },
+              "full": {
+                "path": "media/complete/sal-p17-drawing-1-full.webp",
+                "width": 3332,
+                "height": 1070
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "SAL-P17-D02",
+            "page": 17,
+            "title": "Section thru B",
+            "outputs": {
+              "640": {
+                "path": "media/complete/sal-p17-drawing-2-640.webp",
+                "width": 640,
+                "height": 233
+              },
+              "1280": {
+                "path": "media/complete/sal-p17-drawing-2-1280.webp",
+                "width": 1280,
+                "height": 467
+              },
+              "full": {
+                "path": "media/complete/sal-p17-drawing-2-full.webp",
+                "width": 3332,
+                "height": 1215
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          }
+        ]
+      }
+    ],
+    "concept_text": "SALUPOD is derived from the Filipino words Salubong, meaning a meeting or coming together, and Pusod, meaning the center or core. Together, these words express the idea of a community library as a central place where people, knowledge, and nature converge. The concept focuses on creating a welcoming environment that encourages learning, reflection, and meaningful social interaction. A landscaped central atrium serves as the heart of the building, connecting different spaces and establishing a sense of unity throughout the design. Through interconnected spaces, natural elements, and a balance between quiet and communal areas, SALUPOD promotes an atmosphere where individuals can pursue knowledge while remaining connected to others. Ultimately, the concept envisions the library as more than a place for books and research; it becomes a shared community space that nurtures learning, strengthens relationships, and fosters a lasting sense of belonging.",
+    "keywords": [
+      "Wisdom",
+      "Connection",
+      "Gathering",
+      "Beacon",
+      "Orbit",
+      "Core",
+      "Inclusivity",
+      "Convergence",
+      "Exchange"
+    ],
+    "metadata": [
+      [
+        "Project Title",
+        "Proposed Community Library"
+      ],
+      [
+        "Location",
+        "Brgy. Santor, Malolos Bulacan"
+      ],
+      [
+        "Software",
+        "Autocad / Revit / D5"
+      ]
+    ],
+    "perspective_text": "The facade features a woven geometric pattern inspired by traditional Filipino weaving. Its interlocking diamond shapes symbolize the connection between people, knowledge, and community, reflecting SALUPOD's concept of gathering and convergence. The perforated design also filters natural light, reduces direct sunlight, and creates a dynamic play of light and shadow.",
+    "comparison": [
+      [
+        "AMBF",
+        "6,158.55 sqm",
+        "3,295.23 sqm"
+      ],
+      [
+        "PSO",
+        "50%",
+        "26.75%"
+      ],
+      [
+        "ISA",
+        "2,462.42 sqm",
+        "2,774.32 sqm"
+      ],
+      [
+        "USA",
+        "3,695.13 sqm",
+        "3,384.24 sqm"
+      ],
+      [
+        "TOSL",
+        "6,157.55 sqm",
+        "6,158.56 sqm"
+      ],
+      [
+        "MACA",
+        "8,620.97 sqm",
+        "6,069.14 sqm"
+      ],
+      [
+        "GFA",
+        "30,797.77 sqm",
+        "9,543.94 sqm"
+      ],
+      [
+        "FAR",
+        "2.50",
+        "0.77"
+      ],
+      [
+        "MABH",
+        "45 meters",
+        "16.70 meters"
+      ],
+      [
+        "BHL",
+        "45 meters",
+        "16.70 meters"
+      ]
+    ],
+    "general": [
+      [
+        "Total Lot Area (TLA)",
+        "12,317.11 sqm"
+      ],
+      [
+        "Zoning Classification",
+        "General Institutional"
+      ],
+      [
+        "Occupancy",
+        "Group C"
+      ],
+      [
+        "Type of Construction",
+        "Type II Construction"
+      ],
+      [
+        "Fire Zone Classification",
+        "Fire Zone No. 2"
+      ],
+      [
+        "Required Parking Slots",
+        "62 slots"
+      ],
+      [
+        "Provided Parking Slots",
+        "63 slots"
+      ]
+    ],
+    "setbacks": "Front = 5m , Side = 2m , Rear = 2m",
+    "derivative_version": 2
+  },
+  {
+    "slug": "lakbay",
+    "code": "LAK",
+    "name": "Lakbay",
+    "start": 18,
+    "end": 34,
+    "concept": 19,
+    "features": 20,
+    "controls": 21,
+    "elevations": 33,
+    "sections": 34,
+    "narrative": 30,
+    "title": "Lakbay: The Journey of Learning",
+    "plans": {
+      "22": "Site development plan",
+      "23": "Plan on site",
+      "24": "Second floor plan - Area A",
+      "25": "Second floor plan - Area B",
+      "26": "Second floor plan - Area C",
+      "27": "Third floor plan - Area A",
+      "28": "Third floor plan - Area B",
+      "29": "Third floor plan - Area C"
+    },
+    "perspectives": [
+      30,
+      31,
+      32
+    ],
+    "materials": {
+      "0": "Wood cladding",
+      "1": "Low-E glass",
+      "2": "Rubber flooring",
+      "4": "Non slip porcelain tiles",
+      "5": "Terracota tiles"
+    },
+    "feature_indices": [
+      3,
+      6
+    ],
+    "alt": {
+      "3": "Undulating school facade",
+      "6": "School facade and pedestrian circulation"
+    },
+    "pages": [
+      {
+        "id": "LAK-P18-SHEET",
+        "page": 18,
+        "text": "02\nHIGH SCHOOL DEV.\n16",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p18-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p18-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p18-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P18-I01",
+            "page": 18,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              3456,
+              1944
+            ],
+            "bbox": [
+              -150.01657534930908,
+              -7.829981299999986,
+              1369.022225357405,
+              846.837943088835
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p18-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p18-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/lak-p18-i01-full.webp",
+                "width": 3456,
+                "height": 1944
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P19-SHEET",
+        "page": 19,
+        "text": "RYAN CHRISTIAN G. LADESMA\nlakbay.\nProject Title: Proposed Highschool Dev.\nLocation: Brgy. Santor, Malolos Bulacan\nSoftware: Autocad / Revit / D5\nLakbay represents the journey of every\nstudent—from the first step into the school,\nthrough the continuous process of learning,\ninteraction, and discovery, toward personal\ngrowth and graduation. The school is\nenvisioned not merely as a place for\nacademic instruction, but as a dynamic\nenvironment where every space contributes\nto the students’ educational experience.\nThrough interconnected learning areas,\nflowing circulation, communal spaces, and\nopportunities for interaction with nature,\nthe design encourages students to explore,\ncollaborate, and develop their potential.\nThe curved architectural form symbolizes\nthe continuity of this journey, guiding\nstudents through different spaces and\nexperiences while expressing movement,\nconnection, and progression. By integrating\nfunctional planning, climate-responsive\nstrategies, and welcoming outdoor spaces,\nLAKBAY transforms the school into a\nmeaningful journey where the environment\nsupports not only academic achievement\nbut also social development, creativity, and\npersonal growth.\nKeywords:\n1.Movement 6.Encounter\n2.Sequence 7.Connection\n3.Direction 8.Weaving\n4.Rhythm 9.Growth\n5.Pause 10.Discovery\nLakbay: The Journey of Learning 17",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p19-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p19-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p19-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P19-I01",
+            "page": 19,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              -96.264283988988,
+              -7.829981299999986,
+              878.489291396278,
+              540.6027558486351
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p19-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p19-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/lak-p19-i01-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P19-I02",
+            "page": 19,
+            "index": 1,
+            "embedded_name": "X23.png",
+            "source_size": [
+              328,
+              293
+            ],
+            "bbox": [
+              257.997997250083,
+              630.7075912942668,
+              391.1296997029285,
+              749.825435131023
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p19-i02-640.webp",
+                "width": 328,
+                "height": 293
+              },
+              "1280": {
+                "path": "media/complete/lak-p19-i02-1280.webp",
+                "width": 328,
+                "height": 293
+              },
+              "full": {
+                "path": "media/complete/lak-p19-i02-full.webp",
+                "width": 328,
+                "height": 293
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P19-I03",
+            "page": 19,
+            "index": 2,
+            "embedded_name": "X25.png",
+            "source_size": [
+              308,
+              410
+            ],
+            "bbox": [
+              417.6986369958894,
+              602.1398692845886,
+              642.921429211606,
+              770.973562249851
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p19-i03-640.webp",
+                "width": 308,
+                "height": 410
+              },
+              "1280": {
+                "path": "media/complete/lak-p19-i03-1280.webp",
+                "width": 308,
+                "height": 410
+              },
+              "full": {
+                "path": "media/complete/lak-p19-i03-full.webp",
+                "width": 308,
+                "height": 410
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling; displayed derivative preserves the PDF placement rotation",
+            "display_outputs": {
+              "640": {
+                "path": "media/complete/lak-p19-i03-placed-640.webp",
+                "width": 640,
+                "height": 480
+              },
+              "1280": {
+                "path": "media/complete/lak-p19-i03-placed-1280.webp",
+                "width": 643,
+                "height": 482
+              },
+              "full": {
+                "path": "media/complete/lak-p19-i03-placed-full.webp",
+                "width": 643,
+                "height": 482
+              }
+            }
+          },
+          {
+            "id": "LAK-P19-I04",
+            "page": 19,
+            "index": 3,
+            "embedded_name": "X27.png",
+            "source_size": [
+              410,
+              359
+            ],
+            "bbox": [
+              646.653309056111,
+              606.9713114832786,
+              815.8206644074709,
+              755.1178669105051
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p19-i04-640.webp",
+                "width": 410,
+                "height": 359
+              },
+              "1280": {
+                "path": "media/complete/lak-p19-i04-1280.webp",
+                "width": 410,
+                "height": 359
+              },
+              "full": {
+                "path": "media/complete/lak-p19-i04-full.webp",
+                "width": 410,
+                "height": 359
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ],
+        "diagram": {
+          "id": "LAK-P19-DIAGRAM",
+          "page": 19,
+          "outputs": {
+            "640": {
+              "path": "media/complete/lak-concept-sequence-640.webp",
+              "width": 640,
+              "height": 201
+            },
+            "1280": {
+              "path": "media/complete/lak-concept-sequence-1280.webp",
+              "width": 1280,
+              "height": 401
+            },
+            "full": {
+              "path": "media/complete/lak-concept-sequence-full.webp",
+              "width": 2440,
+              "height": 765
+            }
+          },
+          "method": "rendered complete concept sequence including vector arrows and source sketches"
+        }
+      },
+      {
+        "id": "LAK-P20-SHEET",
+        "page": 20,
+        "text": "RYAN CHRISTIAN G. LADESMA\nDESIGN FEATURES\nRUBBER FLOORING TERRACOTA TILES\nNON SLIP PORCELAIN TILES\nMATERIAL CONCEPT\nLOW-E GLASS WOOD CLADDING\n18",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p20-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p20-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p20-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P20-I01",
+            "page": 20,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              569,
+              780
+            ],
+            "bbox": [
+              814.529150061284,
+              300.23681386388307,
+              1142.1962260084886,
+              749.373155149868
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p20-i01-640.webp",
+                "width": 569,
+                "height": 780
+              },
+              "1280": {
+                "path": "media/complete/lak-p20-i01-1280.webp",
+                "width": 569,
+                "height": 780
+              },
+              "full": {
+                "path": "media/complete/lak-p20-i01-full.webp",
+                "width": 569,
+                "height": 780
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P20-I02",
+            "page": 20,
+            "index": 1,
+            "embedded_name": "X6.png",
+            "source_size": [
+              820,
+              820
+            ],
+            "bbox": [
+              467.216980532625,
+              442.74740392594146,
+              855.6186723492204,
+              831.1490957425369
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p20-i02-640.webp",
+                "width": 640,
+                "height": 640
+              },
+              "1280": {
+                "path": "media/complete/lak-p20-i02-1280.webp",
+                "width": 820,
+                "height": 820
+              },
+              "full": {
+                "path": "media/complete/lak-p20-i02-full.webp",
+                "width": 820,
+                "height": 820
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P20-I03",
+            "page": 20,
+            "index": 2,
+            "embedded_name": "X7.png",
+            "source_size": [
+              512,
+              384
+            ],
+            "bbox": [
+              632.2584696558961,
+              70.49951623627078,
+              917.1863569839003,
+              284.1954257322742
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p20-i03-640.webp",
+                "width": 512,
+                "height": 384
+              },
+              "1280": {
+                "path": "media/complete/lak-p20-i03-1280.webp",
+                "width": 512,
+                "height": 384
+              },
+              "full": {
+                "path": "media/complete/lak-p20-i03-full.webp",
+                "width": 512,
+                "height": 384
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P20-I04",
+            "page": 20,
+            "index": 3,
+            "embedded_name": "X8.png",
+            "source_size": [
+              960,
+              540
+            ],
+            "bbox": [
+              84.1676772930133,
+              73.84853129672854,
+              609.7846473923053,
+              369.27375418734374
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p20-i04-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p20-i04-1280.webp",
+                "width": 960,
+                "height": 540
+              },
+              "full": {
+                "path": "media/complete/lak-p20-i04-full.webp",
+                "width": 960,
+                "height": 540
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P20-I05",
+            "page": 20,
+            "index": 4,
+            "embedded_name": "X9.png",
+            "source_size": [
+              600,
+              600
+            ],
+            "bbox": [
+              627.497613854265,
+              291.5816846245135,
+              855.4399179566685,
+              519.5239887269171
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p20-i05-640.webp",
+                "width": 600,
+                "height": 600
+              },
+              "1280": {
+                "path": "media/complete/lak-p20-i05-1280.webp",
+                "width": 600,
+                "height": 600
+              },
+              "full": {
+                "path": "media/complete/lak-p20-i05-full.webp",
+                "width": 600,
+                "height": 600
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P20-I06",
+            "page": 20,
+            "index": 5,
+            "embedded_name": "X10.png",
+            "source_size": [
+              551,
+              344
+            ],
+            "bbox": [
+              808.151630327014,
+              76.33769359301346,
+              1144.8164210993139,
+              286.2845560452272
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p20-i06-640.webp",
+                "width": 551,
+                "height": 344
+              },
+              "1280": {
+                "path": "media/complete/lak-p20-i06-1280.webp",
+                "width": 551,
+                "height": 344
+              },
+              "full": {
+                "path": "media/complete/lak-p20-i06-full.webp",
+                "width": 551,
+                "height": 344
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P20-I07",
+            "page": 20,
+            "index": 6,
+            "embedded_name": "X11.png",
+            "source_size": [
+              1149,
+              648
+            ],
+            "bbox": [
+              22.385177307284238,
+              360.44033135540303,
+              712.9604285333143,
+              749.591819140757
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p20-i07-640.webp",
+                "width": 640,
+                "height": 361
+              },
+              "1280": {
+                "path": "media/complete/lak-p20-i07-1280.webp",
+                "width": 1149,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/lak-p20-i07-full.webp",
+                "width": 1149,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P21-SHEET",
+        "page": 21,
+        "text": "RYAN CHRISTIAN G. LADESMA\nDEVELOPMENT CONTROLS\nRequired Datas Actual Datas\nAMBF 9,466.40 sqm AMBF 7,284.63 sqm\nPSO 50% PSO 38.48%\nISA 3,786.56 sqm ISA 4,126.78 sqm\nUSA 5,679.87 sqm USA 5,847.92 sqm\nTotal Lot Area (TLA) = 18,932.79 sqm\nZoning Classification = General Institutional\nTOSL 9,466.43 sqm TOSL 9,974.70 sqm Occupancy = Group C\nType of Construction = Type II Construction\nMACA 13,252.94 sqm MACA 11,411.41 sqm Fire Zone Classification = Fire Zone No. 2\nRequired Parking Slots = 4 slots\nProvided Parking Slots = 12 slots\nGFA 47,331.98 sqm GFA 12,483.76 sqm\nFAR 2.50 FAR 0.66\nSetbacks:\nFront = 5m , Side = 2m , Rear = 2m\nMABH 45 meters MABH 19.50 meters\nBHL 45 meters BHL 19.50 meters\n19",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p21-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p21-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p21-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P21-I01",
+            "page": 21,
+            "index": 0,
+            "embedded_name": "X18.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              -8.524355404818509e-14,
+              434.53711226803694,
+              1189.948774418799,
+              1104.1176203688478
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p21-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p21-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/lak-p21-i01-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P22-SHEET",
+        "page": 22,
+        "text": "RYAN CHRISTIAN G. LADESMA\nQ\n6\nO P\nN\n1DN M\nJ 49\nI 50 43\nL\n7 8 K 51 44\n1 9 0 52 4546\n53\nH 54\n55\nG 56\nF\n120\nE\nDN\nD\nC\nB\nA\nDN\n2 3 548 585DN7\n4\n1 SITE DEVELOPMENT PLAN\nA-1 SCALE 1:750\n20",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p22-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p22-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p22-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P22-I01",
+            "page": 22,
+            "index": 0,
+            "embedded_name": "X67.png",
+            "source_size": [
+              2688,
+              1512
+            ],
+            "bbox": [
+              -166.11169707867901,
+              -388.45686864054574,
+              1229.7047487623001,
+              1471.4567210630516
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p22-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p22-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/lak-p22-i01-full.webp",
+                "width": 2688,
+                "height": 1512
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P23-SHEET",
+        "page": 23,
+        "text": "RYAN CHRISTIAN G. LADESMA\nQ\nP\nO UP 6\n7\nN\nM\n8\nUP\nL\nUP\n9\nUP DN\n10\nK\nUP\nUP UP\nUP\nJ UP UP UP 20\nI 19\n18 DN\n17\nH\n16\nUP UP\n15\nUP 14 DN\nG UP UP\n13\nDN\nF 11\n12\nE W DN UP\nUP UPUP\nD DN V UP\nUP\nDN\nUP\nUP\nDN U\nC\nUP DN T\nUP\nUP\nB UPUP S\nUP UP\nA\nR UP UP\n4 5\n3\n1 2\n1 PLAN ON SITE\nA-2 SCALE 1:750\n21",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p23-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p23-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p23-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P23-I01",
+            "page": 23,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.0001678050463396,
+              -7.829981299999986,
+              1189.2930862928395,
+              833.346439650981
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p23-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/lak-p23-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/lak-p23-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P24-SHEET",
+        "page": 24,
+        "text": "RYAN CHRISTIAN G. LADESMA\nQ\nP\n6\nO\n7\nN\nM\n8\nL\nRECREATION AREA\n9\n10\nRESTROOM\nK\nCLASSROOM\nDN\nCLASSROM\nDN\nUP CLASSROM\nFIRE EXIT\nCLASSROOM\n1 SECOND FLOOR PLAN - AREA A\nA-3 SCALE 1:250\n22",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p24-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p24-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p24-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P24-I01",
+            "page": 24,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1917,
+              1360
+            ],
+            "bbox": [
+              1.00021003376458,
+              -7.829981299999986,
+              1199.0468721151515,
+              842.348311275903
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p24-i01-640.webp",
+                "width": 640,
+                "height": 454
+              },
+              "1280": {
+                "path": "media/complete/lak-p24-i01-1280.webp",
+                "width": 1280,
+                "height": 908
+              },
+              "full": {
+                "path": "media/complete/lak-p24-i01-full.webp",
+                "width": 1917,
+                "height": 1360
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P25-SHEET",
+        "page": 25,
+        "text": "RYAN CHRISTIAN G. LADESMA\nE F G\nD H\nC I\nB J\nA\n1\n2 CLASSROOM CLASSROOM\nCLASSROOM CLASSROOM\nRESTROOM FIRE EXIT\n3\nCLASSROOM CLASSROOM U\nCLASSROOM P CLASSROOM\nU\nP D\nD N\nN\nU\nD P\nN\nFIRE EXIT\n4\n5\n1 SECOND FLOOR PLAN - AREA B\nA-4 SCALE 1:250\n23",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p25-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p25-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p25-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P25-I01",
+            "page": 25,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.00021003376458,
+              -7.829981299999986,
+              1189.2931285215577,
+              833.346439650981
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p25-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/lak-p25-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/lak-p25-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P26-SHEET",
+        "page": 26,
+        "text": "RYAN CHRISTIAN G. LADESMA\n20\n19\n18\n17\n16\n15 CLASSROOM\n14\nCLASSROOM\n13\nCLASSROOM\n12\n11\nSCIENCE\nLABORATORY\nW\nUP\nTLE DN\nLABORATORY\nDN\nUP\nUPFIRE EXIT\nDN RESTROOM\nV\nMECHANICAL\nROOM\nUTILITY\nDRAFTING ROOM\nU\nROOM\nT\nCOMPUTER\nLABORATORY\nS\n1 SECOND FLOOR PLAN - AREA C\nUP A-5 SCALE 1:300\nR\nFIRE EXITDN\n24",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p26-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p26-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p26-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P26-I01",
+            "page": 26,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.00021003376458,
+              -7.829981299999986,
+              1189.2931285215577,
+              833.346439650981
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p26-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/lak-p26-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/lak-p26-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P27-SHEET",
+        "page": 27,
+        "text": "RYAN CHRISTIAN G. LADESMA\nQ\nP\n6\nO\n7\nN\nM\n8\nL\n9\n10\nK\nCOVERED\nBASKETBALL\nCOURT\nDN\nFIRE EXIT\n1 THIRD FLOOR PLAN - AREA A\nA-6 SCALE 1:250\n25",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p27-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p27-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p27-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P27-I01",
+            "page": 27,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              4994,
+              3541
+            ],
+            "bbox": [
+              -4.001090521287887,
+              -12.03084512496389,
+              1194.1956915538442,
+              838.2539594465011
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p27-i01-640.webp",
+                "width": 640,
+                "height": 454
+              },
+              "1280": {
+                "path": "media/complete/lak-p27-i01-1280.webp",
+                "width": 1280,
+                "height": 908
+              },
+              "full": {
+                "path": "media/complete/lak-p27-i01-full.webp",
+                "width": 4994,
+                "height": 3541
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P28-SHEET",
+        "page": 28,
+        "text": "RYAN CHRISTIAN G. LADESMA\nE F G\nD\nC H\nB\nA\nI\nJ\n1\n2\nCLASSROOM\nCLASSROOM CLASSROOM\nCLASSROOM\nRESTROOM\nRESTROOM\n3\nCLASSROOM\nCLASSROOM CLASSROOM\nN D N D\nCLASSROOM\nD\nN\n4 FIRE EXIT\n5\n1 THIRD FLOOR PLAN - AREA B\nA-7 SCALE 1:250\n26",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p28-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p28-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p28-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P28-I01",
+            "page": 28,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.00021003376458,
+              19.18916957420197,
+              1189.2931285215577,
+              860.3655905251829
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p28-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/lak-p28-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/lak-p28-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P29-SHEET",
+        "page": 29,
+        "text": "RYAN CHRISTIAN G. LADESMA\n20\n19\n18\n17\n16\n15\n14 PRIVATE\nSTUDY\nROOM\n13\n12 STUDENT\n11 COUNCIL\nAREA\nMAIN\nLIBRARY\nCOMPUTER\nW AREA\nDN\nDN\nDN\nFIRE EXIT\nLOCKER AREA RESTROOM\nV\nMECHANICAL\nROOM\nUTILITY\nPRACTICAL ROOM\nU\nARTS ROOM\nCLASSROOM\nT\nCLASSROOM\nS\n1 THIRD FLOOR PLAN - AREA C\nA-8 SCALE 1:300\nR\nFIRE EXIT\nDN\n27",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p29-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p29-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p29-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P29-I01",
+            "page": 29,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1917,
+              1360
+            ],
+            "bbox": [
+              1.00021003376458,
+              -7.829981299999986,
+              1199.0468721151515,
+              842.348311275903
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p29-i01-640.webp",
+                "width": 640,
+                "height": 454
+              },
+              "1280": {
+                "path": "media/complete/lak-p29-i01-1280.webp",
+                "width": 1280,
+                "height": 908
+              },
+              "full": {
+                "path": "media/complete/lak-p29-i01-full.webp",
+                "width": 1917,
+                "height": 1360
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P30-SHEET",
+        "page": 30,
+        "text": "PERSPECTIVES\nThe dynamic, undulating facade translates\nthe student experience into a physical\narchitectural skin: the fluid, non-linear\nprofile reflects an academic journey filled\nwith moments of challenge, momentum,\nand growth. Each individual wave panel\nacts as a single student's trajectory, which,\nwhen repeated across the building\nelevation, weaves together to form a\ncollective identity representing how diverse\npersonal paths shape a shared educational\ncommunity.\n28",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p30-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p30-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p30-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P30-I01",
+            "page": 30,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              2304,
+              1536
+            ],
+            "bbox": [
+              -26.01547739602173,
+              -4.928021420915002,
+              1216.4200468358295,
+              823.61230405657
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p30-i01-640.webp",
+                "width": 640,
+                "height": 427
+              },
+              "1280": {
+                "path": "media/complete/lak-p30-i01-1280.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "full": {
+                "path": "media/complete/lak-p30-i01-full.webp",
+                "width": 2304,
+                "height": 1536
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P31-SHEET",
+        "page": 31,
+        "text": "RYAN CHRISTIAN G. LADESMA\n29",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p31-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p31-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p31-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P31-I01",
+            "page": 31,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              722.261465905771,
+              76.33768159301394,
+              1100.1657957597567,
+              289.2837951202589
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p31-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p31-i01-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/lak-p31-i01-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P31-I02",
+            "page": 31,
+            "index": 1,
+            "embedded_name": "X6.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              722.261465905771,
+              306.01543522310726,
+              1100.1657957597567,
+              518.9615487503521
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p31-i02-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p31-i02-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/lak-p31-i02-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P31-I03",
+            "page": 31,
+            "index": 2,
+            "embedded_name": "X7.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              712.1613543266091,
+              533.522828143632,
+              1100.5630773432033,
+              751.717595052183
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p31-i03-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p31-i03-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/lak-p31-i03-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P31-I04",
+            "page": 31,
+            "index": 3,
+            "embedded_name": "X8.png",
+            "source_size": [
+              1536,
+              1024
+            ],
+            "bbox": [
+              84.1676772930133,
+              339.03622024724103,
+              701.2615555807673,
+              750.6820190953321
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p31-i04-640.webp",
+                "width": 640,
+                "height": 427
+              },
+              "1280": {
+                "path": "media/complete/lak-p31-i04-1280.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "full": {
+                "path": "media/complete/lak-p31-i04-full.webp",
+                "width": 1536,
+                "height": 1024
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P31-I05",
+            "page": 31,
+            "index": 4,
+            "embedded_name": "X9.png",
+            "source_size": [
+              1536,
+              864
+            ],
+            "bbox": [
+              84.1676772930133,
+              49.672861904048204,
+              701.2615555807673,
+              396.834985838959
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p31-i05-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p31-i05-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/lak-p31-i05-full.webp",
+                "width": 1536,
+                "height": 864
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P32-SHEET",
+        "page": 32,
+        "text": "30",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p32-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p32-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p32-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P32-I01",
+            "page": 32,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              -3.4007138183035845,
+              76.337703193013,
+              1193.2963083193183,
+              749.66734713761
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p32-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p32-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/lak-p32-i01-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P33-SHEET",
+        "page": 33,
+        "text": "ROOF B\n19.50\nROOF A\n14.70\nTOB\n12.50\n3RD FCL\n11.70\n3RD FFL\n8.70\n2ND FCL\n7.90\n2ND FFL\n4.90\nGRD FCL\n4.10\nGRD FFL\n0.60\nNGL\n0.00\n1 FRONT ELEVATION\nA-9 SCALE 1:550\nROOF B\n19.50\nROOF A\n14.70\nTOB\n12.50\n3RD FCL\n11.70\n3RD FFL\n8.70\n2ND FCL\n7.90\n2ND FFL\n4.90\nGRD FCL\n4.10\nGRD FFL\n0.60\nNGL\n0.00\n2 REAR ELEVATION\nA-9 SCALE 1:550\nROOF B\n19.50\nROOF A\n14.70\nTOB\n12.50\n3RD FCL\n11.70\n3RD FFL\n8.70\n2ND FCL\n7.90\n2ND FFL\n4.90\nGRD FCL\n4.10\nGRD FFL\n0.60\nNGL\n0.00\n3 LEFT-SIDE ELEVATION\nA-9 SCALE 1:550\nROOF B\n19.50\nROOF A\n14.70\nTOB\n12.50\n3RD FCL\n11.70\n3RD FFL\n8.70\n2ND FCL\n7.90\n2ND FFL\n4.90\nGRD FCL\n4.10\nGRD FFL\n0.60\nNGL\n0.00\n4 RIGHT-SIDE ELEVATION\nA-9 SCALE 1:550\n31",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p33-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p33-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p33-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P33-I01",
+            "page": 33,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.00021003376458,
+              -19.16570882767803,
+              1189.2931285215577,
+              822.0107121233029
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p33-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/lak-p33-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/lak-p33-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P33-I02",
+            "page": 33,
+            "index": 1,
+            "embedded_name": "X42.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              17.08831344798691,
+              70.4538394381741,
+              1189.0417686165908,
+              729.537059976372
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p33-i02-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p33-i02-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/lak-p33-i02-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P33-I03",
+            "page": 33,
+            "index": 2,
+            "embedded_name": "X44.png",
+            "source_size": [
+              1920,
+              1080
+            ],
+            "bbox": [
+              124.84717639803411,
+              -240.9081387884096,
+              1170.0826288465553,
+              346.9430607177893
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p33-i03-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p33-i03-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/lak-p33-i03-full.webp",
+                "width": 1920,
+                "height": 1080
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P33-I04",
+            "page": 33,
+            "index": 3,
+            "embedded_name": "X46.png",
+            "source_size": [
+              1920,
+              1080
+            ],
+            "bbox": [
+              140.60930534127868,
+              362.492115269912,
+              1084.6203700074827,
+              893.35774115051
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p33-i04-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p33-i04-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/lak-p33-i04-full.webp",
+                "width": 1920,
+                "height": 1080
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "LAK-P33-I05",
+            "page": 33,
+            "index": 4,
+            "embedded_name": "X48.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              51.426837857215,
+              -51.272043489913926,
+              1226.379476900853,
+              609.310768985801
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p33-i05-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/lak-p33-i05-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/lak-p33-i05-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ],
+        "drawings": [
+          {
+            "id": "LAK-P33-D01",
+            "page": 33,
+            "title": "Front elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p33-drawing-1-640.webp",
+                "width": 640,
+                "height": 120
+              },
+              "1280": {
+                "path": "media/complete/lak-p33-drawing-1-1280.webp",
+                "width": 1280,
+                "height": 240
+              },
+              "full": {
+                "path": "media/complete/lak-p33-drawing-1-full.webp",
+                "width": 3332,
+                "height": 625
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "LAK-P33-D02",
+            "page": 33,
+            "title": "Rear elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p33-drawing-2-640.webp",
+                "width": 640,
+                "height": 120
+              },
+              "1280": {
+                "path": "media/complete/lak-p33-drawing-2-1280.webp",
+                "width": 1280,
+                "height": 240
+              },
+              "full": {
+                "path": "media/complete/lak-p33-drawing-2-full.webp",
+                "width": 3332,
+                "height": 626
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "LAK-P33-D03",
+            "page": 33,
+            "title": "Left-side elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p33-drawing-3-640.webp",
+                "width": 640,
+                "height": 118
+              },
+              "1280": {
+                "path": "media/complete/lak-p33-drawing-3-1280.webp",
+                "width": 1280,
+                "height": 235
+              },
+              "full": {
+                "path": "media/complete/lak-p33-drawing-3-full.webp",
+                "width": 3332,
+                "height": 613
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "LAK-P33-D04",
+            "page": 33,
+            "title": "Right-side elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p33-drawing-4-640.webp",
+                "width": 640,
+                "height": 118
+              },
+              "1280": {
+                "path": "media/complete/lak-p33-drawing-4-1280.webp",
+                "width": 1280,
+                "height": 235
+              },
+              "full": {
+                "path": "media/complete/lak-p33-drawing-4-full.webp",
+                "width": 3332,
+                "height": 613
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          }
+        ]
+      },
+      {
+        "id": "LAK-P34-SHEET",
+        "page": 34,
+        "text": "RYAN CHRISTIAN G. LADESMA\nROOF B\n19.50\nROOF A\n14.70\nTOB\n12.50\n3RD FCL\n11.70\n3RD FFL\n8.70\n2ND FCL\n7.90\n2ND FFL\n4.90\nGRD FCL\n4.10\nGRD FFL\n0.60\nNGL\n0.00\n1 SECTION THRU A\nA-10 SCALE 1:550\nROOF B\n19.50\nROOF A\n14.70\nTOB\n12.50\n3RD FCL\n11.70\n3RD FFL\n8.70\n2ND FCL\n7.90\n2ND FFL\n4.90\nGRD FCL\n4.10\nGRD FFL\n0.60\nNGL\n0.00\n2 SECTION THRU B\nA-10 SCALE 1:550\n32",
+        "outputs": {
+          "640": {
+            "path": "media/complete/lak-p34-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/lak-p34-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/lak-p34-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "LAK-P34-I01",
+            "page": 34,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.0002135814444324,
+              -7.829981299999986,
+              1189.2931320692376,
+              833.346439650981
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p34-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/lak-p34-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/lak-p34-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ],
+        "drawings": [
+          {
+            "id": "LAK-P34-D01",
+            "page": 34,
+            "title": "Section thru A",
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p34-drawing-1-640.webp",
+                "width": 640,
+                "height": 206
+              },
+              "1280": {
+                "path": "media/complete/lak-p34-drawing-1-1280.webp",
+                "width": 1280,
+                "height": 411
+              },
+              "full": {
+                "path": "media/complete/lak-p34-drawing-1-full.webp",
+                "width": 3332,
+                "height": 1070
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "LAK-P34-D02",
+            "page": 34,
+            "title": "Section thru B",
+            "outputs": {
+              "640": {
+                "path": "media/complete/lak-p34-drawing-2-640.webp",
+                "width": 640,
+                "height": 233
+              },
+              "1280": {
+                "path": "media/complete/lak-p34-drawing-2-1280.webp",
+                "width": 1280,
+                "height": 467
+              },
+              "full": {
+                "path": "media/complete/lak-p34-drawing-2-full.webp",
+                "width": 3332,
+                "height": 1215
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          }
+        ]
+      }
+    ],
+    "concept_text": "Lakbay represents the journey of every student—from the first step into the school, through the continuous process of learning, interaction, and discovery, toward personal growth and graduation. The school is envisioned not merely as a place for academic instruction, but as a dynamic environment where every space contributes to the students’ educational experience. Through interconnected learning areas, flowing circulation, communal spaces, and opportunities for interaction with nature, the design encourages students to explore, collaborate, and develop their potential. The curved architectural form symbolizes the continuity of this journey, guiding students through different spaces and experiences while expressing movement, connection, and progression. By integrating functional planning, climate-responsive strategies, and welcoming outdoor spaces, LAKBAY transforms the school into a meaningful journey where the environment supports not only academic achievement but also social development, creativity, and personal growth.",
+    "keywords": [
+      "Movement",
+      "Sequence",
+      "Direction",
+      "Rhythm",
+      "Pause",
+      "Encounter",
+      "Connection",
+      "Weaving",
+      "Growth",
+      "Discovery"
+    ],
+    "metadata": [
+      [
+        "Project Title",
+        "Proposed Highschool Dev."
+      ],
+      [
+        "Location",
+        "Brgy. Santor, Malolos Bulacan"
+      ],
+      [
+        "Software",
+        "Autocad / Revit / D5"
+      ]
+    ],
+    "perspective_text": "The dynamic, undulating facade translates the student experience into a physical architectural skin: the fluid, non-linear profile reflects an academic journey filled with moments of challenge, momentum, and growth. Each individual wave panel acts as a single student's trajectory, which, when repeated across the building elevation, weaves together to form a collective identity representing how diverse personal paths shape a shared educational community.",
+    "comparison": [
+      [
+        "AMBF",
+        "9,466.40 sqm",
+        "7,284.63 sqm"
+      ],
+      [
+        "PSO",
+        "50%",
+        "38.48%"
+      ],
+      [
+        "ISA",
+        "3,786.56 sqm",
+        "4,126.78 sqm"
+      ],
+      [
+        "USA",
+        "5,679.87 sqm",
+        "5,847.92 sqm"
+      ],
+      [
+        "TOSL",
+        "9,466.43 sqm",
+        "9,974.70 sqm"
+      ],
+      [
+        "MACA",
+        "13,252.94 sqm",
+        "11,411.41 sqm"
+      ],
+      [
+        "GFA",
+        "47,331.98 sqm",
+        "12,483.76 sqm"
+      ],
+      [
+        "FAR",
+        "2.50",
+        "0.66"
+      ],
+      [
+        "MABH",
+        "45 meters",
+        "19.50 meters"
+      ],
+      [
+        "BHL",
+        "45 meters",
+        "19.50 meters"
+      ]
+    ],
+    "general": [
+      [
+        "Total Lot Area (TLA)",
+        "18,932.79 sqm"
+      ],
+      [
+        "Zoning Classification",
+        "General Institutional"
+      ],
+      [
+        "Occupancy",
+        "Group C"
+      ],
+      [
+        "Type of Construction",
+        "Type II Construction"
+      ],
+      [
+        "Fire Zone Classification",
+        "Fire Zone No. 2"
+      ],
+      [
+        "Required Parking Slots",
+        "4 slots"
+      ],
+      [
+        "Provided Parking Slots",
+        "12 slots"
+      ]
+    ],
+    "setbacks": "Front = 5m , Side = 2m , Rear = 2m",
+    "derivative_version": 2
+  },
+  {
+    "slug": "dalawit",
+    "code": "DAL",
+    "name": "Dalawit",
+    "start": 35,
+    "end": 47,
+    "concept": 36,
+    "features": 37,
+    "controls": 38,
+    "elevations": 46,
+    "sections": 47,
+    "narrative": 42,
+    "title": "Dalawit: Interlocked Sanctuaries",
+    "plans": {
+      "39": "Site development plan",
+      "40": "Plan on site - Duplex unit",
+      "41": "Second floor plan - Duplex unit"
+    },
+    "perspectives": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "materials": {
+      "0": "Wood cladding",
+      "1": "Natural stone finish",
+      "2": "Low-E glass",
+      "3": "Woven bamboo panels",
+      "6": "Textured concrete"
+    },
+    "feature_indices": [
+      4,
+      5
+    ],
+    "alt": {
+      "4": "Duplex living room and feature wall",
+      "5": "Duplex exterior and wood cladding"
+    },
+    "pages": [
+      {
+        "id": "DAL-P35-SHEET",
+        "page": 35,
+        "text": "03\nRESIDENTIAL DUPLEX UNIT\n33",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p35-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p35-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p35-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P35-I01",
+            "page": 35,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1919,
+              927
+            ],
+            "bbox": [
+              -363.30273766238525,
+              -7.829981299999986,
+              1379.2312537320288,
+              833.8467676301341
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p35-i01-640.webp",
+                "width": 640,
+                "height": 309
+              },
+              "1280": {
+                "path": "media/complete/dal-p35-i01-1280.webp",
+                "width": 1280,
+                "height": 618
+              },
+              "full": {
+                "path": "media/complete/dal-p35-i01-full.webp",
+                "width": 1919,
+                "height": 927
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "DAL-P36-SHEET",
+        "page": 36,
+        "text": "RYAN CHRISTIAN G. LADESMA\ndalawit.\nProject Title: Proposed Duplex\nLocation: Brgy. Santor, Malolos Bulacan\nSoftware: Autocad / Revit / D5\nDALAWIT: Duality — Interlocked\nSanctuaries is an architectural concept\ninspired by the principles of duality,\ninterlock, and sanctuary, representing two\nindividual homes connected through a\nunified architectural composition. The\nconcept explores the balance between\ntogetherness and individuality, allowing\ntwo households to coexist harmoniously\nwhile maintaining their own identity,\nprivacy, and comfort. Through duality, the\ndesign expresses two distinct residential\nunits within a shared architectural form,\nwhile interlock translates their connection\ninto the arrangement of building masses\nand spaces. Sanctuary emphasizes the\ncreation of a safe, peaceful, and private\nenvironment where each family can\nexperience comfort and belonging.\nUltimately, DALAWIT envisions a\nharmonious duplex where two homes are\ninterconnected yet remain distinct,\nbalancing architectural unity with personal\nindependence and providing each\nhousehold with its own private sanctuary.\nKeywords:\n1.Kinship 6.Interlock\n2.Balance 7.Unity\n3.Gathering 8.Roots\n4.Duality 9.Sanctuary\n5.Harmony 10.Connection\nDalawit: Interlocked Sanctuaries\n34",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p36-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p36-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p36-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P36-I01",
+            "page": 36,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1919,
+              927
+            ],
+            "bbox": [
+              -236.7264597363971,
+              -7.829981299999986,
+              898.7008449541297,
+              540.60287584863
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p36-i01-640.webp",
+                "width": 640,
+                "height": 309
+              },
+              "1280": {
+                "path": "media/complete/dal-p36-i01-1280.webp",
+                "width": 1280,
+                "height": 618
+              },
+              "full": {
+                "path": "media/complete/dal-p36-i01-full.webp",
+                "width": 1919,
+                "height": 927
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P36-I02",
+            "page": 36,
+            "index": 1,
+            "embedded_name": "X23.png",
+            "source_size": [
+              615,
+              410
+            ],
+            "bbox": [
+              200.5945236418945,
+              614.3245007768955,
+              438.3866577338885,
+              772.852594171558
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p36-i02-640.webp",
+                "width": 615,
+                "height": 410
+              },
+              "1280": {
+                "path": "media/complete/dal-p36-i02-1280.webp",
+                "width": 615,
+                "height": 410
+              },
+              "full": {
+                "path": "media/complete/dal-p36-i02-full.webp",
+                "width": 615,
+                "height": 410
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P36-I03",
+            "page": 36,
+            "index": 2,
+            "embedded_name": "X25.png",
+            "source_size": [
+              410,
+              240
+            ],
+            "bbox": [
+              434.475797896841,
+              627.3695898333501,
+              638.56221579324,
+              747.006443248481
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p36-i03-640.webp",
+                "width": 410,
+                "height": 240
+              },
+              "1280": {
+                "path": "media/complete/dal-p36-i03-1280.webp",
+                "width": 410,
+                "height": 240
+              },
+              "full": {
+                "path": "media/complete/dal-p36-i03-full.webp",
+                "width": 410,
+                "height": 240
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P36-I04",
+            "page": 36,
+            "index": 3,
+            "embedded_name": "X27.png",
+            "source_size": [
+              512,
+              261
+            ],
+            "bbox": [
+              627.08781387134,
+              625.4618251128403,
+              875.9917387003427,
+              752.136131034744
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p36-i04-640.webp",
+                "width": 512,
+                "height": 261
+              },
+              "1280": {
+                "path": "media/complete/dal-p36-i04-1280.webp",
+                "width": 512,
+                "height": 261
+              },
+              "full": {
+                "path": "media/complete/dal-p36-i04-full.webp",
+                "width": 512,
+                "height": 261
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ],
+        "diagram": {
+          "id": "DAL-P36-DIAGRAM",
+          "page": 36,
+          "outputs": {
+            "640": {
+              "path": "media/complete/dal-concept-sequence-640.webp",
+              "width": 640,
+              "height": 201
+            },
+            "1280": {
+              "path": "media/complete/dal-concept-sequence-1280.webp",
+              "width": 1280,
+              "height": 401
+            },
+            "full": {
+              "path": "media/complete/dal-concept-sequence-full.webp",
+              "width": 2440,
+              "height": 765
+            }
+          },
+          "method": "rendered complete concept sequence including vector arrows and source sketches"
+        }
+      },
+      {
+        "id": "DAL-P37-SHEET",
+        "page": 37,
+        "text": "RYAN CHRISTIAN G. LADESMA\nDESIGN FEATURES\nNATURAL STONE FINISH WOVEN BAMBOO PANELS\nTEXTURED\nCONCRETE\nMATERIAL CONCEPT\nLOW-E GLASS WOOD CLADDING\n35",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p37-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p37-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p37-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P37-I01",
+            "page": 37,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              569,
+              780
+            ],
+            "bbox": [
+              814.529150061284,
+              300.23681386388307,
+              1142.1962260084886,
+              749.373155149868
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p37-i01-640.webp",
+                "width": 569,
+                "height": 780
+              },
+              "1280": {
+                "path": "media/complete/dal-p37-i01-1280.webp",
+                "width": 569,
+                "height": 780
+              },
+              "full": {
+                "path": "media/complete/dal-p37-i01-full.webp",
+                "width": 569,
+                "height": 780
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P37-I02",
+            "page": 37,
+            "index": 1,
+            "embedded_name": "X6.png",
+            "source_size": [
+              432,
+              432
+            ],
+            "bbox": [
+              632.2584696558961,
+              69.78126106619823,
+              855.7019019457526,
+              293.2246933560548
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p37-i02-640.webp",
+                "width": 432,
+                "height": 432
+              },
+              "1280": {
+                "path": "media/complete/dal-p37-i02-1280.webp",
+                "width": 432,
+                "height": 432
+              },
+              "full": {
+                "path": "media/complete/dal-p37-i02-full.webp",
+                "width": 432,
+                "height": 432
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P37-I03",
+            "page": 37,
+            "index": 2,
+            "embedded_name": "X7.png",
+            "source_size": [
+              820,
+              820
+            ],
+            "bbox": [
+              467.216980532625,
+              442.74740392594146,
+              855.6186723492204,
+              831.1490957425369
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p37-i03-640.webp",
+                "width": 640,
+                "height": 640
+              },
+              "1280": {
+                "path": "media/complete/dal-p37-i03-1280.webp",
+                "width": 820,
+                "height": 820
+              },
+              "full": {
+                "path": "media/complete/dal-p37-i03-full.webp",
+                "width": 820,
+                "height": 820
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P37-I04",
+            "page": 37,
+            "index": 3,
+            "embedded_name": "X8.png",
+            "source_size": [
+              427,
+              427
+            ],
+            "bbox": [
+              824.027893665503,
+              51.50008502791377,
+              1100.7078909371694,
+              328.1800822995801
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p37-i04-640.webp",
+                "width": 427,
+                "height": 427
+              },
+              "1280": {
+                "path": "media/complete/dal-p37-i04-1280.webp",
+                "width": 427,
+                "height": 427
+              },
+              "full": {
+                "path": "media/complete/dal-p37-i04-full.webp",
+                "width": 427,
+                "height": 427
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P37-I05",
+            "page": 37,
+            "index": 4,
+            "embedded_name": "X9.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              51.1369802692924,
+              54.74143129285767,
+              617.9935086502694,
+              373.4107636149683
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p37-i05-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p37-i05-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/dal-p37-i05-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P37-I06",
+            "page": 37,
+            "index": 5,
+            "embedded_name": "X10.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              23.14955831543503,
+              366.96725108344793,
+              703.227449978855,
+              749.37046714998
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p37-i06-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p37-i06-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/dal-p37-i06-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P37-I07",
+            "page": 37,
+            "index": 6,
+            "embedded_name": "X11.png",
+            "source_size": [
+              538,
+              365
+            ],
+            "bbox": [
+              633.119853620005,
+              301.48954901168565,
+              962.2865479047255,
+              524.9330125015409
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p37-i07-640.webp",
+                "width": 538,
+                "height": 365
+              },
+              "1280": {
+                "path": "media/complete/dal-p37-i07-1280.webp",
+                "width": 538,
+                "height": 365
+              },
+              "full": {
+                "path": "media/complete/dal-p37-i07-full.webp",
+                "width": 538,
+                "height": 365
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "DAL-P38-SHEET",
+        "page": 38,
+        "text": "RYAN CHRISTIAN G. LADESMA\nDEVELOPMENT CONTROLS\nRequired Datas Actual Datas\nAMBF 24,643.72 sqm AMBF 5,586.42 sqm\nPSO 60% PSO 13.11%\nISA 12,321.86 sqm ISA 12,846.73 sqm\nUSA 4,107.29 sqm USA 4,932.68 sqm\nTotal Lot Area (TLA) = 41,072.87 sqm\nZoning Classification = R-2\nTOSL 16,429.15 sqm TOSL 17,779.41 sqm Occupancy = Group A\nType of Construction = Type II Construction\nMACA 36,965.58 sqm MACA 18,233.15 sqm Fire Zone Classification = Fire Zone No. 2\nRequired Duplex Units = 54 slots\nProvided Duplex Units = 54 slots\nGFA 49,287.44 sqm GFA 10,842.76 sqm\nFAR 1.50 FAR 0.26\nSetbacks:\nFront = 5m , Side = 2m , Rear = 2m\nMABH 10 meters MABH 9.00 meters\nBHL 10 meters BHL 9.00 meters\n36",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p38-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p38-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p38-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P38-I01",
+            "page": 38,
+            "index": 0,
+            "embedded_name": "X18.png",
+            "source_size": [
+              2048,
+              1152
+            ],
+            "bbox": [
+              6.68225348157276,
+              439.39291206571215,
+              1196.631027900372,
+              1108.9734201665233
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p38-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p38-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/dal-p38-i01-full.webp",
+                "width": 2048,
+                "height": 1152
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "DAL-P39-SHEET",
+        "page": 39,
+        "text": "RYAN CHRISTIAN G. LADESMA\nDN DN\nDN\nDN\n1 SITE DEVELOPMENT PLAN\nA-1 SCALE 1:1250\n37",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p39-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p39-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p39-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P39-I01",
+            "page": 39,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              2304,
+              1536
+            ],
+            "bbox": [
+              180.2675900888501,
+              -205.19934427627618,
+              1010.3075075038521,
+              1040.2354838306037
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p39-i01-640.webp",
+                "width": 640,
+                "height": 427
+              },
+              "1280": {
+                "path": "media/complete/dal-p39-i01-1280.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "full": {
+                "path": "media/complete/dal-p39-i01-full.webp",
+                "width": 2304,
+                "height": 1536
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling; displayed derivative preserves the PDF placement rotation",
+            "display_outputs": {
+              "640": {
+                "path": "media/complete/dal-p39-i01-placed-640.webp",
+                "width": 640,
+                "height": 649
+              },
+              "1280": {
+                "path": "media/complete/dal-p39-i01-placed-1280.webp",
+                "width": 1280,
+                "height": 1299
+              },
+              "full": {
+                "path": "media/complete/dal-p39-i01-placed-full.webp",
+                "width": 2371,
+                "height": 2406
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "DAL-P40-SHEET",
+        "page": 40,
+        "text": "RYAN CHRISTIAN G. LADESMA\n1 2 3 4 5\nUP UP\nA\nFAMILY FAMILY\nT&B AREA AREA T&B\nB\nUP\nUP\nKITCHEN KITCHEN\nAREA AREA\nC\nDINING DINING\nAREA LIVING LIVING AREA\nAREA AREA\nD\nDN DN\nDUPLEX UNIT\n1 PLAN ON SITE\nA-2 SCALE 1:100\n38",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p40-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p40-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p40-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P40-I01",
+            "page": 40,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.0001678050463396,
+              -7.829981299999986,
+              1189.2930862928395,
+              833.346439650981
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p40-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/dal-p40-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/dal-p40-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "DAL-P41-SHEET",
+        "page": 41,
+        "text": "RYAN CHRISTIAN G. LADESMA\n1 2 3 4 5\nA\nT&B BEDROOM 1 BEDROOM 1 T&B\nB\nBEDROOM 2 BEDROOM 2\nDN\nC\nMASTER MASTER\nBEDROOM BEDROOM\nWIC WIC BALCONY\nBALCONY\nD\nDUPLEX UNIT\n1 SECOND FLOOR PLAN\nA-3 SCALE 1:100\n39",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p41-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p41-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p41-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P41-I01",
+            "page": 41,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1901,
+              1346
+            ],
+            "bbox": [
+              1.0002135814444324,
+              -7.829981299999986,
+              1189.2931320692376,
+              833.346439650981
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p41-i01-640.webp",
+                "width": 640,
+                "height": 453
+              },
+              "1280": {
+                "path": "media/complete/dal-p41-i01-1280.webp",
+                "width": 1280,
+                "height": 906
+              },
+              "full": {
+                "path": "media/complete/dal-p41-i01-full.webp",
+                "width": 1901,
+                "height": 1346
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "DAL-P42-SHEET",
+        "page": 42,
+        "text": "RYAN CHRISTIAN G. LADESMA\nPERSPECTIVES\nThe feature wall combines organic patterns\nwith modern interior design strategies,\ncreating a visually striking focal point that\nadds elegance, texture, and character to\nthe living space. The decorative panels\nfeature intricate leaf-inspired forms that\nintroduce natural elements into the interior,\nwhile their metallic finish adds\nsophistication and visual depth. The use of\nvertical arrangements emphasizes the\nroom's height and creates a sense of\ncontinuity. Complementing the feature\nwall, the neutral color palette, minimalist\nfurniture, warm accent lighting, and large\nwindows establish a balanced and\ncontemporary atmosphere. This\ncombination of natural inspiration and\nmodern detailing creates an interior that is\nboth aesthetically refined and welcoming.\n40",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p42-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p42-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p42-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P42-I01",
+            "page": 42,
+            "index": 0,
+            "embedded_name": "X7.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              -9.64417735815926,
+              72.82571133934596,
+              1199.7997962483396,
+              752.903531002769
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p42-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p42-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/dal-p42-i01-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "DAL-P43-SHEET",
+        "page": 43,
+        "text": "RYAN CHRISTIAN G. LADESMA\n41",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p43-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p43-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p43-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P43-I01",
+            "page": 43,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1124,
+              528
+            ],
+            "bbox": [
+              73.3281113446619,
+              79.49641026140023,
+              712.1664207263979,
+              379.4205193645618
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p43-i01-640.webp",
+                "width": 640,
+                "height": 301
+              },
+              "1280": {
+                "path": "media/complete/dal-p43-i01-1280.webp",
+                "width": 1124,
+                "height": 528
+              },
+              "full": {
+                "path": "media/complete/dal-p43-i01-full.webp",
+                "width": 1124,
+                "height": 528
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P43-I02",
+            "page": 43,
+            "index": 1,
+            "embedded_name": "X6.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              711.826674340554,
+              312.01677177305146,
+              1115.224585532307,
+              539.209267906697
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p43-i02-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p43-i02-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/dal-p43-i02-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P43-I03",
+            "page": 43,
+            "index": 2,
+            "embedded_name": "X7.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              717.0603781224829,
+              79.49639826140071,
+              1109.960927351626,
+              300.6904162449829
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p43-i03-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p43-i03-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/dal-p43-i03-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P43-I04",
+            "page": 43,
+            "index": 3,
+            "embedded_name": "X8.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              714.761514218269,
+              550.424995439375,
+              1112.1609208599598,
+              773.868442129231
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p43-i04-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p43-i04-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/dal-p43-i04-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P43-I05",
+            "page": 43,
+            "index": 4,
+            "embedded_name": "X9.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              58.4345639652264,
+              394.0941811531592,
+              734.0136078160984,
+              774.247954113418
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p43-i05-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p43-i05-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/dal-p43-i05-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "DAL-P44-SHEET",
+        "page": 44,
+        "text": "RYAN CHRISTIAN G. LADESMA\n42",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p44-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p44-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p44-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P44-I01",
+            "page": 44,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1536,
+              864
+            ],
+            "bbox": [
+              464.971756626176,
+              73.75649130056354,
+              1106.059489914186,
+              434.415216273116
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p44-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p44-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/dal-p44-i01-full.webp",
+                "width": 1536,
+                "height": 864
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P44-I02",
+            "page": 44,
+            "index": 1,
+            "embedded_name": "X6.png",
+            "source_size": [
+              2304,
+              1296
+            ],
+            "bbox": [
+              -153.8722927886542,
+              76.337703193013,
+              1042.8247293489676,
+              749.66734713761
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p44-i02-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p44-i02-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/dal-p44-i02-full.webp",
+                "width": 2304,
+                "height": 1296
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P44-I03",
+            "page": 44,
+            "index": 2,
+            "embedded_name": "X7.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              464.971756626176,
+              393.4887739783845,
+              1106.059489914186,
+              754.147498950937
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p44-i03-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p44-i03-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/dal-p44-i03-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "DAL-P45-SHEET",
+        "page": 45,
+        "text": "RYAN CHRISTIAN G. LADESMA\n43",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p45-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p45-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p45-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P45-I01",
+            "page": 45,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1919,
+              1079
+            ],
+            "bbox": [
+              -1.7048710809637018e-13,
+              78.25062311330805,
+              1189.9487744187988,
+              747.831203214116
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p45-i01-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p45-i01-1280.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "full": {
+                "path": "media/complete/dal-p45-i01-full.webp",
+                "width": 1919,
+                "height": 1079
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ]
+      },
+      {
+        "id": "DAL-P46-SHEET",
+        "page": 46,
+        "text": "RYAN CHRISTIAN G. LADESMA\n1 2 3 4 5 A B C D\nAPEX APEX\n9.00 9.00\n2ND FCL 2ND FCL\n7.30 7.30\n2ND FFL 2ND FFL\n4.50 4.50\nGRD FCL GRD FCL\n4.00\n4.00\nGRD FFL GRD FFL\n0.80 0.80\nNGL NGL\n0.00 0.00\n1 FRONT ELEVATION 3 LEFT-SIDE ELEVATION\nA-4 SCALE 1:200 A-4 SCALE 1:200\n5 4 3 2 1\nD C B A\nAPEX\nAPEX\n9.00\n9.00\n2ND FCL\n2ND FCL\n7.30\n7.30\n2ND FFL\n2ND FFL\n4.50\n4.50\nGRD FCL\nGRD FCL\n4.00\n4.00\nGRD FFL\nGRD FFL\n0.80\n0.80\nNGL NGL\n0.00 0.00\n2 REAR ELEVATION 4 RIGHT-SIDE ELEVATION\nA-4 SCALE 1:200 A-4 SCALE 1:200\n44",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p46-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p46-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p46-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P46-I01",
+            "page": 46,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              4994,
+              3541
+            ],
+            "bbox": [
+              -4.001090521287887,
+              -12.03084512496389,
+              1194.1956915538442,
+              838.2539594465011
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p46-i01-640.webp",
+                "width": 640,
+                "height": 454
+              },
+              "1280": {
+                "path": "media/complete/dal-p46-i01-1280.webp",
+                "width": 1280,
+                "height": 908
+              },
+              "full": {
+                "path": "media/complete/dal-p46-i01-full.webp",
+                "width": 4994,
+                "height": 3541
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P46-I02",
+            "page": 46,
+            "index": 1,
+            "embedded_name": "X46.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              131.4971873209503,
+              134.46698477095947,
+              494.405355399776,
+              338.4153546731104
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p46-i02-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p46-i02-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/dal-p46-i02-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P46-I03",
+            "page": 46,
+            "index": 2,
+            "embedded_name": "X48.png",
+            "source_size": [
+              1152,
+              648
+            ],
+            "bbox": [
+              128.6427930398834,
+              436.40606659016385,
+              486.30227893740425,
+              637.3551998172829
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p46-i03-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p46-i03-1280.webp",
+                "width": 1152,
+                "height": 648
+              },
+              "full": {
+                "path": "media/complete/dal-p46-i03-full.webp",
+                "width": 1152,
+                "height": 648
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P46-I04",
+            "page": 46,
+            "index": 3,
+            "embedded_name": "X50.png",
+            "source_size": [
+              768,
+              432
+            ],
+            "bbox": [
+              733.374473442729,
+              158.89807415299742,
+              1002.5563166268184,
+              310.35973264209474
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p46-i04-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p46-i04-1280.webp",
+                "width": 768,
+                "height": 432
+              },
+              "full": {
+                "path": "media/complete/dal-p46-i04-full.webp",
+                "width": 768,
+                "height": 432
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          },
+          {
+            "id": "DAL-P46-I05",
+            "page": 46,
+            "index": 4,
+            "embedded_name": "X50.png",
+            "source_size": [
+              768,
+              432
+            ],
+            "bbox": [
+              726.6810057216235,
+              464.87463740397345,
+              995.8628489057129,
+              616.3362958930708
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p46-i05-640.webp",
+                "width": 640,
+                "height": 360
+              },
+              "1280": {
+                "path": "media/complete/dal-p46-i05-1280.webp",
+                "width": 768,
+                "height": 432
+              },
+              "full": {
+                "path": "media/complete/dal-p46-i05-full.webp",
+                "width": 768,
+                "height": 432
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ],
+        "drawings": [
+          {
+            "id": "DAL-P46-D01",
+            "page": 46,
+            "title": "Front elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p46-drawing-1-640.webp",
+                "width": 640,
+                "height": 361
+              },
+              "1280": {
+                "path": "media/complete/dal-p46-drawing-1-1280.webp",
+                "width": 1280,
+                "height": 723
+              },
+              "full": {
+                "path": "media/complete/dal-p46-drawing-1-full.webp",
+                "width": 1853,
+                "height": 1046
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "DAL-P46-D02",
+            "page": 46,
+            "title": "Rear elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p46-drawing-2-640.webp",
+                "width": 640,
+                "height": 415
+              },
+              "1280": {
+                "path": "media/complete/dal-p46-drawing-2-1280.webp",
+                "width": 1280,
+                "height": 831
+              },
+              "full": {
+                "path": "media/complete/dal-p46-drawing-2-full.webp",
+                "width": 1853,
+                "height": 1203
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "DAL-P46-D03",
+            "page": 46,
+            "title": "Left-side elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p46-drawing-3-640.webp",
+                "width": 640,
+                "height": 423
+              },
+              "1280": {
+                "path": "media/complete/dal-p46-drawing-3-1280.webp",
+                "width": 1280,
+                "height": 847
+              },
+              "full": {
+                "path": "media/complete/dal-p46-drawing-3-full.webp",
+                "width": 1581,
+                "height": 1046
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "DAL-P46-D04",
+            "page": 46,
+            "title": "Right-side elevation",
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p46-drawing-4-640.webp",
+                "width": 640,
+                "height": 487
+              },
+              "1280": {
+                "path": "media/complete/dal-p46-drawing-4-1280.webp",
+                "width": 1280,
+                "height": 974
+              },
+              "full": {
+                "path": "media/complete/dal-p46-drawing-4-full.webp",
+                "width": 1581,
+                "height": 1203
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          }
+        ]
+      },
+      {
+        "id": "DAL-P47-SHEET",
+        "page": 47,
+        "text": "RYAN CHRISTIAN G. LADESMA\n5 4 3 2 1\nAPEX\n9.00\n2ND FCL\n7.30\n2ND FFL\n4.50\nGRD FCL\n4.00\nGRD FFL\n0.80\nNGL\n0.00\n1 LONGITUDINAL SECTION\nA-5 SCALE 1:150\nA B C D\nAPEX\n9.00\n2ND FCL\n7.30\n2ND FFL\n4.50\nGRD FCL\n4.00\nGRD FFL\n0.80\nNGL\n0.00\n1 CROSS SECTION\nA-5 SCALE 1:150\n45",
+        "outputs": {
+          "640": {
+            "path": "media/complete/dal-p47-sheet-640.webp",
+            "width": 640,
+            "height": 453
+          },
+          "1280": {
+            "path": "media/complete/dal-p47-sheet-1280.webp",
+            "width": 1280,
+            "height": 906
+          },
+          "full": {
+            "path": "media/complete/dal-p47-sheet-full.webp",
+            "width": 3400,
+            "height": 2406
+          }
+        },
+        "width": 1190.25,
+        "height": 842.2499787,
+        "images": [
+          {
+            "id": "DAL-P47-I01",
+            "page": 47,
+            "index": 0,
+            "embedded_name": "X4.png",
+            "source_size": [
+              1917,
+              1360
+            ],
+            "bbox": [
+              1.0001678050463396,
+              -7.829981299999986,
+              1199.0468298864332,
+              842.348311275903
+            ],
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p47-i01-640.webp",
+                "width": 640,
+                "height": 454
+              },
+              "1280": {
+                "path": "media/complete/dal-p47-i01-1280.webp",
+                "width": 1280,
+                "height": 908
+              },
+              "full": {
+                "path": "media/complete/dal-p47-i01-full.webp",
+                "width": 1917,
+                "height": 1360
+              }
+            },
+            "method": "embedded original, complete frame; WebP derivatives without upscaling"
+          }
+        ],
+        "drawings": [
+          {
+            "id": "DAL-P47-D01",
+            "page": 47,
+            "title": "Longitudinal section",
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p47-drawing-1-640.webp",
+                "width": 640,
+                "height": 206
+              },
+              "1280": {
+                "path": "media/complete/dal-p47-drawing-1-1280.webp",
+                "width": 1280,
+                "height": 411
+              },
+              "full": {
+                "path": "media/complete/dal-p47-drawing-1-full.webp",
+                "width": 3332,
+                "height": 1070
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          },
+          {
+            "id": "DAL-P47-D02",
+            "page": 47,
+            "title": "Cross section",
+            "outputs": {
+              "640": {
+                "path": "media/complete/dal-p47-drawing-2-640.webp",
+                "width": 640,
+                "height": 233
+              },
+              "1280": {
+                "path": "media/complete/dal-p47-drawing-2-1280.webp",
+                "width": 1280,
+                "height": 467
+              },
+              "full": {
+                "path": "media/complete/dal-p47-drawing-2-full.webp",
+                "width": 3332,
+                "height": 1215
+              }
+            },
+            "method": "completed drawing cropped from composited source sheet, retaining dimensions and title; full sheet remains inline"
+          }
+        ]
+      }
+    ],
+    "concept_text": "DALAWIT: Duality — Interlocked Sanctuaries is an architectural concept inspired by the principles of duality, interlock, and sanctuary, representing two individual homes connected through a unified architectural composition. The concept explores the balance between togetherness and individuality, allowing two households to coexist harmoniously while maintaining their own identity, privacy, and comfort. Through duality, the design expresses two distinct residential units within a shared architectural form, while interlock translates their connection into the arrangement of building masses and spaces. Sanctuary emphasizes the creation of a safe, peaceful, and private environment where each family can experience comfort and belonging. Ultimately, DALAWIT envisions a harmonious duplex where two homes are interconnected yet remain distinct, balancing architectural unity with personal independence and providing each household with its own private sanctuary.",
+    "keywords": [
+      "Kinship",
+      "Balance",
+      "Gathering",
+      "Duality",
+      "Harmony",
+      "Interlock",
+      "Unity",
+      "Roots",
+      "Sanctuary",
+      "Connection"
+    ],
+    "metadata": [
+      [
+        "Project Title",
+        "Proposed Duplex"
+      ],
+      [
+        "Location",
+        "Brgy. Santor, Malolos Bulacan"
+      ],
+      [
+        "Software",
+        "Autocad / Revit / D5"
+      ]
+    ],
+    "perspective_text": "The feature wall combines organic patterns with modern interior design strategies, creating a visually striking focal point that adds elegance, texture, and character to the living space. The decorative panels feature intricate leaf-inspired forms that introduce natural elements into the interior, while their metallic finish adds sophistication and visual depth. The use of vertical arrangements emphasizes the room's height and creates a sense of continuity. Complementing the feature wall, the neutral color palette, minimalist furniture, warm accent lighting, and large windows establish a balanced and contemporary atmosphere. This combination of natural inspiration and modern detailing creates an interior that is both aesthetically refined and welcoming.",
+    "comparison": [
+      [
+        "AMBF",
+        "24,643.72 sqm",
+        "5,586.42 sqm"
+      ],
+      [
+        "PSO",
+        "60%",
+        "13.11%"
+      ],
+      [
+        "ISA",
+        "12,321.86 sqm",
+        "12,846.73 sqm"
+      ],
+      [
+        "USA",
+        "4,107.29 sqm",
+        "4,932.68 sqm"
+      ],
+      [
+        "TOSL",
+        "16,429.15 sqm",
+        "17,779.41 sqm"
+      ],
+      [
+        "MACA",
+        "36,965.58 sqm",
+        "18,233.15 sqm"
+      ],
+      [
+        "GFA",
+        "49,287.44 sqm",
+        "10,842.76 sqm"
+      ],
+      [
+        "FAR",
+        "1.50",
+        "0.26"
+      ],
+      [
+        "MABH",
+        "10 meters",
+        "9.00 meters"
+      ],
+      [
+        "BHL",
+        "10 meters",
+        "9.00 meters"
+      ]
+    ],
+    "general": [
+      [
+        "Total Lot Area (TLA)",
+        "41,072.87 sqm"
+      ],
+      [
+        "Zoning Classification",
+        "R-2"
+      ],
+      [
+        "Occupancy",
+        "Group A"
+      ],
+      [
+        "Type of Construction",
+        "Type II Construction"
+      ],
+      [
+        "Fire Zone Classification",
+        "Fire Zone No. 2"
+      ],
+      [
+        "Required Duplex Units",
+        "54 slots"
+      ],
+      [
+        "Provided Duplex Units",
+        "54 slots"
+      ]
+    ],
+    "setbacks": "Front = 5m , Side = 2m , Rear = 2m",
+    "derivative_version": 2
+  }
+]

@@ -1,0 +1,92 @@
+/* Source-complete project layouts. The taste kit retains the shared design,
+   controls, motion, typography tokens, header, and footer. */
+.source-section .section-head { flex: none; }
+.source-section .section-head > h2 { max-width: none; }
+.source-section > .wrap > .fill { min-height: 0; }
+.source-figure { display: flex; flex-direction: column; min-width: 0; min-height: 0; margin: 0; }
+.source-image { display: block; position: relative; min-height: 0; height: 100%; width: 100%; overflow: hidden; border-radius: var(--r-lg); background: #fff; }
+.source-image > picture { display: flex; align-items: center; justify-content: center; position: absolute; inset: 0; }
+.source-image img { display: block; width: auto; height: auto; max-width: 100%; max-height: 100%; object-fit: contain; }
+.source-prose { font-size: var(--t-body); line-height: 1.6; max-width: 62ch; margin: 0; }
+.source-prose p { margin: 0; }
+.source-prose.mo-wh .mo-w { color: color-mix(in oklab,var(--ink) 80%,var(--bg)); }
+.source-prose.mo-wh .mo-w.is-on { color: var(--ink); }
+@media (prefers-reduced-motion:reduce) { .source-prose.mo-wh .mo-w { color: var(--ink); } }
+.source-metadata { margin: var(--s-5) 0 0; font-size: var(--t-small); }
+.source-metadata > div { display: grid; grid-template-columns: 100px minmax(0,1fr); gap: var(--s-4); padding-block: var(--s-2); }
+.source-metadata dt { color: var(--muted); }
+.source-metadata dd { margin: 0; overflow-wrap: anywhere; }
+.project-contents { display: grid; align-content: start; gap: var(--s-2); }
+.project-contents a { display: flex; align-items: center; gap: var(--s-5); min-height: 56px; font-size: var(--t-lead); border-bottom: 1px solid var(--line); }
+.project-contents a span { font-size: var(--t-small); color: var(--muted); font-variant-numeric: tabular-nums; }
+.source-keywords { display: flex; flex-wrap: wrap; column-gap: var(--s-6); row-gap: var(--s-3); padding-left: var(--s-5); margin: 0 0 var(--s-7); list-style: decimal; }
+.source-keywords li { min-width: 120px; font-size: var(--t-body); padding-left: var(--s-1); }
+.concept-studies { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: var(--s-5); }
+.concept-study, .material-study { display: flex; flex-direction: column; min-height: 0; min-width: 0; margin: 0; gap: var(--s-4); }
+.concept-study h3, .material-study h3 { font: 500 var(--t-card)/1.4 var(--font-text); margin: 0; }
+.concept-study .source-image, .material-study .source-image { flex: 1; background: #fff; }
+.source-pair { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: var(--s-5); }
+.source-pair .source-figure { gap: var(--s-4); }
+.source-pair h3 { font: 500 var(--t-card)/1.4 var(--font-text); margin: 0; }
+.source-pair .source-image { flex: 1; height: auto; }
+.material-studies { display: grid; grid-template-columns: repeat(12,minmax(0,1fr)); grid-template-rows: repeat(2,minmax(0,1fr)); gap: var(--s-5); }
+.material-study { grid-column: span 4; }
+.material-study:nth-child(n+4) { grid-column: span 6; }
+.source-general { margin: 0; align-self: start; }
+.source-general > div { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: var(--s-4); padding-block: var(--s-3); border-bottom: 1px solid var(--line); }
+.source-general dt { color: var(--muted); font-size: var(--t-small); }
+.source-general dd { margin: 0; font-size: var(--t-body); overflow-wrap: anywhere; }
+.control-table { width: 100%; border-collapse: collapse; table-layout: fixed; font-variant-numeric: tabular-nums; }
+.control-table th, .control-table td { padding: var(--s-3) var(--s-4); border-bottom: 1px solid var(--line); text-align: left; overflow-wrap: anywhere; }
+.control-table th { font-weight: 500; }
+.control-table thead th { font-size: var(--t-small); color: var(--muted); }
+.control-table tbody th { font-size: var(--t-body); }
+.control-table td { font-size: var(--t-body); }
+.control-table th:first-child { padding-left: 0; width: 20%; }
+.control-table th:last-child, .control-table td:last-child { padding-right: 0; }
+.source-setbacks { margin-top: var(--s-5); font-size: var(--t-body); }
+.source-sheet-index { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); column-gap: var(--s-5); row-gap: var(--s-3); }
+.source-sheet-index a { display: flex; align-items: center; min-height: 56px; border-bottom: 1px solid var(--line); }
+@media (min-width:640px) and (max-width:1279px) {
+  .complete-project main > .source-section { height: calc(var(--h,1) * 100svh); min-height: 0; }
+  .complete-project main > .source-section > .wrap { height: 100%; flex: 1; }
+}
+@media (max-width:1023px) {
+  .source-section > .wrap > .grid.fill { display: flex; flex-direction: column; gap: var(--s-6); }
+  .source-section > .wrap > .grid.fill > .source-figure { flex: 1 1 0; min-height: 220px; }
+  #concept.source-story { --h: 2; }
+  .source-story .source-prose { max-width: none; }
+  .source-story .source-figure { min-height: 420px !important; }
+  .source-general { width: 100%; }
+  .material-study .source-image { min-height: 200px; }
+  .project-contents { grid-template-columns: repeat(2,minmax(0,1fr)); column-gap: var(--s-5); }
+}
+@media (max-width:639px) {
+  /* Source content determines phone length; no work is hidden or clipped. */
+  .complete-project main > .source-section { display: grid; grid-template-columns: minmax(0,1fr); grid-template-rows: 1fr; height: auto; min-height: calc(var(--hm,var(--h,1)) * 100svh); }
+  .complete-project main > .source-section > .wrap { display: flex; flex-direction: column; height: auto; min-height: 0; }
+  .source-section .fill { flex: 1 0 auto !important; }
+  .source-figure { flex: 1 0 auto; }
+  .source-image { min-height: 260px; }
+  .source-section > .wrap > .grid.fill > .source-figure { flex: 1 0 auto; }
+  .source-story .source-figure { min-height: 260px !important; }
+  .source-story .source-figure .source-image { min-height: 360px; }
+  .source-prose { line-height: 1.65; }
+  .source-keywords { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); margin-bottom: var(--s-6); column-gap: var(--s-5); }
+  .source-keywords li { min-width: 0; }
+  #development, .source-materials, .source-archive { --hm: 2; }
+  .source-archive--compact { --hm: 1; }
+  .concept-studies, .source-pair, .material-studies { display: flex; flex-direction: column; gap: var(--s-6); }
+  .concept-study, .material-study { flex: 1 0 auto; }
+  .concept-study .source-image { height: 280px; }
+  .source-pair > .source-figure .source-image { height: 300px; }
+  .material-study .source-image { min-height: 220px; height: 220px; flex: 0 0 220px; }
+  .source-general > div { grid-template-columns: minmax(0,1fr) minmax(0,1fr); }
+  .control-table th, .control-table td { padding: var(--s-3) var(--s-2); line-height: 1.5; }
+  .control-table th:first-child { width: 20%; }
+  .control-table th:nth-child(2), .control-table th:nth-child(3) { width: 40%; }
+  .source-sheet-index { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .source-sheet-index a { min-height: 48px; }
+  .project-contents { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .project-contents a { font-size: var(--t-body); line-height: 1.5; gap: var(--s-3); }
+}

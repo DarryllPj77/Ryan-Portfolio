@@ -13,15 +13,19 @@ Ryan Christian G. Ladesma; Architectural Design 7; the source describes fourth-y
 1. Hero: architecture portfolio, original Salupod facade render, one screen. Entrance establishes the category before the project link. The film composition uses a still and has no play control.
 2. Work / Salupod: central-atrium proposal, wide original aerial rendering, one screen, object.
 3. Lakbay: curved campus circulation, text and original campus rendering, one screen, use. Dealt picture-develops moment on the image introduces the second project.
-4. Dalawit: two homes and private living spaces, two original perspectives, one screen, use/interior. Phone composition keeps the exterior; full interiors remain on the project page.
+4. Dalawit: two homes and private living spaces, two original perspectives, one screen, use/interior. Both images remain visible on mobile; its project page shows every source view.
 5. About: source-grounded introduction, supplied portrait and original software marks, one screen, people/tools.
 6. Footer: links to the project pages and original PDF, one screen, type.
 
 ## Project screens
 
-Each page: hero; concept; site; materials; floor plan; architectural perspectives; elevations; building sections; footer. Each section is one screen at desktop and grows with its content on smaller devices. Concept uses the picture-develops moment. Materials uses the additional dealt word-highlight moment on its factual paragraph. The work, plans, interiors, and sections each have a different purpose. The perspectives section uses a new source view rather than repeating the concept rendering.
+Source completeness is the client's explicit priority over the skill's short-copy and short-page defaults. Project showcases use 31 sections for Salupod, 33 for Lakbay, and 31 for Dalawit, including their heroes. Each source section is normally one desktop screen; full narratives and stacked studies can use two tablet or phone screens and grow with their content. No project work is hidden at a breakpoint.
 
-The Lakbay page uses the layout kit's optical scale token at 0.92 so the first-dealt Red Hat pairing also accommodates the maximum-length headline stress check. Material statements use the existing h3 type token beneath their section headings. Repeated project metadata was removed from concept sections to give images room at 320px.
+Each page contains: hero; contents navigation and original introduction; complete concept narrative and metadata; every ordered keyword and all three concept sketches; original vector concept sequence; both design-feature images; all five material studies; general development data, all ten required/actual control rows and setbacks; each complete site/floor-plan sheet; every perspective and the complete original commentary; complete elevation and section sheets plus individually composed annotated drawings; and a supplementary original-sheet archive.
+
+The development-control rendering carries picture-develops. The full perspective commentary carries word-highlight, with readable text before highlighting and under reduced motion. Content images use contain sizing, not cropped cover frames. Original vector labels remain in high-resolution completed sheet renders. Native full-resolution links support detailed inspection without a custom viewer. Full PDF links are supplementary, never the sole location of a project item.
+
+The Lakbay page uses the layout kit's optical scale token at 0.92 so the first-dealt Red Hat pairing also accommodates the maximum-length headline stress check. Material studies use the existing h3 type token above their images. Full project metadata is restored in each concept section, with stacked layouts to accommodate it at narrow widths.
 
 ## Assets and interaction
 

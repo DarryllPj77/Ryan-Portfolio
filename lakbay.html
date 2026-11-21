@@ -22,6 +22,7 @@
 <link rel="stylesheet" href="assets/layout/layout.css">
 <link rel="stylesheet" href="assets/icons/icon.css">
 <link rel="stylesheet" href="site.css">
+<link rel="stylesheet" href="complete-portfolio.css">
 <script>document.documentElement.classList.add('m-enter');setTimeout(()=>document.documentElement.classList.add('m-enter-done'),700)</script>
 <script>document.documentElement.classList.add('mo-js');setTimeout(()=>document.documentElement.classList.add('mo-safe'),2500)</script>
 <link rel="modulepreload" href="assets/moments/moments.js">
@@ -29,7 +30,7 @@
 <link rel="modulepreload" href="assets/moments/picture-develops/moment.js">
 <link rel="modulepreload" href="assets/moments/word-highlight/moment.js">
 </head>
-<body>
+<body class="complete-project">
 <!-- service; brand: paper white, charcoal, landscape green; Red Hat pairing; nav-split; footer-columns; close-type; surface-pairs; solid; wordmark. -->
 <header class="nav nav--split">
 <div class="wrap nav__bar">
@@ -61,7 +62,7 @@
 <h1 id="hero-h">Lakbay high school design</h1>
 <p class="hero__lead">A proposed high school in Santor, Malolos, organized through curved circulation, shared learning areas, and outdoor spaces.</p>
 <div class="btn-row">
-<a class="btn btn--primary" href="#concept">See design concept <svg class="m-arrow" viewBox="0 0 12 12" aria-hidden="true">
+<a class="btn btn--primary" href="#contents">See project contents <svg class="m-arrow" viewBox="0 0 12 12" aria-hidden="true">
 <path class="m-arrow__stem" d="M1 6h8"/>
 <path class="m-arrow__head" d="M4.5 2.5 8 6l-3.5 3.5"/>
 </svg>
@@ -72,145 +73,816 @@
 <div class="hero__media span-6 start-7">
 <picture>
 <source media="(max-width:639px)" srcset="media/lakbay-campus-phone.webp">
-<img class="" src="media/lakbay-campus-2000.webp" width="2000" height="1125" alt="Lakbay campus exterior rendering" data-source="client-pdf" data-subject="architectural work" fetchpriority=high>
+<img class="" src="media/lakbay-campus-1280.webp" width="1280" height="720" alt="Lakbay campus exterior rendering" data-source="client-pdf" data-subject="architectural work" fetchpriority=high>
 </picture>
 </div>
 </div>
 </div>
 </section>
-<section class="section" id="concept" aria-labelledby="concept-h">
+<section class="section source-section" id="contents" aria-labelledby="contents-h">
 <div class="wrap">
 <div class="section-head">
-<h2 id="concept-h">A campus shaped by movement</h2>
+<h2 id="contents-h">Lakbay project contents</h2>
 </div>
 <div class="grid fill">
-<div class="span-6">
-<p>Curved circulation connects classrooms, shared learning areas, and outdoor spaces. The campus plan gives students places to pause and meet between activities.</p>
-
-</div>
-<figure class="frame frame--photo frame--fill span-6 start-7" data-moment="picture-develops">
+<nav class="span-6 project-contents" aria-label="Lakbay project contents">
+<a class="m-link" href="#concept">
+<span>01</span>Concept</a>
+<a class="m-link" href="#development">
+<span>02</span>Design development</a>
+<a class="m-link" href="#features">
+<span>03</span>Features and materials</a>
+<a class="m-link" href="#controls">
+<span>04</span>Development controls</a>
+<a class="m-link" href="#site-plans">
+<span>05</span>Site and floor plans</a>
+<a class="m-link" href="#perspectives">
+<span>06</span>Perspectives</a>
+<a class="m-link" href="#elevations">
+<span>07</span>Elevations and sections</a>
+<a class="m-link" href="#source-sheets">
+<span>08</span>Source sheets</a>
+</nav>
+<figure class="source-figure span-6 start-7">
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p18-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open original project introduction">
 <picture>
-<source media="(max-width:639px)" srcset="media/lakbay-facade-phone.webp">
-<img class="" src="media/lakbay-facade-2000.webp" width="2000" height="1333" alt="Lakbay design rendering" data-source="client-pdf" data-subject="architectural work" loading=lazy decoding=async>
+<source media="(max-width:639px)" srcset="media/complete/lak-p18-sheet-640.webp">
+<img class="" src="media/complete/lak-p18-sheet-1280.webp" width="1280" height="906" alt="Lakbay original project introduction" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P18-SHEET LAK-P18-I01">
 </picture>
+</a>
 </figure>
 </div>
 </div>
 </section>
-<section class="section" id="site" aria-labelledby="site-h">
-<div class="wrap">
-<div class="section-head section-head--split">
-<div>
-<h2 id="site-h">Site development plan</h2>
-<p>The proposed arrangement of buildings, circulation, and outdoor spaces.</p>
-</div>
-<a class="link" href="media/lakbay-site-2400.webp" target="_blank" rel="noopener">Open full-size drawing <svg class="m-arrow" viewBox="0 0 12 12" aria-hidden="true">
-<path class="m-arrow__stem" d="M1 6h8"/>
-<path class="m-arrow__head" d="M4.5 2.5 8 6l-3.5 3.5"/>
-</svg>
-</a>
-</div>
-<a class="work-art drawing fill m-zoom" href="media/lakbay-site-2400.webp" target="_blank" rel="noopener" aria-label="Open site development plan at full resolution">
-<picture>
-<source media="(max-width:639px)" srcset="media/lakbay-site-640.webp">
-<img src="media/lakbay-site-1280.webp" width="1280" height="906" alt="Site development plan architectural drawing for Lakbay, with original dimensions and annotations" loading="lazy" decoding="async" data-source="client-pdf" data-subject="architectural drawing">
-</picture>
-</a>
-</div>
-</section>
-<section class="section ground-surface" id="materials" aria-labelledby="materials-h">
+<section class="section source-section source-story" id="concept" aria-labelledby="concept-h">
 <div class="wrap">
 <div class="section-head">
-<h2 id="materials-h">School materials</h2>
+<h2 id="concept-h">Lakbay: The Journey of Learning</h2>
 </div>
 <div class="grid fill">
-<div class="span-6">
-<p data-moment="word-highlight" class="t-h3">Wood cladding, low-E glass, and terracotta tiles form the proposed material palette. Shared circulation connects the learning spaces.</p>
+<div class="span-6 source-prose">
+<p data-coverage="LAK-P19-TEXT">Lakbay represents the journey of every student—from the first step into the school, through the continuous process of learning, interaction, and discovery, toward personal growth and graduation. The school is envisioned not merely as a place for academic instruction, but as a dynamic environment where every space contributes to the students’ educational experience. Through interconnected learning areas, flowing circulation, communal spaces, and opportunities for interaction with nature, the design encourages students to explore, collaborate, and develop their potential. The curved architectural form symbolizes the continuity of this journey, guiding students through different spaces and experiences while expressing movement, connection, and progression. By integrating functional planning, climate-responsive strategies, and welcoming outdoor spaces, LAKBAY transforms the school into a meaningful journey where the environment supports not only academic achievement but also social development, creativity, and personal growth.</p>
+<dl class="source-metadata" data-coverage="LAK-P19-META">
+<div>
+<dt>Project Title</dt>
+<dd>Proposed Highschool Dev.</dd>
 </div>
-<figure class="frame frame--photo frame--fill span-6 start-7" >
+<div>
+<dt>Location</dt>
+<dd>Brgy. Santor, Malolos Bulacan</dd>
+</div>
+<div>
+<dt>Software</dt>
+<dd>Autocad / Revit / D5</dd>
+</div>
+</dl>
+</div>
+<figure class="source-figure span-6 start-7">
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p19-i01-full.webp" target="_blank" rel="noopener" aria-label="Open complete concept rendering">
 <picture>
-<source media="(max-width:639px)" srcset="media/lakbay-courtyard-phone.webp">
-<img class="" src="media/lakbay-courtyard-2000.webp" width="1152" height="648" alt="Lakbay interior or courtyard rendering" data-source="client-pdf" data-subject="architectural work" loading=lazy decoding=async>
+<source media="(max-width:639px)" srcset="media/complete/lak-p19-i01-640.webp">
+<img class="" src="media/complete/lak-p19-i01-1280.webp" width="1280" height="720" alt="Lakbay complete concept rendering" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P19-I01">
 </picture>
+</a>
 </figure>
 </div>
 </div>
 </section>
-<section class="section" id="plan" aria-labelledby="plan-h">
+<section class="section source-section" id="development" aria-labelledby="development-h">
+<div class="wrap">
+<div class="section-head">
+<h2 id="development-h">Design development</h2>
+</div>
+<ol class="source-keywords" data-coverage="LAK-P19-KEYWORDS">
+<li>Movement</li>
+<li>Sequence</li>
+<li>Direction</li>
+<li>Rhythm</li>
+<li>Pause</li>
+<li>Encounter</li>
+<li>Connection</li>
+<li>Weaving</li>
+<li>Growth</li>
+<li>Discovery</li>
+</ol>
+<div class="concept-studies fill">
+<figure class="concept-study">
+<h3>Concept sketch 1</h3>
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p19-i02-full.webp" target="_blank" rel="noopener" aria-label="Open concept sketch 1">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p19-i02-640.webp">
+<img class="" src="media/complete/lak-p19-i02-1280.webp" width="328" height="293" alt="Lakbay original concept sketch 1" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P19-I02">
+</picture>
+</a>
+</figure>
+<figure class="concept-study">
+<h3>Concept sketch 2</h3>
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p19-i03-placed-full.webp" target="_blank" rel="noopener" aria-label="Open concept sketch 2">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p19-i03-placed-640.webp">
+<img class="" src="media/complete/lak-p19-i03-placed-1280.webp" width="643" height="482" alt="Lakbay original concept sketch 2" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P19-I03">
+</picture>
+</a>
+</figure>
+<figure class="concept-study">
+<h3>Concept sketch 3</h3>
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p19-i04-full.webp" target="_blank" rel="noopener" aria-label="Open concept sketch 3">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p19-i04-640.webp">
+<img class="" src="media/complete/lak-p19-i04-1280.webp" width="410" height="359" alt="Lakbay original concept sketch 3" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P19-I04">
+</picture>
+</a>
+</figure>
+</div>
+</div>
+</section>
+<section class="section source-section" id="concept-sequence" aria-labelledby="concept-sequence-h">
 <div class="wrap">
 <div class="section-head section-head--split">
 <div>
-<h2 id="plan-h">Floor plan</h2>
-<p>Spatial organization and circulation, shown in the original architectural drawing.</p>
+<h2 id="concept-sequence-h">Concept development sequence</h2>
+<p class="t-small muted">Portfolio page 19</p>
 </div>
-<a class="link" href="media/lakbay-plan-2400.webp" target="_blank" rel="noopener">Open full-size drawing <svg class="m-arrow" viewBox="0 0 12 12" aria-hidden="true">
-<path class="m-arrow__stem" d="M1 6h8"/>
-<path class="m-arrow__head" d="M4.5 2.5 8 6l-3.5 3.5"/>
-</svg>
-</a>
+<a class="link" href="media/complete/lak-concept-sequence-full.webp" target="_blank" rel="noopener">Open full-size</a>
 </div>
-<a class="work-art drawing fill m-zoom" href="media/lakbay-plan-2400.webp" target="_blank" rel="noopener" aria-label="Open floor plan at full resolution">
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-concept-sequence-full.webp" target="_blank" rel="noopener" aria-label="Open Concept development sequence at full resolution">
 <picture>
-<source media="(max-width:639px)" srcset="media/lakbay-plan-640.webp">
-<img src="media/lakbay-plan-1280.webp" width="1280" height="906" alt="Floor plan architectural drawing for Lakbay, with original dimensions and annotations" loading="lazy" decoding="async" data-source="client-pdf" data-subject="architectural drawing">
+<source media="(max-width:639px)" srcset="media/complete/lak-concept-sequence-640.webp">
+<img class="" src="media/complete/lak-concept-sequence-1280.webp" width="1280" height="401" alt="Lakbay — Concept development sequence" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P19-DIAGRAM">
 </picture>
 </a>
+</figure>
 </div>
 </section>
-<section class="section" id="perspectives" aria-labelledby="perspectives-h">
+<section class="section source-section" id="features" aria-labelledby="features-h">
 <div class="wrap">
 <div class="section-head">
-<h2 id="perspectives-h">Architectural perspectives</h2>
-<p>The Journey of Learning.</p>
+<h2 id="features-h">Design features</h2>
 </div>
-<a class="work-art fill m-zoom" href="media/lakbay-aerial-2000.webp" target="_blank" rel="noopener" aria-label="Open Lakbay perspective">
+<div class="source-pair fill">
+<figure class="source-figure">
+<h3>Undulating school facade</h3>
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p20-i04-full.webp" target="_blank" rel="noopener" aria-label="Open Undulating school facade">
 <picture>
-<source media="(max-width:639px)" srcset="media/lakbay-aerial-phone.webp">
-<img class="" src="media/lakbay-aerial-2000.webp" width="2000" height="1125" alt="Lakbay exterior architectural perspective" data-source="client-pdf" data-subject="architectural work" loading=lazy decoding=async>
+<source media="(max-width:639px)" srcset="media/complete/lak-p20-i04-640.webp">
+<img class="" src="media/complete/lak-p20-i04-1280.webp" width="960" height="540" alt="Lakbay — Undulating school facade" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P20-I04">
 </picture>
 </a>
+</figure>
+<figure class="source-figure">
+<h3>School facade and pedestrian circulation</h3>
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p20-i07-full.webp" target="_blank" rel="noopener" aria-label="Open School facade and pedestrian circulation">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p20-i07-640.webp">
+<img class="" src="media/complete/lak-p20-i07-1280.webp" width="1149" height="648" alt="Lakbay — School facade and pedestrian circulation" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P20-I07">
+</picture>
+</a>
+</figure>
+</div>
 </div>
 </section>
-<section class="section" id="elevations" aria-labelledby="elevations-h">
+<section class="section source-section source-materials" id="materials" aria-labelledby="materials-h">
+<div class="wrap">
+<div class="section-head">
+<h2 id="materials-h">Material concept</h2>
+</div>
+<div class="material-studies fill">
+<figure class="material-study">
+<h3>Wood cladding</h3>
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p20-i01-full.webp" target="_blank" rel="noopener" aria-label="Open Wood cladding material reference">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p20-i01-640.webp">
+<img class="" src="media/complete/lak-p20-i01-1280.webp" width="569" height="780" alt="Wood cladding material reference from Lakbay" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P20-I01">
+</picture>
+</a>
+</figure>
+<figure class="material-study">
+<h3>Low-E glass</h3>
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p20-i02-full.webp" target="_blank" rel="noopener" aria-label="Open Low-E glass material reference">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p20-i02-640.webp">
+<img class="" src="media/complete/lak-p20-i02-1280.webp" width="820" height="820" alt="Low-E glass material reference from Lakbay" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P20-I02">
+</picture>
+</a>
+</figure>
+<figure class="material-study">
+<h3>Rubber flooring</h3>
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p20-i03-full.webp" target="_blank" rel="noopener" aria-label="Open Rubber flooring material reference">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p20-i03-640.webp">
+<img class="" src="media/complete/lak-p20-i03-1280.webp" width="512" height="384" alt="Rubber flooring material reference from Lakbay" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P20-I03">
+</picture>
+</a>
+</figure>
+<figure class="material-study">
+<h3>Non slip porcelain tiles</h3>
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p20-i05-full.webp" target="_blank" rel="noopener" aria-label="Open Non slip porcelain tiles material reference">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p20-i05-640.webp">
+<img class="" src="media/complete/lak-p20-i05-1280.webp" width="600" height="600" alt="Non slip porcelain tiles material reference from Lakbay" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P20-I05">
+</picture>
+</a>
+</figure>
+<figure class="material-study">
+<h3>Terracota tiles</h3>
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p20-i06-full.webp" target="_blank" rel="noopener" aria-label="Open Terracota tiles material reference">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p20-i06-640.webp">
+<img class="" src="media/complete/lak-p20-i06-1280.webp" width="551" height="344" alt="Terracota tiles material reference from Lakbay" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P20-I06">
+</picture>
+</a>
+</figure>
+</div>
+</div>
+</section>
+<section class="section source-section" id="controls" aria-labelledby="controls-h">
+<div class="wrap">
+<div class="section-head">
+<h2 id="controls-h">Development controls</h2>
+</div>
+<div class="grid fill">
+<dl class="source-general span-6" data-coverage="LAK-P21-GENERAL">
+<div>
+<dt>Total Lot Area (TLA)</dt>
+<dd>18,932.79 sqm</dd>
+</div>
+<div>
+<dt>Zoning Classification</dt>
+<dd>General Institutional</dd>
+</div>
+<div>
+<dt>Occupancy</dt>
+<dd>Group C</dd>
+</div>
+<div>
+<dt>Type of Construction</dt>
+<dd>Type II Construction</dd>
+</div>
+<div>
+<dt>Fire Zone Classification</dt>
+<dd>Fire Zone No. 2</dd>
+</div>
+<div>
+<dt>Required Parking Slots</dt>
+<dd>4 slots</dd>
+</div>
+<div>
+<dt>Provided Parking Slots</dt>
+<dd>12 slots</dd>
+</div>
+</dl>
+<figure class="source-figure span-6 start-7" data-moment="picture-develops">
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p21-i01-full.webp" target="_blank" rel="noopener" aria-label="Open development-control rendering">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p21-i01-640.webp">
+<img class="" src="media/complete/lak-p21-i01-1280.webp" width="1280" height="720" alt="Lakbay development-control rendering" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P21-I01">
+</picture>
+</a>
+</figure>
+</div>
+</div>
+</section>
+<section class="section source-section source-control-table" id="control-values" aria-labelledby="control-values-h">
+<div class="wrap">
+<div class="section-head">
+<h2 id="control-values-h">Required and actual values</h2>
+</div>
+<table class="control-table">
+<thead>
+<tr>
+<th scope="col">Control</th>
+<th scope="col">Required Datas</th>
+<th scope="col">Actual Datas</th>
+</tr>
+</thead>
+<tbody>
+<tr data-coverage="LAK-P21-CONTROL01">
+<th scope="row">AMBF</th>
+<td>9,466.40 sqm</td>
+<td>7,284.63 sqm</td>
+</tr>
+<tr data-coverage="LAK-P21-CONTROL02">
+<th scope="row">PSO</th>
+<td>50%</td>
+<td>38.48%</td>
+</tr>
+<tr data-coverage="LAK-P21-CONTROL03">
+<th scope="row">ISA</th>
+<td>3,786.56 sqm</td>
+<td>4,126.78 sqm</td>
+</tr>
+<tr data-coverage="LAK-P21-CONTROL04">
+<th scope="row">USA</th>
+<td>5,679.87 sqm</td>
+<td>5,847.92 sqm</td>
+</tr>
+<tr data-coverage="LAK-P21-CONTROL05">
+<th scope="row">TOSL</th>
+<td>9,466.43 sqm</td>
+<td>9,974.70 sqm</td>
+</tr>
+<tr data-coverage="LAK-P21-CONTROL06">
+<th scope="row">MACA</th>
+<td>13,252.94 sqm</td>
+<td>11,411.41 sqm</td>
+</tr>
+<tr data-coverage="LAK-P21-CONTROL07">
+<th scope="row">GFA</th>
+<td>47,331.98 sqm</td>
+<td>12,483.76 sqm</td>
+</tr>
+<tr data-coverage="LAK-P21-CONTROL08">
+<th scope="row">FAR</th>
+<td>2.50</td>
+<td>0.66</td>
+</tr>
+<tr data-coverage="LAK-P21-CONTROL09">
+<th scope="row">MABH</th>
+<td>45 meters</td>
+<td>19.50 meters</td>
+</tr>
+<tr data-coverage="LAK-P21-CONTROL10">
+<th scope="row">BHL</th>
+<td>45 meters</td>
+<td>19.50 meters</td>
+</tr>
+</tbody>
+</table>
+<p class="source-setbacks" data-coverage="LAK-P21-SETBACKS">Setbacks: Front = 5m , Side = 2m , Rear = 2m</p>
+</div>
+</section>
+<section class="section source-section" id="site-plans" aria-labelledby="site-plans-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="site-plans-h">Site development plan</h2>
+<p class="t-small muted">Portfolio page 22</p>
+</div>
+<a class="link" href="media/complete/lak-p22-sheet-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p22-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open Site development plan at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p22-sheet-640.webp">
+<img class="" src="media/complete/lak-p22-sheet-1280.webp" width="1280" height="906" alt="Lakbay — Site development plan" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P22-SHEET LAK-P22-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="plan-23" aria-labelledby="plan-23-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="plan-23-h">Plan on site</h2>
+<p class="t-small muted">Portfolio page 23</p>
+</div>
+<a class="link" href="media/complete/lak-p23-sheet-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p23-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open Plan on site at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p23-sheet-640.webp">
+<img class="" src="media/complete/lak-p23-sheet-1280.webp" width="1280" height="906" alt="Lakbay — Plan on site" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P23-SHEET LAK-P23-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="plan-24" aria-labelledby="plan-24-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="plan-24-h">Second floor plan - Area A</h2>
+<p class="t-small muted">Portfolio page 24</p>
+</div>
+<a class="link" href="media/complete/lak-p24-sheet-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p24-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open Second floor plan - Area A at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p24-sheet-640.webp">
+<img class="" src="media/complete/lak-p24-sheet-1280.webp" width="1280" height="906" alt="Lakbay — Second floor plan - Area A" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P24-SHEET LAK-P24-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="plan-25" aria-labelledby="plan-25-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="plan-25-h">Second floor plan - Area B</h2>
+<p class="t-small muted">Portfolio page 25</p>
+</div>
+<a class="link" href="media/complete/lak-p25-sheet-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p25-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open Second floor plan - Area B at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p25-sheet-640.webp">
+<img class="" src="media/complete/lak-p25-sheet-1280.webp" width="1280" height="906" alt="Lakbay — Second floor plan - Area B" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P25-SHEET LAK-P25-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="plan-26" aria-labelledby="plan-26-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="plan-26-h">Second floor plan - Area C</h2>
+<p class="t-small muted">Portfolio page 26</p>
+</div>
+<a class="link" href="media/complete/lak-p26-sheet-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p26-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open Second floor plan - Area C at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p26-sheet-640.webp">
+<img class="" src="media/complete/lak-p26-sheet-1280.webp" width="1280" height="906" alt="Lakbay — Second floor plan - Area C" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P26-SHEET LAK-P26-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="plan-27" aria-labelledby="plan-27-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="plan-27-h">Third floor plan - Area A</h2>
+<p class="t-small muted">Portfolio page 27</p>
+</div>
+<a class="link" href="media/complete/lak-p27-sheet-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p27-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open Third floor plan - Area A at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p27-sheet-640.webp">
+<img class="" src="media/complete/lak-p27-sheet-1280.webp" width="1280" height="906" alt="Lakbay — Third floor plan - Area A" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P27-SHEET LAK-P27-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="plan-28" aria-labelledby="plan-28-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="plan-28-h">Third floor plan - Area B</h2>
+<p class="t-small muted">Portfolio page 28</p>
+</div>
+<a class="link" href="media/complete/lak-p28-sheet-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p28-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open Third floor plan - Area B at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p28-sheet-640.webp">
+<img class="" src="media/complete/lak-p28-sheet-1280.webp" width="1280" height="906" alt="Lakbay — Third floor plan - Area B" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P28-SHEET LAK-P28-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="plan-29" aria-labelledby="plan-29-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="plan-29-h">Third floor plan - Area C</h2>
+<p class="t-small muted">Portfolio page 29</p>
+</div>
+<a class="link" href="media/complete/lak-p29-sheet-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p29-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open Third floor plan - Area C at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p29-sheet-640.webp">
+<img class="" src="media/complete/lak-p29-sheet-1280.webp" width="1280" height="906" alt="Lakbay — Third floor plan - Area C" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P29-SHEET LAK-P29-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section source-story" id="perspectives" aria-labelledby="perspectives-h">
+<div class="wrap">
+<div class="section-head">
+<h2 id="perspectives-h">Facade perspective</h2>
+</div>
+<div class="grid fill">
+<p class="source-prose span-6" data-coverage="LAK-P30-COMMENTARY" data-moment="word-highlight">The dynamic, undulating facade translates the student experience into a physical architectural skin: the fluid, non-linear profile reflects an academic journey filled with moments of challenge, momentum, and growth. Each individual wave panel acts as a single student&#x27;s trajectory, which, when repeated across the building elevation, weaves together to form a collective identity representing how diverse personal paths shape a shared educational community.</p>
+<figure class="source-figure span-6 start-7">
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p30-i01-full.webp" target="_blank" rel="noopener" aria-label="Open facade perspective">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p30-i01-640.webp">
+<img class="" src="media/complete/lak-p30-i01-1280.webp" width="1280" height="853" alt="Lakbay — Facade perspective" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P30-I01">
+</picture>
+</a>
+</figure>
+</div>
+</div>
+</section>
+<section class="section source-section" id="perspective-31-1" aria-labelledby="perspective-31-1-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="perspective-31-1-h">Lakbay perspective 2</h2>
+<p class="t-small muted">Portfolio page 31</p>
+</div>
+<a class="link" href="media/complete/lak-p31-i01-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p31-i01-full.webp" target="_blank" rel="noopener" aria-label="Open Lakbay perspective 2 at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p31-i01-640.webp">
+<img class="" src="media/complete/lak-p31-i01-1280.webp" width="1152" height="648" alt="Lakbay — Lakbay perspective 2" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P31-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="perspective-31-2" aria-labelledby="perspective-31-2-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="perspective-31-2-h">Lakbay perspective 3</h2>
+<p class="t-small muted">Portfolio page 31</p>
+</div>
+<a class="link" href="media/complete/lak-p31-i02-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p31-i02-full.webp" target="_blank" rel="noopener" aria-label="Open Lakbay perspective 3 at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p31-i02-640.webp">
+<img class="" src="media/complete/lak-p31-i02-1280.webp" width="1152" height="648" alt="Lakbay — Lakbay perspective 3" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P31-I02">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="perspective-31-3" aria-labelledby="perspective-31-3-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="perspective-31-3-h">Lakbay perspective 4</h2>
+<p class="t-small muted">Portfolio page 31</p>
+</div>
+<a class="link" href="media/complete/lak-p31-i03-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p31-i03-full.webp" target="_blank" rel="noopener" aria-label="Open Lakbay perspective 4 at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p31-i03-640.webp">
+<img class="" src="media/complete/lak-p31-i03-1280.webp" width="1152" height="648" alt="Lakbay — Lakbay perspective 4" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P31-I03">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="perspective-31-4" aria-labelledby="perspective-31-4-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="perspective-31-4-h">Lakbay perspective 5</h2>
+<p class="t-small muted">Portfolio page 31</p>
+</div>
+<a class="link" href="media/complete/lak-p31-i04-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p31-i04-full.webp" target="_blank" rel="noopener" aria-label="Open Lakbay perspective 5 at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p31-i04-640.webp">
+<img class="" src="media/complete/lak-p31-i04-1280.webp" width="1280" height="853" alt="Lakbay — Lakbay perspective 5" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P31-I04">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="perspective-31-5" aria-labelledby="perspective-31-5-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="perspective-31-5-h">Lakbay perspective 6</h2>
+<p class="t-small muted">Portfolio page 31</p>
+</div>
+<a class="link" href="media/complete/lak-p31-i05-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p31-i05-full.webp" target="_blank" rel="noopener" aria-label="Open Lakbay perspective 6 at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p31-i05-640.webp">
+<img class="" src="media/complete/lak-p31-i05-1280.webp" width="1280" height="720" alt="Lakbay — Lakbay perspective 6" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P31-I05">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="perspective-32-1" aria-labelledby="perspective-32-1-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="perspective-32-1-h">Lakbay perspective 7</h2>
+<p class="t-small muted">Portfolio page 32</p>
+</div>
+<a class="link" href="media/complete/lak-p32-i01-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p32-i01-full.webp" target="_blank" rel="noopener" aria-label="Open Lakbay perspective 7 at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p32-i01-640.webp">
+<img class="" src="media/complete/lak-p32-i01-1280.webp" width="1280" height="720" alt="Lakbay — Lakbay perspective 7" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P32-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="elevations" aria-labelledby="elevations-h">
 <div class="wrap">
 <div class="section-head section-head--split">
 <div>
 <h2 id="elevations-h">Building elevations</h2>
-<p>Facade proportions and levels from the proposed design.</p>
+<p class="t-small muted">Portfolio page 33</p>
 </div>
-<a class="link" href="media/lakbay-elevations-2400.webp" target="_blank" rel="noopener">Open full-size drawing <svg class="m-arrow" viewBox="0 0 12 12" aria-hidden="true">
-<path class="m-arrow__stem" d="M1 6h8"/>
-<path class="m-arrow__head" d="M4.5 2.5 8 6l-3.5 3.5"/>
-</svg>
-</a>
+<a class="link" href="media/complete/lak-p33-sheet-full.webp" target="_blank" rel="noopener">Open full-size</a>
 </div>
-<a class="work-art drawing fill m-zoom" href="media/lakbay-elevations-2400.webp" target="_blank" rel="noopener" aria-label="Open building elevations at full resolution">
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p33-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open Building elevations at full resolution">
 <picture>
-<source media="(max-width:639px)" srcset="media/lakbay-elevations-640.webp">
-<img src="media/lakbay-elevations-1280.webp" width="1280" height="906" alt="Building elevations architectural drawing for Lakbay, with original dimensions and annotations" loading="lazy" decoding="async" data-source="client-pdf" data-subject="architectural drawing">
+<source media="(max-width:639px)" srcset="media/complete/lak-p33-sheet-640.webp">
+<img class="" src="media/complete/lak-p33-sheet-1280.webp" width="1280" height="906" alt="Lakbay — Building elevations" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P33-SHEET LAK-P33-I01 LAK-P33-I02 LAK-P33-I03 LAK-P33-I04 LAK-P33-I05">
 </picture>
 </a>
+</figure>
 </div>
 </section>
-<section class="section" id="section" aria-labelledby="section-h">
+<section class="section source-section" id="elevations-1" aria-labelledby="elevations-1-h">
 <div class="wrap">
 <div class="section-head section-head--split">
 <div>
-<h2 id="section-h">Building sections</h2>
-<p>Vertical relationships, floor levels, and interior volumes.</p>
+<h2 id="elevations-1-h">Front elevation</h2>
+<p class="t-small muted">Portfolio page 33</p>
 </div>
-<a class="link" href="media/lakbay-section-2400.webp" target="_blank" rel="noopener">Open full-size drawing <svg class="m-arrow" viewBox="0 0 12 12" aria-hidden="true">
-<path class="m-arrow__stem" d="M1 6h8"/>
-<path class="m-arrow__head" d="M4.5 2.5 8 6l-3.5 3.5"/>
-</svg>
-</a>
+<a class="link" href="media/complete/lak-p33-drawing-1-full.webp" target="_blank" rel="noopener">Open full-size</a>
 </div>
-<a class="work-art drawing fill m-zoom" href="media/lakbay-section-2400.webp" target="_blank" rel="noopener" aria-label="Open building sections at full resolution">
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p33-drawing-1-full.webp" target="_blank" rel="noopener" aria-label="Open Front elevation at full resolution">
 <picture>
-<source media="(max-width:639px)" srcset="media/lakbay-section-640.webp">
-<img src="media/lakbay-section-1280.webp" width="1280" height="906" alt="Building sections architectural drawing for Lakbay, with original dimensions and annotations" loading="lazy" decoding="async" data-source="client-pdf" data-subject="architectural drawing">
+<source media="(max-width:639px)" srcset="media/complete/lak-p33-drawing-1-640.webp">
+<img class="" src="media/complete/lak-p33-drawing-1-1280.webp" width="1280" height="240" alt="Lakbay — Front elevation" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P33-D01">
 </picture>
 </a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="elevations-2" aria-labelledby="elevations-2-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="elevations-2-h">Rear elevation</h2>
+<p class="t-small muted">Portfolio page 33</p>
+</div>
+<a class="link" href="media/complete/lak-p33-drawing-2-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p33-drawing-2-full.webp" target="_blank" rel="noopener" aria-label="Open Rear elevation at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p33-drawing-2-640.webp">
+<img class="" src="media/complete/lak-p33-drawing-2-1280.webp" width="1280" height="240" alt="Lakbay — Rear elevation" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P33-D02">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="elevations-3" aria-labelledby="elevations-3-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="elevations-3-h">Left-side elevation</h2>
+<p class="t-small muted">Portfolio page 33</p>
+</div>
+<a class="link" href="media/complete/lak-p33-drawing-3-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p33-drawing-3-full.webp" target="_blank" rel="noopener" aria-label="Open Left-side elevation at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p33-drawing-3-640.webp">
+<img class="" src="media/complete/lak-p33-drawing-3-1280.webp" width="1280" height="235" alt="Lakbay — Left-side elevation" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P33-D03">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="elevations-4" aria-labelledby="elevations-4-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="elevations-4-h">Right-side elevation</h2>
+<p class="t-small muted">Portfolio page 33</p>
+</div>
+<a class="link" href="media/complete/lak-p33-drawing-4-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p33-drawing-4-full.webp" target="_blank" rel="noopener" aria-label="Open Right-side elevation at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p33-drawing-4-640.webp">
+<img class="" src="media/complete/lak-p33-drawing-4-1280.webp" width="1280" height="235" alt="Lakbay — Right-side elevation" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P33-D04">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="sections" aria-labelledby="sections-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="sections-h">Building sections</h2>
+<p class="t-small muted">Portfolio page 34</p>
+</div>
+<a class="link" href="media/complete/lak-p34-sheet-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p34-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open Building sections at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p34-sheet-640.webp">
+<img class="" src="media/complete/lak-p34-sheet-1280.webp" width="1280" height="906" alt="Lakbay — Building sections" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P34-SHEET LAK-P34-I01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="sections-1" aria-labelledby="sections-1-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="sections-1-h">Section thru A</h2>
+<p class="t-small muted">Portfolio page 34</p>
+</div>
+<a class="link" href="media/complete/lak-p34-drawing-1-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p34-drawing-1-full.webp" target="_blank" rel="noopener" aria-label="Open Section thru A at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p34-drawing-1-640.webp">
+<img class="" src="media/complete/lak-p34-drawing-1-1280.webp" width="1280" height="411" alt="Lakbay — Section thru A" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P34-D01">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section" id="sections-2" aria-labelledby="sections-2-h">
+<div class="wrap">
+<div class="section-head section-head--split">
+<div>
+<h2 id="sections-2-h">Section thru B</h2>
+<p class="t-small muted">Portfolio page 34</p>
+</div>
+<a class="link" href="media/complete/lak-p34-drawing-2-full.webp" target="_blank" rel="noopener">Open full-size</a>
+</div>
+<figure class="source-figure fill" >
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p34-drawing-2-full.webp" target="_blank" rel="noopener" aria-label="Open Section thru B at full resolution">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p34-drawing-2-640.webp">
+<img class="" src="media/complete/lak-p34-drawing-2-1280.webp" width="1280" height="467" alt="Lakbay — Section thru B" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="LAK-P34-D02">
+</picture>
+</a>
+</figure>
+</div>
+</section>
+<section class="section source-section source-archive" id="source-sheets" aria-labelledby="source-sheets-h">
+<div class="wrap">
+<div class="section-head">
+<h2 id="source-sheets-h">Original portfolio sheets</h2>
+<p>Every original project sheet, with its complete layout and annotations.</p>
+</div>
+<div class="grid fill">
+<nav class="source-sheet-index span-6" aria-label="Original portfolio sheets">
+<a class="m-link" data-coverage="LAK-P18-SHEET" href="media/complete/lak-p18-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 18</a>
+<a class="m-link" data-coverage="LAK-P19-SHEET" href="media/complete/lak-p19-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 19</a>
+<a class="m-link" data-coverage="LAK-P20-SHEET" href="media/complete/lak-p20-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 20</a>
+<a class="m-link" data-coverage="LAK-P21-SHEET" href="media/complete/lak-p21-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 21</a>
+<a class="m-link" data-coverage="LAK-P22-SHEET" href="media/complete/lak-p22-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 22</a>
+<a class="m-link" data-coverage="LAK-P23-SHEET" href="media/complete/lak-p23-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 23</a>
+<a class="m-link" data-coverage="LAK-P24-SHEET" href="media/complete/lak-p24-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 24</a>
+<a class="m-link" data-coverage="LAK-P25-SHEET" href="media/complete/lak-p25-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 25</a>
+<a class="m-link" data-coverage="LAK-P26-SHEET" href="media/complete/lak-p26-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 26</a>
+<a class="m-link" data-coverage="LAK-P27-SHEET" href="media/complete/lak-p27-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 27</a>
+<a class="m-link" data-coverage="LAK-P28-SHEET" href="media/complete/lak-p28-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 28</a>
+<a class="m-link" data-coverage="LAK-P29-SHEET" href="media/complete/lak-p29-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 29</a>
+<a class="m-link" data-coverage="LAK-P30-SHEET" href="media/complete/lak-p30-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 30</a>
+<a class="m-link" data-coverage="LAK-P31-SHEET" href="media/complete/lak-p31-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 31</a>
+<a class="m-link" data-coverage="LAK-P32-SHEET" href="media/complete/lak-p32-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 32</a>
+<a class="m-link" data-coverage="LAK-P33-SHEET" href="media/complete/lak-p33-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 33</a>
+<a class="m-link" data-coverage="LAK-P34-SHEET" href="media/complete/lak-p34-sheet-full.webp" target="_blank" rel="noopener">Portfolio page 34</a>
+</nav>
+<figure class="source-figure span-6 start-7">
+<a class="source-image m-zoom" data-visual href="media/complete/lak-p34-sheet-full.webp" target="_blank" rel="noopener" aria-label="Open the complete original sections sheet">
+<picture>
+<source media="(max-width:639px)" srcset="media/complete/lak-p34-sheet-640.webp">
+<img class="" src="media/complete/lak-p34-sheet-1280.webp" width="1280" height="906" alt="Lakbay original building sections sheet" loading="lazy" decoding="async" data-source="client-pdf" data-coverage="">
+</picture>
+</a>
+</figure>
+</div>
 </div>
 </section>
 </main>

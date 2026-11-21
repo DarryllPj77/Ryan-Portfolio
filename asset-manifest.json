@@ -323,5 +323,2137 @@
       "media/dalawit-section-2400.webp",
       "media/dalawit-section-640.webp"
     ]
+  },
+  {
+    "name": "Complete project introduction",
+    "coverage_id": "SAL-P03-SHEET",
+    "page": 3,
+    "project": "Salupod",
+    "method": "source-sheet",
+    "outputs": [
+      "media/complete/sal-p03-sheet-640.webp",
+      "media/complete/sal-p03-sheet-1280.webp",
+      "media/complete/sal-p03-sheet-full.webp"
+    ],
+    "destination": "salupod.html#contents"
+  },
+  {
+    "name": "Introduction rendering",
+    "coverage_id": "SAL-P03-I01",
+    "page": 3,
+    "project": "Salupod",
+    "method": "Displayed in its original introduction composition; raw original also retained.",
+    "outputs": [
+      "media/complete/sal-p03-i01-640.webp",
+      "media/complete/sal-p03-i01-1280.webp",
+      "media/complete/sal-p03-i01-full.webp"
+    ],
+    "destination": "salupod.html#contents"
+  },
+  {
+    "name": "Complete concept rendering",
+    "coverage_id": "SAL-P04-I01",
+    "page": 4,
+    "project": "Salupod",
+    "method": "image",
+    "outputs": [
+      "media/complete/sal-p04-i01-640.webp",
+      "media/complete/sal-p04-i01-1280.webp",
+      "media/complete/sal-p04-i01-full.webp"
+    ],
+    "destination": "salupod.html#concept"
+  },
+  {
+    "name": "Concept sketch 1",
+    "coverage_id": "SAL-P04-I03",
+    "page": 4,
+    "project": "Salupod",
+    "method": "concept-sketch",
+    "outputs": [
+      "media/complete/sal-p04-i03-640.webp",
+      "media/complete/sal-p04-i03-1280.webp",
+      "media/complete/sal-p04-i03-full.webp"
+    ],
+    "destination": "salupod.html#development"
+  },
+  {
+    "name": "Concept sketch 2",
+    "coverage_id": "SAL-P04-I02",
+    "page": 4,
+    "project": "Salupod",
+    "method": "concept-sketch",
+    "outputs": [
+      "media/complete/sal-p04-i02-640.webp",
+      "media/complete/sal-p04-i02-1280.webp",
+      "media/complete/sal-p04-i02-full.webp"
+    ],
+    "destination": "salupod.html#development"
+  },
+  {
+    "name": "Concept sketch 3",
+    "coverage_id": "SAL-P04-I04",
+    "page": 4,
+    "project": "Salupod",
+    "method": "concept-sketch",
+    "outputs": [
+      "media/complete/sal-p04-i04-640.webp",
+      "media/complete/sal-p04-i04-1280.webp",
+      "media/complete/sal-p04-i04-full.webp"
+    ],
+    "destination": "salupod.html#development"
+  },
+  {
+    "name": "Concept development sequence",
+    "coverage_id": "SAL-P04-DIAGRAM",
+    "page": 4,
+    "project": "Salupod",
+    "method": "vector-composition",
+    "outputs": [
+      "media/complete/sal-concept-sequence-640.webp",
+      "media/complete/sal-concept-sequence-1280.webp",
+      "media/complete/sal-concept-sequence-full.webp"
+    ],
+    "destination": "salupod.html#concept-sequence"
+  },
+  {
+    "name": "Landscaped central gathering space",
+    "coverage_id": "SAL-P05-I01",
+    "page": 5,
+    "project": "Salupod",
+    "method": "design-feature",
+    "outputs": [
+      "media/complete/sal-p05-i01-640.webp",
+      "media/complete/sal-p05-i01-1280.webp",
+      "media/complete/sal-p05-i01-full.webp"
+    ],
+    "destination": "salupod.html#features"
+  },
+  {
+    "name": "Library facade and planting",
+    "coverage_id": "SAL-P05-I02",
+    "page": 5,
+    "project": "Salupod",
+    "method": "design-feature",
+    "outputs": [
+      "media/complete/sal-p05-i02-640.webp",
+      "media/complete/sal-p05-i02-1280.webp",
+      "media/complete/sal-p05-i02-full.webp"
+    ],
+    "destination": "salupod.html#features"
+  },
+  {
+    "name": "Perforated metal panels",
+    "coverage_id": "SAL-P05-I03",
+    "page": 5,
+    "project": "Salupod",
+    "method": "material",
+    "outputs": [
+      "media/complete/sal-p05-i03-640.webp",
+      "media/complete/sal-p05-i03-1280.webp",
+      "media/complete/sal-p05-i03-full.webp"
+    ],
+    "destination": "salupod.html#materials"
+  },
+  {
+    "name": "Permeable pavement",
+    "coverage_id": "SAL-P05-I04",
+    "page": 5,
+    "project": "Salupod",
+    "method": "material",
+    "outputs": [
+      "media/complete/sal-p05-i04-640.webp",
+      "media/complete/sal-p05-i04-1280.webp",
+      "media/complete/sal-p05-i04-full.webp"
+    ],
+    "destination": "salupod.html#materials"
+  },
+  {
+    "name": "Wood cladding",
+    "coverage_id": "SAL-P05-I05",
+    "page": 5,
+    "project": "Salupod",
+    "method": "material",
+    "outputs": [
+      "media/complete/sal-p05-i05-640.webp",
+      "media/complete/sal-p05-i05-1280.webp",
+      "media/complete/sal-p05-i05-full.webp"
+    ],
+    "destination": "salupod.html#materials"
+  },
+  {
+    "name": "Natural stone finish",
+    "coverage_id": "SAL-P05-I06",
+    "page": 5,
+    "project": "Salupod",
+    "method": "material",
+    "outputs": [
+      "media/complete/sal-p05-i06-640.webp",
+      "media/complete/sal-p05-i06-1280.webp",
+      "media/complete/sal-p05-i06-full.webp"
+    ],
+    "destination": "salupod.html#materials"
+  },
+  {
+    "name": "Low-E glass",
+    "coverage_id": "SAL-P05-I07",
+    "page": 5,
+    "project": "Salupod",
+    "method": "material",
+    "outputs": [
+      "media/complete/sal-p05-i07-640.webp",
+      "media/complete/sal-p05-i07-1280.webp",
+      "media/complete/sal-p05-i07-full.webp"
+    ],
+    "destination": "salupod.html#materials"
+  },
+  {
+    "name": "Development-control rendering",
+    "coverage_id": "SAL-P06-I01",
+    "page": 6,
+    "project": "Salupod",
+    "method": "image",
+    "outputs": [
+      "media/complete/sal-p06-i01-640.webp",
+      "media/complete/sal-p06-i01-1280.webp",
+      "media/complete/sal-p06-i01-full.webp"
+    ],
+    "destination": "salupod.html#controls"
+  },
+  {
+    "name": "Site development plan",
+    "coverage_id": "SAL-P07-SHEET",
+    "page": 7,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p07-sheet-640.webp",
+      "media/complete/sal-p07-sheet-1280.webp",
+      "media/complete/sal-p07-sheet-full.webp"
+    ],
+    "destination": "salupod.html#site-plans"
+  },
+  {
+    "name": "Site development plan",
+    "coverage_id": "SAL-P07-I01",
+    "page": 7,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p07-sheet-640.webp",
+      "media/complete/sal-p07-sheet-1280.webp",
+      "media/complete/sal-p07-sheet-full.webp"
+    ],
+    "destination": "salupod.html#site-plans"
+  },
+  {
+    "name": "Plan on site",
+    "coverage_id": "SAL-P08-SHEET",
+    "page": 8,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p08-sheet-640.webp",
+      "media/complete/sal-p08-sheet-1280.webp",
+      "media/complete/sal-p08-sheet-full.webp"
+    ],
+    "destination": "salupod.html#plan-8"
+  },
+  {
+    "name": "Plan on site",
+    "coverage_id": "SAL-P08-I01",
+    "page": 8,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p08-sheet-640.webp",
+      "media/complete/sal-p08-sheet-1280.webp",
+      "media/complete/sal-p08-sheet-full.webp"
+    ],
+    "destination": "salupod.html#plan-8"
+  },
+  {
+    "name": "Second floor plan - Area A",
+    "coverage_id": "SAL-P09-SHEET",
+    "page": 9,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p09-sheet-640.webp",
+      "media/complete/sal-p09-sheet-1280.webp",
+      "media/complete/sal-p09-sheet-full.webp"
+    ],
+    "destination": "salupod.html#plan-9"
+  },
+  {
+    "name": "Second floor plan - Area A",
+    "coverage_id": "SAL-P09-I01",
+    "page": 9,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p09-sheet-640.webp",
+      "media/complete/sal-p09-sheet-1280.webp",
+      "media/complete/sal-p09-sheet-full.webp"
+    ],
+    "destination": "salupod.html#plan-9"
+  },
+  {
+    "name": "Second floor plan - Area B",
+    "coverage_id": "SAL-P10-SHEET",
+    "page": 10,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p10-sheet-640.webp",
+      "media/complete/sal-p10-sheet-1280.webp",
+      "media/complete/sal-p10-sheet-full.webp"
+    ],
+    "destination": "salupod.html#plan-10"
+  },
+  {
+    "name": "Second floor plan - Area B",
+    "coverage_id": "SAL-P10-I01",
+    "page": 10,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p10-sheet-640.webp",
+      "media/complete/sal-p10-sheet-1280.webp",
+      "media/complete/sal-p10-sheet-full.webp"
+    ],
+    "destination": "salupod.html#plan-10"
+  },
+  {
+    "name": "Third floor plan - Area A",
+    "coverage_id": "SAL-P11-SHEET",
+    "page": 11,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p11-sheet-640.webp",
+      "media/complete/sal-p11-sheet-1280.webp",
+      "media/complete/sal-p11-sheet-full.webp"
+    ],
+    "destination": "salupod.html#plan-11"
+  },
+  {
+    "name": "Third floor plan - Area A",
+    "coverage_id": "SAL-P11-I01",
+    "page": 11,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p11-sheet-640.webp",
+      "media/complete/sal-p11-sheet-1280.webp",
+      "media/complete/sal-p11-sheet-full.webp"
+    ],
+    "destination": "salupod.html#plan-11"
+  },
+  {
+    "name": "Third floor plan - Area B",
+    "coverage_id": "SAL-P12-SHEET",
+    "page": 12,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p12-sheet-640.webp",
+      "media/complete/sal-p12-sheet-1280.webp",
+      "media/complete/sal-p12-sheet-full.webp"
+    ],
+    "destination": "salupod.html#plan-12"
+  },
+  {
+    "name": "Third floor plan - Area B",
+    "coverage_id": "SAL-P12-I01",
+    "page": 12,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p12-sheet-640.webp",
+      "media/complete/sal-p12-sheet-1280.webp",
+      "media/complete/sal-p12-sheet-full.webp"
+    ],
+    "destination": "salupod.html#plan-12"
+  },
+  {
+    "name": "Facade perspective",
+    "coverage_id": "SAL-P13-I01",
+    "page": 13,
+    "project": "Salupod",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/sal-p13-i01-640.webp",
+      "media/complete/sal-p13-i01-1280.webp",
+      "media/complete/sal-p13-i01-full.webp"
+    ],
+    "destination": "salupod.html#perspectives"
+  },
+  {
+    "name": "Salupod perspective 2",
+    "coverage_id": "SAL-P14-I01",
+    "page": 14,
+    "project": "Salupod",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/sal-p14-i01-640.webp",
+      "media/complete/sal-p14-i01-1280.webp",
+      "media/complete/sal-p14-i01-full.webp"
+    ],
+    "destination": "salupod.html#perspective-14-1"
+  },
+  {
+    "name": "Salupod perspective 3",
+    "coverage_id": "SAL-P14-I02",
+    "page": 14,
+    "project": "Salupod",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/sal-p14-i02-640.webp",
+      "media/complete/sal-p14-i02-1280.webp",
+      "media/complete/sal-p14-i02-full.webp"
+    ],
+    "destination": "salupod.html#perspective-14-2"
+  },
+  {
+    "name": "Salupod perspective 4",
+    "coverage_id": "SAL-P14-I03",
+    "page": 14,
+    "project": "Salupod",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/sal-p14-i03-640.webp",
+      "media/complete/sal-p14-i03-1280.webp",
+      "media/complete/sal-p14-i03-full.webp"
+    ],
+    "destination": "salupod.html#perspective-14-3"
+  },
+  {
+    "name": "Salupod perspective 5",
+    "coverage_id": "SAL-P14-I04",
+    "page": 14,
+    "project": "Salupod",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/sal-p14-i04-640.webp",
+      "media/complete/sal-p14-i04-1280.webp",
+      "media/complete/sal-p14-i04-full.webp"
+    ],
+    "destination": "salupod.html#perspective-14-4"
+  },
+  {
+    "name": "Salupod perspective 6",
+    "coverage_id": "SAL-P14-I05",
+    "page": 14,
+    "project": "Salupod",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/sal-p14-i05-640.webp",
+      "media/complete/sal-p14-i05-1280.webp",
+      "media/complete/sal-p14-i05-full.webp"
+    ],
+    "destination": "salupod.html#perspective-14-5"
+  },
+  {
+    "name": "Salupod perspective 7",
+    "coverage_id": "SAL-P15-I01",
+    "page": 15,
+    "project": "Salupod",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/sal-p15-i01-640.webp",
+      "media/complete/sal-p15-i01-1280.webp",
+      "media/complete/sal-p15-i01-full.webp"
+    ],
+    "destination": "salupod.html#perspective-15-1"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "SAL-P16-SHEET",
+    "page": 16,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p16-sheet-640.webp",
+      "media/complete/sal-p16-sheet-1280.webp",
+      "media/complete/sal-p16-sheet-full.webp"
+    ],
+    "destination": "salupod.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "SAL-P16-I01",
+    "page": 16,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p16-sheet-640.webp",
+      "media/complete/sal-p16-sheet-1280.webp",
+      "media/complete/sal-p16-sheet-full.webp"
+    ],
+    "destination": "salupod.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "SAL-P16-I02",
+    "page": 16,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p16-sheet-640.webp",
+      "media/complete/sal-p16-sheet-1280.webp",
+      "media/complete/sal-p16-sheet-full.webp"
+    ],
+    "destination": "salupod.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "SAL-P16-I03",
+    "page": 16,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p16-sheet-640.webp",
+      "media/complete/sal-p16-sheet-1280.webp",
+      "media/complete/sal-p16-sheet-full.webp"
+    ],
+    "destination": "salupod.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "SAL-P16-I04",
+    "page": 16,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p16-sheet-640.webp",
+      "media/complete/sal-p16-sheet-1280.webp",
+      "media/complete/sal-p16-sheet-full.webp"
+    ],
+    "destination": "salupod.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "SAL-P16-I05",
+    "page": 16,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p16-sheet-640.webp",
+      "media/complete/sal-p16-sheet-1280.webp",
+      "media/complete/sal-p16-sheet-full.webp"
+    ],
+    "destination": "salupod.html#elevations"
+  },
+  {
+    "name": "Front elevation",
+    "coverage_id": "SAL-P16-D01",
+    "page": 16,
+    "project": "Salupod",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/sal-p16-drawing-1-640.webp",
+      "media/complete/sal-p16-drawing-1-1280.webp",
+      "media/complete/sal-p16-drawing-1-full.webp"
+    ],
+    "destination": "salupod.html#elevations-1"
+  },
+  {
+    "name": "Rear elevation",
+    "coverage_id": "SAL-P16-D02",
+    "page": 16,
+    "project": "Salupod",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/sal-p16-drawing-2-640.webp",
+      "media/complete/sal-p16-drawing-2-1280.webp",
+      "media/complete/sal-p16-drawing-2-full.webp"
+    ],
+    "destination": "salupod.html#elevations-2"
+  },
+  {
+    "name": "Left-side elevation",
+    "coverage_id": "SAL-P16-D03",
+    "page": 16,
+    "project": "Salupod",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/sal-p16-drawing-3-640.webp",
+      "media/complete/sal-p16-drawing-3-1280.webp",
+      "media/complete/sal-p16-drawing-3-full.webp"
+    ],
+    "destination": "salupod.html#elevations-3"
+  },
+  {
+    "name": "Right-side elevation",
+    "coverage_id": "SAL-P16-D04",
+    "page": 16,
+    "project": "Salupod",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/sal-p16-drawing-4-640.webp",
+      "media/complete/sal-p16-drawing-4-1280.webp",
+      "media/complete/sal-p16-drawing-4-full.webp"
+    ],
+    "destination": "salupod.html#elevations-4"
+  },
+  {
+    "name": "Building sections",
+    "coverage_id": "SAL-P17-SHEET",
+    "page": 17,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p17-sheet-640.webp",
+      "media/complete/sal-p17-sheet-1280.webp",
+      "media/complete/sal-p17-sheet-full.webp"
+    ],
+    "destination": "salupod.html#sections"
+  },
+  {
+    "name": "Building sections",
+    "coverage_id": "SAL-P17-I01",
+    "page": 17,
+    "project": "Salupod",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/sal-p17-sheet-640.webp",
+      "media/complete/sal-p17-sheet-1280.webp",
+      "media/complete/sal-p17-sheet-full.webp"
+    ],
+    "destination": "salupod.html#sections"
+  },
+  {
+    "name": "Section thru A",
+    "coverage_id": "SAL-P17-D01",
+    "page": 17,
+    "project": "Salupod",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/sal-p17-drawing-1-640.webp",
+      "media/complete/sal-p17-drawing-1-1280.webp",
+      "media/complete/sal-p17-drawing-1-full.webp"
+    ],
+    "destination": "salupod.html#sections-1"
+  },
+  {
+    "name": "Section thru B",
+    "coverage_id": "SAL-P17-D02",
+    "page": 17,
+    "project": "Salupod",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/sal-p17-drawing-2-640.webp",
+      "media/complete/sal-p17-drawing-2-1280.webp",
+      "media/complete/sal-p17-drawing-2-full.webp"
+    ],
+    "destination": "salupod.html#sections-2"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "SAL-P04-SHEET",
+    "page": 4,
+    "project": "Salupod",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/sal-p04-sheet-640.webp",
+      "media/complete/sal-p04-sheet-1280.webp",
+      "media/complete/sal-p04-sheet-full.webp"
+    ],
+    "destination": "salupod.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "SAL-P05-SHEET",
+    "page": 5,
+    "project": "Salupod",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/sal-p05-sheet-640.webp",
+      "media/complete/sal-p05-sheet-1280.webp",
+      "media/complete/sal-p05-sheet-full.webp"
+    ],
+    "destination": "salupod.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "SAL-P06-SHEET",
+    "page": 6,
+    "project": "Salupod",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/sal-p06-sheet-640.webp",
+      "media/complete/sal-p06-sheet-1280.webp",
+      "media/complete/sal-p06-sheet-full.webp"
+    ],
+    "destination": "salupod.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "SAL-P13-SHEET",
+    "page": 13,
+    "project": "Salupod",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/sal-p13-sheet-640.webp",
+      "media/complete/sal-p13-sheet-1280.webp",
+      "media/complete/sal-p13-sheet-full.webp"
+    ],
+    "destination": "salupod.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "SAL-P14-SHEET",
+    "page": 14,
+    "project": "Salupod",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/sal-p14-sheet-640.webp",
+      "media/complete/sal-p14-sheet-1280.webp",
+      "media/complete/sal-p14-sheet-full.webp"
+    ],
+    "destination": "salupod.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "SAL-P15-SHEET",
+    "page": 15,
+    "project": "Salupod",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/sal-p15-sheet-640.webp",
+      "media/complete/sal-p15-sheet-1280.webp",
+      "media/complete/sal-p15-sheet-full.webp"
+    ],
+    "destination": "salupod.html#source-sheets"
+  },
+  {
+    "name": "Complete project introduction",
+    "coverage_id": "LAK-P18-SHEET",
+    "page": 18,
+    "project": "Lakbay",
+    "method": "source-sheet",
+    "outputs": [
+      "media/complete/lak-p18-sheet-640.webp",
+      "media/complete/lak-p18-sheet-1280.webp",
+      "media/complete/lak-p18-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#contents"
+  },
+  {
+    "name": "Introduction rendering",
+    "coverage_id": "LAK-P18-I01",
+    "page": 18,
+    "project": "Lakbay",
+    "method": "Displayed in its original introduction composition; raw original also retained.",
+    "outputs": [
+      "media/complete/lak-p18-i01-640.webp",
+      "media/complete/lak-p18-i01-1280.webp",
+      "media/complete/lak-p18-i01-full.webp"
+    ],
+    "destination": "lakbay.html#contents"
+  },
+  {
+    "name": "Complete concept rendering",
+    "coverage_id": "LAK-P19-I01",
+    "page": 19,
+    "project": "Lakbay",
+    "method": "image",
+    "outputs": [
+      "media/complete/lak-p19-i01-640.webp",
+      "media/complete/lak-p19-i01-1280.webp",
+      "media/complete/lak-p19-i01-full.webp"
+    ],
+    "destination": "lakbay.html#concept"
+  },
+  {
+    "name": "Concept sketch 1",
+    "coverage_id": "LAK-P19-I02",
+    "page": 19,
+    "project": "Lakbay",
+    "method": "concept-sketch",
+    "outputs": [
+      "media/complete/lak-p19-i02-640.webp",
+      "media/complete/lak-p19-i02-1280.webp",
+      "media/complete/lak-p19-i02-full.webp"
+    ],
+    "destination": "lakbay.html#development"
+  },
+  {
+    "name": "Concept sketch 2",
+    "coverage_id": "LAK-P19-I03",
+    "page": 19,
+    "project": "Lakbay",
+    "method": "concept-sketch",
+    "outputs": [
+      "media/complete/lak-p19-i03-placed-640.webp",
+      "media/complete/lak-p19-i03-placed-1280.webp",
+      "media/complete/lak-p19-i03-placed-full.webp"
+    ],
+    "destination": "lakbay.html#development"
+  },
+  {
+    "name": "Concept sketch 3",
+    "coverage_id": "LAK-P19-I04",
+    "page": 19,
+    "project": "Lakbay",
+    "method": "concept-sketch",
+    "outputs": [
+      "media/complete/lak-p19-i04-640.webp",
+      "media/complete/lak-p19-i04-1280.webp",
+      "media/complete/lak-p19-i04-full.webp"
+    ],
+    "destination": "lakbay.html#development"
+  },
+  {
+    "name": "Concept development sequence",
+    "coverage_id": "LAK-P19-DIAGRAM",
+    "page": 19,
+    "project": "Lakbay",
+    "method": "vector-composition",
+    "outputs": [
+      "media/complete/lak-concept-sequence-640.webp",
+      "media/complete/lak-concept-sequence-1280.webp",
+      "media/complete/lak-concept-sequence-full.webp"
+    ],
+    "destination": "lakbay.html#concept-sequence"
+  },
+  {
+    "name": "Undulating school facade",
+    "coverage_id": "LAK-P20-I04",
+    "page": 20,
+    "project": "Lakbay",
+    "method": "design-feature",
+    "outputs": [
+      "media/complete/lak-p20-i04-640.webp",
+      "media/complete/lak-p20-i04-1280.webp",
+      "media/complete/lak-p20-i04-full.webp"
+    ],
+    "destination": "lakbay.html#features"
+  },
+  {
+    "name": "School facade and pedestrian circulation",
+    "coverage_id": "LAK-P20-I07",
+    "page": 20,
+    "project": "Lakbay",
+    "method": "design-feature",
+    "outputs": [
+      "media/complete/lak-p20-i07-640.webp",
+      "media/complete/lak-p20-i07-1280.webp",
+      "media/complete/lak-p20-i07-full.webp"
+    ],
+    "destination": "lakbay.html#features"
+  },
+  {
+    "name": "Wood cladding",
+    "coverage_id": "LAK-P20-I01",
+    "page": 20,
+    "project": "Lakbay",
+    "method": "material",
+    "outputs": [
+      "media/complete/lak-p20-i01-640.webp",
+      "media/complete/lak-p20-i01-1280.webp",
+      "media/complete/lak-p20-i01-full.webp"
+    ],
+    "destination": "lakbay.html#materials"
+  },
+  {
+    "name": "Low-E glass",
+    "coverage_id": "LAK-P20-I02",
+    "page": 20,
+    "project": "Lakbay",
+    "method": "material",
+    "outputs": [
+      "media/complete/lak-p20-i02-640.webp",
+      "media/complete/lak-p20-i02-1280.webp",
+      "media/complete/lak-p20-i02-full.webp"
+    ],
+    "destination": "lakbay.html#materials"
+  },
+  {
+    "name": "Rubber flooring",
+    "coverage_id": "LAK-P20-I03",
+    "page": 20,
+    "project": "Lakbay",
+    "method": "material",
+    "outputs": [
+      "media/complete/lak-p20-i03-640.webp",
+      "media/complete/lak-p20-i03-1280.webp",
+      "media/complete/lak-p20-i03-full.webp"
+    ],
+    "destination": "lakbay.html#materials"
+  },
+  {
+    "name": "Non slip porcelain tiles",
+    "coverage_id": "LAK-P20-I05",
+    "page": 20,
+    "project": "Lakbay",
+    "method": "material",
+    "outputs": [
+      "media/complete/lak-p20-i05-640.webp",
+      "media/complete/lak-p20-i05-1280.webp",
+      "media/complete/lak-p20-i05-full.webp"
+    ],
+    "destination": "lakbay.html#materials"
+  },
+  {
+    "name": "Terracota tiles",
+    "coverage_id": "LAK-P20-I06",
+    "page": 20,
+    "project": "Lakbay",
+    "method": "material",
+    "outputs": [
+      "media/complete/lak-p20-i06-640.webp",
+      "media/complete/lak-p20-i06-1280.webp",
+      "media/complete/lak-p20-i06-full.webp"
+    ],
+    "destination": "lakbay.html#materials"
+  },
+  {
+    "name": "Development-control rendering",
+    "coverage_id": "LAK-P21-I01",
+    "page": 21,
+    "project": "Lakbay",
+    "method": "image",
+    "outputs": [
+      "media/complete/lak-p21-i01-640.webp",
+      "media/complete/lak-p21-i01-1280.webp",
+      "media/complete/lak-p21-i01-full.webp"
+    ],
+    "destination": "lakbay.html#controls"
+  },
+  {
+    "name": "Site development plan",
+    "coverage_id": "LAK-P22-SHEET",
+    "page": 22,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p22-sheet-640.webp",
+      "media/complete/lak-p22-sheet-1280.webp",
+      "media/complete/lak-p22-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#site-plans"
+  },
+  {
+    "name": "Site development plan",
+    "coverage_id": "LAK-P22-I01",
+    "page": 22,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p22-sheet-640.webp",
+      "media/complete/lak-p22-sheet-1280.webp",
+      "media/complete/lak-p22-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#site-plans"
+  },
+  {
+    "name": "Plan on site",
+    "coverage_id": "LAK-P23-SHEET",
+    "page": 23,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p23-sheet-640.webp",
+      "media/complete/lak-p23-sheet-1280.webp",
+      "media/complete/lak-p23-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-23"
+  },
+  {
+    "name": "Plan on site",
+    "coverage_id": "LAK-P23-I01",
+    "page": 23,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p23-sheet-640.webp",
+      "media/complete/lak-p23-sheet-1280.webp",
+      "media/complete/lak-p23-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-23"
+  },
+  {
+    "name": "Second floor plan - Area A",
+    "coverage_id": "LAK-P24-SHEET",
+    "page": 24,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p24-sheet-640.webp",
+      "media/complete/lak-p24-sheet-1280.webp",
+      "media/complete/lak-p24-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-24"
+  },
+  {
+    "name": "Second floor plan - Area A",
+    "coverage_id": "LAK-P24-I01",
+    "page": 24,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p24-sheet-640.webp",
+      "media/complete/lak-p24-sheet-1280.webp",
+      "media/complete/lak-p24-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-24"
+  },
+  {
+    "name": "Second floor plan - Area B",
+    "coverage_id": "LAK-P25-SHEET",
+    "page": 25,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p25-sheet-640.webp",
+      "media/complete/lak-p25-sheet-1280.webp",
+      "media/complete/lak-p25-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-25"
+  },
+  {
+    "name": "Second floor plan - Area B",
+    "coverage_id": "LAK-P25-I01",
+    "page": 25,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p25-sheet-640.webp",
+      "media/complete/lak-p25-sheet-1280.webp",
+      "media/complete/lak-p25-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-25"
+  },
+  {
+    "name": "Second floor plan - Area C",
+    "coverage_id": "LAK-P26-SHEET",
+    "page": 26,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p26-sheet-640.webp",
+      "media/complete/lak-p26-sheet-1280.webp",
+      "media/complete/lak-p26-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-26"
+  },
+  {
+    "name": "Second floor plan - Area C",
+    "coverage_id": "LAK-P26-I01",
+    "page": 26,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p26-sheet-640.webp",
+      "media/complete/lak-p26-sheet-1280.webp",
+      "media/complete/lak-p26-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-26"
+  },
+  {
+    "name": "Third floor plan - Area A",
+    "coverage_id": "LAK-P27-SHEET",
+    "page": 27,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p27-sheet-640.webp",
+      "media/complete/lak-p27-sheet-1280.webp",
+      "media/complete/lak-p27-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-27"
+  },
+  {
+    "name": "Third floor plan - Area A",
+    "coverage_id": "LAK-P27-I01",
+    "page": 27,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p27-sheet-640.webp",
+      "media/complete/lak-p27-sheet-1280.webp",
+      "media/complete/lak-p27-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-27"
+  },
+  {
+    "name": "Third floor plan - Area B",
+    "coverage_id": "LAK-P28-SHEET",
+    "page": 28,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p28-sheet-640.webp",
+      "media/complete/lak-p28-sheet-1280.webp",
+      "media/complete/lak-p28-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-28"
+  },
+  {
+    "name": "Third floor plan - Area B",
+    "coverage_id": "LAK-P28-I01",
+    "page": 28,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p28-sheet-640.webp",
+      "media/complete/lak-p28-sheet-1280.webp",
+      "media/complete/lak-p28-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-28"
+  },
+  {
+    "name": "Third floor plan - Area C",
+    "coverage_id": "LAK-P29-SHEET",
+    "page": 29,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p29-sheet-640.webp",
+      "media/complete/lak-p29-sheet-1280.webp",
+      "media/complete/lak-p29-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-29"
+  },
+  {
+    "name": "Third floor plan - Area C",
+    "coverage_id": "LAK-P29-I01",
+    "page": 29,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p29-sheet-640.webp",
+      "media/complete/lak-p29-sheet-1280.webp",
+      "media/complete/lak-p29-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#plan-29"
+  },
+  {
+    "name": "Facade perspective",
+    "coverage_id": "LAK-P30-I01",
+    "page": 30,
+    "project": "Lakbay",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/lak-p30-i01-640.webp",
+      "media/complete/lak-p30-i01-1280.webp",
+      "media/complete/lak-p30-i01-full.webp"
+    ],
+    "destination": "lakbay.html#perspectives"
+  },
+  {
+    "name": "Lakbay perspective 2",
+    "coverage_id": "LAK-P31-I01",
+    "page": 31,
+    "project": "Lakbay",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/lak-p31-i01-640.webp",
+      "media/complete/lak-p31-i01-1280.webp",
+      "media/complete/lak-p31-i01-full.webp"
+    ],
+    "destination": "lakbay.html#perspective-31-1"
+  },
+  {
+    "name": "Lakbay perspective 3",
+    "coverage_id": "LAK-P31-I02",
+    "page": 31,
+    "project": "Lakbay",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/lak-p31-i02-640.webp",
+      "media/complete/lak-p31-i02-1280.webp",
+      "media/complete/lak-p31-i02-full.webp"
+    ],
+    "destination": "lakbay.html#perspective-31-2"
+  },
+  {
+    "name": "Lakbay perspective 4",
+    "coverage_id": "LAK-P31-I03",
+    "page": 31,
+    "project": "Lakbay",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/lak-p31-i03-640.webp",
+      "media/complete/lak-p31-i03-1280.webp",
+      "media/complete/lak-p31-i03-full.webp"
+    ],
+    "destination": "lakbay.html#perspective-31-3"
+  },
+  {
+    "name": "Lakbay perspective 5",
+    "coverage_id": "LAK-P31-I04",
+    "page": 31,
+    "project": "Lakbay",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/lak-p31-i04-640.webp",
+      "media/complete/lak-p31-i04-1280.webp",
+      "media/complete/lak-p31-i04-full.webp"
+    ],
+    "destination": "lakbay.html#perspective-31-4"
+  },
+  {
+    "name": "Lakbay perspective 6",
+    "coverage_id": "LAK-P31-I05",
+    "page": 31,
+    "project": "Lakbay",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/lak-p31-i05-640.webp",
+      "media/complete/lak-p31-i05-1280.webp",
+      "media/complete/lak-p31-i05-full.webp"
+    ],
+    "destination": "lakbay.html#perspective-31-5"
+  },
+  {
+    "name": "Lakbay perspective 7",
+    "coverage_id": "LAK-P32-I01",
+    "page": 32,
+    "project": "Lakbay",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/lak-p32-i01-640.webp",
+      "media/complete/lak-p32-i01-1280.webp",
+      "media/complete/lak-p32-i01-full.webp"
+    ],
+    "destination": "lakbay.html#perspective-32-1"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "LAK-P33-SHEET",
+    "page": 33,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p33-sheet-640.webp",
+      "media/complete/lak-p33-sheet-1280.webp",
+      "media/complete/lak-p33-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "LAK-P33-I01",
+    "page": 33,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p33-sheet-640.webp",
+      "media/complete/lak-p33-sheet-1280.webp",
+      "media/complete/lak-p33-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "LAK-P33-I02",
+    "page": 33,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p33-sheet-640.webp",
+      "media/complete/lak-p33-sheet-1280.webp",
+      "media/complete/lak-p33-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "LAK-P33-I03",
+    "page": 33,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p33-sheet-640.webp",
+      "media/complete/lak-p33-sheet-1280.webp",
+      "media/complete/lak-p33-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "LAK-P33-I04",
+    "page": 33,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p33-sheet-640.webp",
+      "media/complete/lak-p33-sheet-1280.webp",
+      "media/complete/lak-p33-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "LAK-P33-I05",
+    "page": 33,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p33-sheet-640.webp",
+      "media/complete/lak-p33-sheet-1280.webp",
+      "media/complete/lak-p33-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#elevations"
+  },
+  {
+    "name": "Front elevation",
+    "coverage_id": "LAK-P33-D01",
+    "page": 33,
+    "project": "Lakbay",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/lak-p33-drawing-1-640.webp",
+      "media/complete/lak-p33-drawing-1-1280.webp",
+      "media/complete/lak-p33-drawing-1-full.webp"
+    ],
+    "destination": "lakbay.html#elevations-1"
+  },
+  {
+    "name": "Rear elevation",
+    "coverage_id": "LAK-P33-D02",
+    "page": 33,
+    "project": "Lakbay",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/lak-p33-drawing-2-640.webp",
+      "media/complete/lak-p33-drawing-2-1280.webp",
+      "media/complete/lak-p33-drawing-2-full.webp"
+    ],
+    "destination": "lakbay.html#elevations-2"
+  },
+  {
+    "name": "Left-side elevation",
+    "coverage_id": "LAK-P33-D03",
+    "page": 33,
+    "project": "Lakbay",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/lak-p33-drawing-3-640.webp",
+      "media/complete/lak-p33-drawing-3-1280.webp",
+      "media/complete/lak-p33-drawing-3-full.webp"
+    ],
+    "destination": "lakbay.html#elevations-3"
+  },
+  {
+    "name": "Right-side elevation",
+    "coverage_id": "LAK-P33-D04",
+    "page": 33,
+    "project": "Lakbay",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/lak-p33-drawing-4-640.webp",
+      "media/complete/lak-p33-drawing-4-1280.webp",
+      "media/complete/lak-p33-drawing-4-full.webp"
+    ],
+    "destination": "lakbay.html#elevations-4"
+  },
+  {
+    "name": "Building sections",
+    "coverage_id": "LAK-P34-SHEET",
+    "page": 34,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p34-sheet-640.webp",
+      "media/complete/lak-p34-sheet-1280.webp",
+      "media/complete/lak-p34-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#sections"
+  },
+  {
+    "name": "Building sections",
+    "coverage_id": "LAK-P34-I01",
+    "page": 34,
+    "project": "Lakbay",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/lak-p34-sheet-640.webp",
+      "media/complete/lak-p34-sheet-1280.webp",
+      "media/complete/lak-p34-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#sections"
+  },
+  {
+    "name": "Section thru A",
+    "coverage_id": "LAK-P34-D01",
+    "page": 34,
+    "project": "Lakbay",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/lak-p34-drawing-1-640.webp",
+      "media/complete/lak-p34-drawing-1-1280.webp",
+      "media/complete/lak-p34-drawing-1-full.webp"
+    ],
+    "destination": "lakbay.html#sections-1"
+  },
+  {
+    "name": "Section thru B",
+    "coverage_id": "LAK-P34-D02",
+    "page": 34,
+    "project": "Lakbay",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/lak-p34-drawing-2-640.webp",
+      "media/complete/lak-p34-drawing-2-1280.webp",
+      "media/complete/lak-p34-drawing-2-full.webp"
+    ],
+    "destination": "lakbay.html#sections-2"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "LAK-P19-SHEET",
+    "page": 19,
+    "project": "Lakbay",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/lak-p19-sheet-640.webp",
+      "media/complete/lak-p19-sheet-1280.webp",
+      "media/complete/lak-p19-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "LAK-P20-SHEET",
+    "page": 20,
+    "project": "Lakbay",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/lak-p20-sheet-640.webp",
+      "media/complete/lak-p20-sheet-1280.webp",
+      "media/complete/lak-p20-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "LAK-P21-SHEET",
+    "page": 21,
+    "project": "Lakbay",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/lak-p21-sheet-640.webp",
+      "media/complete/lak-p21-sheet-1280.webp",
+      "media/complete/lak-p21-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "LAK-P30-SHEET",
+    "page": 30,
+    "project": "Lakbay",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/lak-p30-sheet-640.webp",
+      "media/complete/lak-p30-sheet-1280.webp",
+      "media/complete/lak-p30-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "LAK-P31-SHEET",
+    "page": 31,
+    "project": "Lakbay",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/lak-p31-sheet-640.webp",
+      "media/complete/lak-p31-sheet-1280.webp",
+      "media/complete/lak-p31-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "LAK-P32-SHEET",
+    "page": 32,
+    "project": "Lakbay",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/lak-p32-sheet-640.webp",
+      "media/complete/lak-p32-sheet-1280.webp",
+      "media/complete/lak-p32-sheet-full.webp"
+    ],
+    "destination": "lakbay.html#source-sheets"
+  },
+  {
+    "name": "Complete project introduction",
+    "coverage_id": "DAL-P35-SHEET",
+    "page": 35,
+    "project": "Dalawit",
+    "method": "source-sheet",
+    "outputs": [
+      "media/complete/dal-p35-sheet-640.webp",
+      "media/complete/dal-p35-sheet-1280.webp",
+      "media/complete/dal-p35-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#contents"
+  },
+  {
+    "name": "Introduction rendering",
+    "coverage_id": "DAL-P35-I01",
+    "page": 35,
+    "project": "Dalawit",
+    "method": "Displayed in its original introduction composition; raw original also retained.",
+    "outputs": [
+      "media/complete/dal-p35-i01-640.webp",
+      "media/complete/dal-p35-i01-1280.webp",
+      "media/complete/dal-p35-i01-full.webp"
+    ],
+    "destination": "dalawit.html#contents"
+  },
+  {
+    "name": "Complete concept rendering",
+    "coverage_id": "DAL-P36-I01",
+    "page": 36,
+    "project": "Dalawit",
+    "method": "image",
+    "outputs": [
+      "media/complete/dal-p36-i01-640.webp",
+      "media/complete/dal-p36-i01-1280.webp",
+      "media/complete/dal-p36-i01-full.webp"
+    ],
+    "destination": "dalawit.html#concept"
+  },
+  {
+    "name": "Concept sketch 1",
+    "coverage_id": "DAL-P36-I02",
+    "page": 36,
+    "project": "Dalawit",
+    "method": "concept-sketch",
+    "outputs": [
+      "media/complete/dal-p36-i02-640.webp",
+      "media/complete/dal-p36-i02-1280.webp",
+      "media/complete/dal-p36-i02-full.webp"
+    ],
+    "destination": "dalawit.html#development"
+  },
+  {
+    "name": "Concept sketch 2",
+    "coverage_id": "DAL-P36-I03",
+    "page": 36,
+    "project": "Dalawit",
+    "method": "concept-sketch",
+    "outputs": [
+      "media/complete/dal-p36-i03-640.webp",
+      "media/complete/dal-p36-i03-1280.webp",
+      "media/complete/dal-p36-i03-full.webp"
+    ],
+    "destination": "dalawit.html#development"
+  },
+  {
+    "name": "Concept sketch 3",
+    "coverage_id": "DAL-P36-I04",
+    "page": 36,
+    "project": "Dalawit",
+    "method": "concept-sketch",
+    "outputs": [
+      "media/complete/dal-p36-i04-640.webp",
+      "media/complete/dal-p36-i04-1280.webp",
+      "media/complete/dal-p36-i04-full.webp"
+    ],
+    "destination": "dalawit.html#development"
+  },
+  {
+    "name": "Concept development sequence",
+    "coverage_id": "DAL-P36-DIAGRAM",
+    "page": 36,
+    "project": "Dalawit",
+    "method": "vector-composition",
+    "outputs": [
+      "media/complete/dal-concept-sequence-640.webp",
+      "media/complete/dal-concept-sequence-1280.webp",
+      "media/complete/dal-concept-sequence-full.webp"
+    ],
+    "destination": "dalawit.html#concept-sequence"
+  },
+  {
+    "name": "Duplex living room and feature wall",
+    "coverage_id": "DAL-P37-I05",
+    "page": 37,
+    "project": "Dalawit",
+    "method": "design-feature",
+    "outputs": [
+      "media/complete/dal-p37-i05-640.webp",
+      "media/complete/dal-p37-i05-1280.webp",
+      "media/complete/dal-p37-i05-full.webp"
+    ],
+    "destination": "dalawit.html#features"
+  },
+  {
+    "name": "Duplex exterior and wood cladding",
+    "coverage_id": "DAL-P37-I06",
+    "page": 37,
+    "project": "Dalawit",
+    "method": "design-feature",
+    "outputs": [
+      "media/complete/dal-p37-i06-640.webp",
+      "media/complete/dal-p37-i06-1280.webp",
+      "media/complete/dal-p37-i06-full.webp"
+    ],
+    "destination": "dalawit.html#features"
+  },
+  {
+    "name": "Wood cladding",
+    "coverage_id": "DAL-P37-I01",
+    "page": 37,
+    "project": "Dalawit",
+    "method": "material",
+    "outputs": [
+      "media/complete/dal-p37-i01-640.webp",
+      "media/complete/dal-p37-i01-1280.webp",
+      "media/complete/dal-p37-i01-full.webp"
+    ],
+    "destination": "dalawit.html#materials"
+  },
+  {
+    "name": "Natural stone finish",
+    "coverage_id": "DAL-P37-I02",
+    "page": 37,
+    "project": "Dalawit",
+    "method": "material",
+    "outputs": [
+      "media/complete/dal-p37-i02-640.webp",
+      "media/complete/dal-p37-i02-1280.webp",
+      "media/complete/dal-p37-i02-full.webp"
+    ],
+    "destination": "dalawit.html#materials"
+  },
+  {
+    "name": "Low-E glass",
+    "coverage_id": "DAL-P37-I03",
+    "page": 37,
+    "project": "Dalawit",
+    "method": "material",
+    "outputs": [
+      "media/complete/dal-p37-i03-640.webp",
+      "media/complete/dal-p37-i03-1280.webp",
+      "media/complete/dal-p37-i03-full.webp"
+    ],
+    "destination": "dalawit.html#materials"
+  },
+  {
+    "name": "Woven bamboo panels",
+    "coverage_id": "DAL-P37-I04",
+    "page": 37,
+    "project": "Dalawit",
+    "method": "material",
+    "outputs": [
+      "media/complete/dal-p37-i04-640.webp",
+      "media/complete/dal-p37-i04-1280.webp",
+      "media/complete/dal-p37-i04-full.webp"
+    ],
+    "destination": "dalawit.html#materials"
+  },
+  {
+    "name": "Textured concrete",
+    "coverage_id": "DAL-P37-I07",
+    "page": 37,
+    "project": "Dalawit",
+    "method": "material",
+    "outputs": [
+      "media/complete/dal-p37-i07-640.webp",
+      "media/complete/dal-p37-i07-1280.webp",
+      "media/complete/dal-p37-i07-full.webp"
+    ],
+    "destination": "dalawit.html#materials"
+  },
+  {
+    "name": "Development-control rendering",
+    "coverage_id": "DAL-P38-I01",
+    "page": 38,
+    "project": "Dalawit",
+    "method": "image",
+    "outputs": [
+      "media/complete/dal-p38-i01-640.webp",
+      "media/complete/dal-p38-i01-1280.webp",
+      "media/complete/dal-p38-i01-full.webp"
+    ],
+    "destination": "dalawit.html#controls"
+  },
+  {
+    "name": "Site development plan",
+    "coverage_id": "DAL-P39-SHEET",
+    "page": 39,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p39-sheet-640.webp",
+      "media/complete/dal-p39-sheet-1280.webp",
+      "media/complete/dal-p39-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#site-plans"
+  },
+  {
+    "name": "Site development plan",
+    "coverage_id": "DAL-P39-I01",
+    "page": 39,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p39-sheet-640.webp",
+      "media/complete/dal-p39-sheet-1280.webp",
+      "media/complete/dal-p39-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#site-plans"
+  },
+  {
+    "name": "Plan on site - Duplex unit",
+    "coverage_id": "DAL-P40-SHEET",
+    "page": 40,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p40-sheet-640.webp",
+      "media/complete/dal-p40-sheet-1280.webp",
+      "media/complete/dal-p40-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#plan-40"
+  },
+  {
+    "name": "Plan on site - Duplex unit",
+    "coverage_id": "DAL-P40-I01",
+    "page": 40,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p40-sheet-640.webp",
+      "media/complete/dal-p40-sheet-1280.webp",
+      "media/complete/dal-p40-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#plan-40"
+  },
+  {
+    "name": "Second floor plan - Duplex unit",
+    "coverage_id": "DAL-P41-SHEET",
+    "page": 41,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p41-sheet-640.webp",
+      "media/complete/dal-p41-sheet-1280.webp",
+      "media/complete/dal-p41-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#plan-41"
+  },
+  {
+    "name": "Second floor plan - Duplex unit",
+    "coverage_id": "DAL-P41-I01",
+    "page": 41,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p41-sheet-640.webp",
+      "media/complete/dal-p41-sheet-1280.webp",
+      "media/complete/dal-p41-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#plan-41"
+  },
+  {
+    "name": "Interior feature wall",
+    "coverage_id": "DAL-P42-I01",
+    "page": 42,
+    "project": "Dalawit",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/dal-p42-i01-640.webp",
+      "media/complete/dal-p42-i01-1280.webp",
+      "media/complete/dal-p42-i01-full.webp"
+    ],
+    "destination": "dalawit.html#perspectives"
+  },
+  {
+    "name": "Dalawit perspective 2",
+    "coverage_id": "DAL-P43-I01",
+    "page": 43,
+    "project": "Dalawit",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/dal-p43-i01-640.webp",
+      "media/complete/dal-p43-i01-1280.webp",
+      "media/complete/dal-p43-i01-full.webp"
+    ],
+    "destination": "dalawit.html#perspective-43-1"
+  },
+  {
+    "name": "Dalawit perspective 3",
+    "coverage_id": "DAL-P43-I02",
+    "page": 43,
+    "project": "Dalawit",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/dal-p43-i02-640.webp",
+      "media/complete/dal-p43-i02-1280.webp",
+      "media/complete/dal-p43-i02-full.webp"
+    ],
+    "destination": "dalawit.html#perspective-43-2"
+  },
+  {
+    "name": "Dalawit perspective 4",
+    "coverage_id": "DAL-P43-I03",
+    "page": 43,
+    "project": "Dalawit",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/dal-p43-i03-640.webp",
+      "media/complete/dal-p43-i03-1280.webp",
+      "media/complete/dal-p43-i03-full.webp"
+    ],
+    "destination": "dalawit.html#perspective-43-3"
+  },
+  {
+    "name": "Dalawit perspective 5",
+    "coverage_id": "DAL-P43-I04",
+    "page": 43,
+    "project": "Dalawit",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/dal-p43-i04-640.webp",
+      "media/complete/dal-p43-i04-1280.webp",
+      "media/complete/dal-p43-i04-full.webp"
+    ],
+    "destination": "dalawit.html#perspective-43-4"
+  },
+  {
+    "name": "Dalawit perspective 6",
+    "coverage_id": "DAL-P43-I05",
+    "page": 43,
+    "project": "Dalawit",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/dal-p43-i05-640.webp",
+      "media/complete/dal-p43-i05-1280.webp",
+      "media/complete/dal-p43-i05-full.webp"
+    ],
+    "destination": "dalawit.html#perspective-43-5"
+  },
+  {
+    "name": "Dalawit perspective 7",
+    "coverage_id": "DAL-P44-I01",
+    "page": 44,
+    "project": "Dalawit",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/dal-p44-i01-640.webp",
+      "media/complete/dal-p44-i01-1280.webp",
+      "media/complete/dal-p44-i01-full.webp"
+    ],
+    "destination": "dalawit.html#perspective-44-1"
+  },
+  {
+    "name": "Dalawit perspective 8",
+    "coverage_id": "DAL-P44-I02",
+    "page": 44,
+    "project": "Dalawit",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/dal-p44-i02-640.webp",
+      "media/complete/dal-p44-i02-1280.webp",
+      "media/complete/dal-p44-i02-full.webp"
+    ],
+    "destination": "dalawit.html#perspective-44-2"
+  },
+  {
+    "name": "Dalawit perspective 9",
+    "coverage_id": "DAL-P44-I03",
+    "page": 44,
+    "project": "Dalawit",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/dal-p44-i03-640.webp",
+      "media/complete/dal-p44-i03-1280.webp",
+      "media/complete/dal-p44-i03-full.webp"
+    ],
+    "destination": "dalawit.html#perspective-44-3"
+  },
+  {
+    "name": "Dalawit perspective 10",
+    "coverage_id": "DAL-P45-I01",
+    "page": 45,
+    "project": "Dalawit",
+    "method": "perspective",
+    "outputs": [
+      "media/complete/dal-p45-i01-640.webp",
+      "media/complete/dal-p45-i01-1280.webp",
+      "media/complete/dal-p45-i01-full.webp"
+    ],
+    "destination": "dalawit.html#perspective-45-1"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "DAL-P46-SHEET",
+    "page": 46,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p46-sheet-640.webp",
+      "media/complete/dal-p46-sheet-1280.webp",
+      "media/complete/dal-p46-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "DAL-P46-I01",
+    "page": 46,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p46-sheet-640.webp",
+      "media/complete/dal-p46-sheet-1280.webp",
+      "media/complete/dal-p46-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "DAL-P46-I02",
+    "page": 46,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p46-sheet-640.webp",
+      "media/complete/dal-p46-sheet-1280.webp",
+      "media/complete/dal-p46-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "DAL-P46-I03",
+    "page": 46,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p46-sheet-640.webp",
+      "media/complete/dal-p46-sheet-1280.webp",
+      "media/complete/dal-p46-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "DAL-P46-I04",
+    "page": 46,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p46-sheet-640.webp",
+      "media/complete/dal-p46-sheet-1280.webp",
+      "media/complete/dal-p46-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#elevations"
+  },
+  {
+    "name": "Building elevations",
+    "coverage_id": "DAL-P46-I05",
+    "page": 46,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p46-sheet-640.webp",
+      "media/complete/dal-p46-sheet-1280.webp",
+      "media/complete/dal-p46-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#elevations"
+  },
+  {
+    "name": "Front elevation",
+    "coverage_id": "DAL-P46-D01",
+    "page": 46,
+    "project": "Dalawit",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/dal-p46-drawing-1-640.webp",
+      "media/complete/dal-p46-drawing-1-1280.webp",
+      "media/complete/dal-p46-drawing-1-full.webp"
+    ],
+    "destination": "dalawit.html#elevations-1"
+  },
+  {
+    "name": "Rear elevation",
+    "coverage_id": "DAL-P46-D02",
+    "page": 46,
+    "project": "Dalawit",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/dal-p46-drawing-2-640.webp",
+      "media/complete/dal-p46-drawing-2-1280.webp",
+      "media/complete/dal-p46-drawing-2-full.webp"
+    ],
+    "destination": "dalawit.html#elevations-2"
+  },
+  {
+    "name": "Left-side elevation",
+    "coverage_id": "DAL-P46-D03",
+    "page": 46,
+    "project": "Dalawit",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/dal-p46-drawing-3-640.webp",
+      "media/complete/dal-p46-drawing-3-1280.webp",
+      "media/complete/dal-p46-drawing-3-full.webp"
+    ],
+    "destination": "dalawit.html#elevations-3"
+  },
+  {
+    "name": "Right-side elevation",
+    "coverage_id": "DAL-P46-D04",
+    "page": 46,
+    "project": "Dalawit",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/dal-p46-drawing-4-640.webp",
+      "media/complete/dal-p46-drawing-4-1280.webp",
+      "media/complete/dal-p46-drawing-4-full.webp"
+    ],
+    "destination": "dalawit.html#elevations-4"
+  },
+  {
+    "name": "Building sections",
+    "coverage_id": "DAL-P47-SHEET",
+    "page": 47,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p47-sheet-640.webp",
+      "media/complete/dal-p47-sheet-1280.webp",
+      "media/complete/dal-p47-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#sections"
+  },
+  {
+    "name": "Building sections",
+    "coverage_id": "DAL-P47-I01",
+    "page": 47,
+    "project": "Dalawit",
+    "method": "Final composited source sheet retains all vector annotations and raster layers.",
+    "outputs": [
+      "media/complete/dal-p47-sheet-640.webp",
+      "media/complete/dal-p47-sheet-1280.webp",
+      "media/complete/dal-p47-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#sections"
+  },
+  {
+    "name": "Longitudinal section",
+    "coverage_id": "DAL-P47-D01",
+    "page": 47,
+    "project": "Dalawit",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/dal-p47-drawing-1-640.webp",
+      "media/complete/dal-p47-drawing-1-1280.webp",
+      "media/complete/dal-p47-drawing-1-full.webp"
+    ],
+    "destination": "dalawit.html#sections-1"
+  },
+  {
+    "name": "Cross section",
+    "coverage_id": "DAL-P47-D02",
+    "page": 47,
+    "project": "Dalawit",
+    "method": "individual-drawing",
+    "outputs": [
+      "media/complete/dal-p47-drawing-2-640.webp",
+      "media/complete/dal-p47-drawing-2-1280.webp",
+      "media/complete/dal-p47-drawing-2-full.webp"
+    ],
+    "destination": "dalawit.html#sections-2"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "DAL-P36-SHEET",
+    "page": 36,
+    "project": "Dalawit",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/dal-p36-sheet-640.webp",
+      "media/complete/dal-p36-sheet-1280.webp",
+      "media/complete/dal-p36-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "DAL-P37-SHEET",
+    "page": 37,
+    "project": "Dalawit",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/dal-p37-sheet-640.webp",
+      "media/complete/dal-p37-sheet-1280.webp",
+      "media/complete/dal-p37-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "DAL-P38-SHEET",
+    "page": 38,
+    "project": "Dalawit",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/dal-p38-sheet-640.webp",
+      "media/complete/dal-p38-sheet-1280.webp",
+      "media/complete/dal-p38-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "DAL-P42-SHEET",
+    "page": 42,
+    "project": "Dalawit",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/dal-p42-sheet-640.webp",
+      "media/complete/dal-p42-sheet-1280.webp",
+      "media/complete/dal-p42-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "DAL-P43-SHEET",
+    "page": 43,
+    "project": "Dalawit",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/dal-p43-sheet-640.webp",
+      "media/complete/dal-p43-sheet-1280.webp",
+      "media/complete/dal-p43-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "DAL-P44-SHEET",
+    "page": 44,
+    "project": "Dalawit",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/dal-p44-sheet-640.webp",
+      "media/complete/dal-p44-sheet-1280.webp",
+      "media/complete/dal-p44-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#source-sheets"
+  },
+  {
+    "name": "Original source sheet with all annotations",
+    "coverage_id": "DAL-P45-SHEET",
+    "page": 45,
+    "project": "Dalawit",
+    "method": "Supplementary source sheet. Every independent drawing, image, narrative, and data row is also presented above.",
+    "outputs": [
+      "media/complete/dal-p45-sheet-640.webp",
+      "media/complete/dal-p45-sheet-1280.webp",
+      "media/complete/dal-p45-sheet-full.webp"
+    ],
+    "destination": "dalawit.html#source-sheets"
   }
 ]

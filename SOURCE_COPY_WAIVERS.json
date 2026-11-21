@@ -1,0 +1,17 @@
+[
+  {
+    "check": "copy-slop-word",
+    "target": "beacon",
+    "reason": "The client explicitly requires all original project content. Beacon is keyword 4 on physical PDF page 4, so removing it would omit source content."
+  },
+  {
+    "check": "copy-stock-phrase",
+    "target": "not only academic",
+    "reason": "This exact wording is part of the complete Lakbay concept narrative on physical PDF page 19. The client's explicit source-completeness instruction requires preserving it."
+  },
+  {
+    "check": "copy-slop-word",
+    "target": "intricate",
+    "reason": "Intricate is in the original Dalawit feature-wall explanation on physical PDF page 42. The client requires the full source explanation rather than an edited marketing summary."
+  }
+]
